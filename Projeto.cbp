@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Clientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Clientes.h" />
+		<Unit filename="CssC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CssC.h" />
+		<Unit filename="Essentials.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Essentials.h" />
+		<Unit filename="Hash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Hash.h" />
+		<Unit filename="Lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Lista.h" />
+		<Unit filename="Livros.txt" />
+		<Unit filename="Logs.txt" />
+		<Unit filename="Projeto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Projeto.cbp" />
+		<Unit filename="Requisicoes.txt" />
+		<Unit filename="Requisitantes.txt" />
+		<Unit filename="Texto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Texto.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

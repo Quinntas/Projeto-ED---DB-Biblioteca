@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1587383807 source:c:\users\caioq\desktop\nova pasta\projeto\hash.c
+	"Hash.h"
+
+1587383790 c:\users\caioq\desktop\nova pasta\projeto\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+
+1587646434 c:\users\caioq\desktop\nova pasta\projeto\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1587850127 source:c:\users\caioq\desktop\nova pasta\projeto\lista.c
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+	"Texto.h"
+
+1587052071 c:\users\caioq\desktop\nova pasta\projeto\essentials.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1588002568 source:c:\users\caioq\desktop\nova pasta\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+	"Texto.h"
+	"CssC.h"
+	"Hash.h"
+
+1588002690 c:\users\caioq\desktop\nova pasta\projeto\texto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Lista.h"
+
+1587484451 source:c:\users\caioq\desktop\nova pasta\projeto\essentials.c
+	"Essentials.h"
+
+1588002855 source:c:\users\caioq\desktop\nova pasta\projeto\texto.c
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+	<stdlib.h>
+
+1588002778 source:c:\users\caioq\desktop\nova pasta\projeto\cssc.c
+	"CssC.h"
+	"Essentials.h"
+
+1587132716 c:\users\caioq\desktop\nova pasta\projeto\cssc.h
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1587144836 source:c:\users\caioq\desktop\nova pasta\projeto\pilha.c
+	"Pilha.h"
+
+1587148678 c:\users\caioq\desktop\nova pasta\projeto\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Lista.h"
+	"Essentials.h"
+	"Texto.h"
+
+1591614799 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\cssc.c
+	"CssC.h"
+	"Essentials.h"
+
+1589880260 c:\users\caioq\onedrive - estgv\nova pasta\projeto\cssc.h
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1590016199 c:\users\caioq\onedrive - estgv\nova pasta\projeto\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1589880255 c:\users\caioq\onedrive - estgv\nova pasta\projeto\essentials.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1589880733 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\essentials.c
+	"Essentials.h"
+
+1591614266 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\hash.c
+	"Hash.h"
+
+1589880516 c:\users\caioq\onedrive - estgv\nova pasta\projeto\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+	"Texto.h"
+
+1591614365 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\lista.c
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+	"Texto.h"
+
+1589536615 c:\users\caioq\onedrive - estgv\nova pasta\projeto\texto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Lista.h"
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+
+1590362719 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\texto.c
+	"Texto.h"
+
+1591614711 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+	"Texto.h"
+	"CssC.h"
+	"Hash.h"
+	"Clientes.h"
+
+1591614694 source:c:\users\caioq\onedrive - estgv\nova pasta\projeto\clientes.c
+	"Clientes.h"
+
+1590016208 c:\users\caioq\onedrive - estgv\nova pasta\projeto\clientes.h
+	"Lista.h"
+	"Essentials.h"
+	"Texto.h"
+
+1591614694 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\clientes.c
+	"Clientes.h"
+
+1590016208 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\clientes.h
+	"Lista.h"
+	"Essentials.h"
+	"Texto.h"
+
+1590016199 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1589880255 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\essentials.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1589536615 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\texto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Lista.h"
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+
+1589880516 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+	"Texto.h"
+
+1591614799 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\cssc.c
+	"CssC.h"
+	"Essentials.h"
+
+1589880260 c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\cssc.h
+	<Windows.h>
+	<unistd.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1589880733 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\essentials.c
+	"Essentials.h"
+
+1593420313 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\hash.c
+	"Hash.h"
+
+1591614365 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\lista.c
+	"Lista.h"
+	"Essentials.h"
+	"Hash.h"
+	"Texto.h"
+
+1593420934 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Essentials.h"
+	"Lista.h"
+	"Texto.h"
+	"CssC.h"
+	"Hash.h"
+	"Clientes.h"
+
+1590362719 source:c:\users\caioq\onedrive - estgv\projeto ed - caio quintas 18433, david almeida 18707, monica teixeira 16300\texto.c
+	"Texto.h"
+

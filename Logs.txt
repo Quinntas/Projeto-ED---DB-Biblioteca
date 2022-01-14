@@ -1,0 +1,1826 @@
+
+$ Logs limpos
+
+$ Programa Iniciado no dia 6/4/2020 as 18:50:55 
+
+$ Programa Iniciado no dia 6/4/2020 as 18:52:30 
+
+$ Programa Iniciado no dia 6/4/2020 as 18:54:55 
+
+$ Programa Iniciado no dia 6/4/2020 as 19:35:28 
+
+$ Programa Iniciado no dia 6/4/2020 as 19:42:15 
+
+$ Programa Iniciado no dia 6/4/2020 as 19:45:3 
+
+$ Programa Iniciado no dia 6/4/2020 as 19:48:1 
+
+$ Programa Iniciado no dia 6/4/2020 as 20:0:34 
+
+$ Programa Iniciado no dia 7/4/2020 as 2:21:47 
+
+$ Programa Iniciado no dia 7/4/2020 as 2:23:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:22:52 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:24:58 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:25:49 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:33:50 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:35:26 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:36:6 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:37:30 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:39:3 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:40:27 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:43:23 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:49:27 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:51:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:54:44 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:55:22 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:56:23 
+
+$ Programa Iniciado no dia 7/4/2020 as 3:57:34 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:5:22 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:7:46 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:8:50 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:9:30 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:10:49 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:15:51 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:18:11 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:30:48 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:33:29 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:35:34 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:37:43 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:38:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 4:40:7 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:4:42 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:5:1 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:6:51 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:10:0 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:10:44 
+
+$ Programa Iniciado no dia 7/4/2020 as 5:34:27 
+
+$ Programa Iniciado no dia 7/4/2020 as 6:29:54 
+
+$ Programa Iniciado no dia 7/4/2020 as 6:47:11 
+
+$ Programa Iniciado no dia 7/4/2020 as 6:49:25 
+
+$ Programa Iniciado no dia 7/4/2020 as 6:51:0 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:6:16 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:10:58 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:12:13 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:16:8 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:16:35 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:17:43 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:19:12 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:20:57 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:26:54 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:27:45 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:33:55 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:34:1 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:38:32 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:40:45 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:44:35 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:47:1 
+
+$ Programa Iniciado no dia 7/4/2020 as 7:49:43 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:2:32 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:3:44 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:5:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:7:38 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:8:39 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:11:17 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:13:52 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:15:24 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:15:47 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:17:41 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:20:58 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:21:19 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:21:36 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:22:6 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:22:49 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:23:15 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:23:51 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:24:5 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:37:44 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:39:20 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:48:52 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:52:3 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:54:39 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:56:5 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:57:0 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:57:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 8:59:28 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:1:9 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:3:59 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:7:37 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:10:4 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:14:58 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:20:52 
+
+$ Programa Iniciado no dia 7/4/2020 as 9:26:13 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:0:14 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:15:36 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:16:27 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:18:52 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:33:36 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:34:29 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:34:57 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:37:5 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:37:55 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:43:32 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:45:16 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:47:30 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:51:45 
+
+$ Programa Iniciado no dia 7/4/2020 as 21:52:3 
+
+$ Programa Iniciado no dia 7/4/2020 as 22:39:28 
+
+$ Programa Iniciado no dia 7/4/2020 as 22:45:47 
+
+$ Programa Iniciado no dia 7/4/2020 as 22:48:51 
+
+$ Programa Iniciado no dia 7/4/2020 as 22:50:7 
+
+$ Programa Iniciado no dia 7/4/2020 as 22:58:9 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:4:1 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:12:53 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:18:33 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:18:56 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:20:58 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:24:0 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:26:33 
+
+$ Programa Iniciado no dia 7/4/2020 as 23:33:42 
+
+$ Programa Iniciado no dia 8/4/2020 as 3:32:4 
+
+$ Programa Iniciado no dia 8/4/2020 as 3:38:17 
+
+$ Programa Iniciado no dia 8/4/2020 as 3:58:48 
+
+$ Programa Iniciado no dia 8/4/2020 as 4:0:15 
+
+$ Programa Iniciado no dia 8/4/2020 as 4:8:24 
+
+$ Programa Iniciado no dia 8/4/2020 as 19:42:4 
+
+$ Programa Iniciado no dia 8/4/2020 as 19:49:34 
+
+$ Programa Iniciado no dia 8/4/2020 as 19:50:54 
+
+$ Programa Iniciado no dia 9/4/2020 as 21:21:32 
+
+$ Programa Iniciado no dia 9/4/2020 as 21:56:3 
+
+$ Programa Iniciado no dia 9/4/2020 as 23:31:5 
+
+$ Programa Iniciado no dia 10/4/2020 as 2:27:28 
+
+$ Programa Iniciado no dia 10/4/2020 as 3:29:0 
+
+$ Programa Iniciado no dia 10/4/2020 as 4:2:56 
+
+$ Programa Iniciado no dia 10/4/2020 as 4:5:57 
+
+$ Programa Iniciado no dia 10/4/2020 as 5:14:24 
+
+$ Programa Iniciado no dia 10/4/2020 as 5:17:28 
+
+$ Programa Iniciado no dia 10/4/2020 as 5:17:51 
+
+$ Programa Iniciado no dia 10/4/2020 as 5:18:40 
+
+$ Programa Iniciado no dia 10/4/2020 as 5:19:43 
+
+$ Programa Iniciado no dia 10/4/2020 as 6:46:49 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:6:59 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:8:51 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:11:20 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:43:35 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:59:37 
+
+$ Programa Iniciado no dia 10/4/2020 as 8:59:59 
+
+$ Programa Iniciado no dia 10/4/2020 as 9:18:56 
+
+| 9:19:55 | - Livro adcionado
+
+$ Programa Iniciado no dia 10/4/2020 as 9:23:7 
+
+$ Programa Iniciado no dia 10/4/2020 as 9:24:39 
+
+$ Programa Iniciado no dia 10/4/2020 as 9:25:43 
+
+| 9:26:22 | - Requisitante adcionado
+
+$ Programa Iniciado no dia 10/4/2020 as 23:38:32 
+
+$ Programa Iniciado no dia 10/4/2020 as 23:42:11 
+
+$ Programa Iniciado no dia 10/4/2020 as 23:49:1 
+
+$ Programa Iniciado no dia 10/4/2020 as 23:49:37 
+
+| 23:49:51 | - Requisitante adcionado
+
+$ Programa Iniciado no dia 10/4/2020 as 23:50:39 
+
+$ Programa Iniciado no dia 10/4/2020 as 23:51:42 
+
+$ Programa Iniciado no dia 11/4/2020 as 0:7:26 
+
+$ Programa Iniciado no dia 11/4/2020 as 0:9:14 
+
+| 0:9:43 | - Requisitante adcionado
+
+$ Programa Iniciado no dia 11/4/2020 as 0:25:21 
+
+$ Programa Iniciado no dia 11/4/2020 as 0:44:20 
+
+$ Programa Iniciado no dia 11/4/2020 as 1:33:48 
+
+$ Programa Iniciado no dia 11/4/2020 as 1:42:54 
+
+$ Programa Iniciado no dia 11/4/2020 as 1:47:35 
+
+$ Programa Iniciado no dia 11/4/2020 as 2:14:32 
+
+$ Programa Iniciado no dia 11/4/2020 as 2:15:54 
+
+$ Programa Iniciado no dia 11/4/2020 as 2:21:36 
+
+$ Programa Iniciado no dia 11/4/2020 as 2:25:18 
+
+$ Programa Iniciado no dia 11/4/2020 as 3:16:0 
+
+$ Programa Iniciado no dia 11/4/2020 as 4:25:51 
+
+$ Programa Iniciado no dia 11/4/2020 as 4:54:24 
+
+$ Programa Iniciado no dia 11/4/2020 as 5:1:4 
+
+$ Programa Iniciado no dia 11/4/2020 as 5:4:19 
+
+$ Programa Iniciado no dia 11/4/2020 as 5:8:27 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:1:37 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:3:1 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:4:3 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:4:51 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:5:57 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:6:53 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:7:37 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:9:4 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:10:12 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:10:22 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:10:36 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:10:52 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:11:5 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:11:14 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:11:22 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:11:44 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:13:39 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:14:13 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:19:32 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:22:13 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:26:48 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:29:23 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:29:57 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:33:45 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:34:41 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:38:38 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:43:0 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:44:4 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:45:57 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:46:14 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:50:54 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:52:57 
+
+$ Programa Iniciado no dia 11/4/2020 as 7:59:29 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:7:22 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:14:8 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:15:17 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:15:27 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:15:50 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:16:15 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:16:28 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:16:50 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:17:10 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:17:39 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:20:24 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:20:27 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:21:53 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:22:40 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:23:7 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:23:22 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:23:52 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:24:32 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:25:35 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:25:52 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:26:13 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:26:59 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:27:28 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:27:46 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:28:8 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:33:21 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:34:8 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:34:24 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:35:16 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:39:4 
+
+$ Programa Iniciado no dia 11/4/2020 as 8:43:27 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:5:56 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:10:44 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:25:40 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:27:0 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:40:48 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:41:53 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:45:54 
+
+| 9:46:5 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 9:48:18 
+
+$ Programa Iniciado no dia 11/4/2020 as 9:51:43 
+
+| 18:2:45 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 18:2:45 
+
+| 18:11:17 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 18:11:17 
+
+| 18:14:47 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 18:14:47 
+
+| 18:20:25 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 18:20:25 
+
+| 23:35:19 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 11/4/2020 as 23:35:20 
+
+| 20:11:8 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 12/4/2020 as 20:11:8 
+
+| 14:54:24 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 14:54:24 
+
+| 15:28:41 | - Tabela Hash criada
+
+| 15:30:57 | - Tabela Hash criada
+
+| 15:31:14 | - Tabela Hash criada
+
+| 15:33:18 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 15:33:19 
+
+| 15:48:53 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 15:48:53 
+
+| 15:49:13 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 15:49:13 
+
+| 15:51:41 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 15:51:42 
+
+| 16:22:38 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:22:38 
+
+| 16:22:58 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:22:58 
+
+| 16:24:11 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:24:11 
+
+| 16:27:9 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:27:9 
+
+| 16:27:48 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:27:48 
+
+| 16:35:10 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:35:10 
+
+| 16:42:14 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 16:42:14 
+
+| 17:23:8 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:23:9 
+
+| 17:24:37 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:24:37 
+
+| 17:27:6 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:27:7 
+
+| 17:27:55 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:27:55 
+
+| 17:32:39 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:32:40 
+
+| 17:33:46 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:33:46 
+
+| 17:34:25 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:34:25 
+
+| 17:36:28 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:36:28 
+
+| 17:38:10 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:38:10 
+
+| 17:41:13 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:41:13 
+
+| 17:42:47 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:42:48 
+
+| 17:43:22 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:43:22 
+
+| 17:44:32 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:44:32 
+
+| 17:45:20 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 17:45:20 
+
+| 19:5:42 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:5:42 
+
+| 19:5:49 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:5:49 
+
+| 19:8:5 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:8:5 
+
+| 19:9:7 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:9:7 
+
+| 19:14:47 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:14:47 
+
+| 19:21:58 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:21:58 
+
+| 19:22:40 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:22:40 
+
+| 19:23:19 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:23:19 
+
+| 19:23:23 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:23:23 
+
+| 19:24:13 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:24:13 
+
+| 19:24:56 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:24:56 
+
+| 19:25:57 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:25:57 
+
+| 19:27:56 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:27:56 
+
+| 19:31:44 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:31:44 
+
+| 19:33:18 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:33:18 
+
+| 19:34:58 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:34:58 
+
+| 19:35:16 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:35:16 
+
+| 19:46:21 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:46:21 
+
+| 19:50:0 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:50:0 
+
+| 19:53:18 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 19:53:18 
+
+| 20:0:21 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 14/4/2020 as 20:0:21 
+
+| 1:51:33 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 1:51:34 
+
+| 2:2:16 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 2:2:17 
+
+| 2:6:48 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 2:6:48 
+
+| 10:45:18 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 10:45:18 
+
+| 10:46:42 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 10:46:43 
+
+| 10:50:18 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 10:50:19 
+
+| 11:34:38 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 11:34:40 
+
+| 11:38:43 | - Tabela Hash criada
+
+| 11:39:5 | - Tabela Hash criada
+
+| 11:40:50 | - Tabela Hash criada
+
+| 11:40:55 | - Tabela Hash criada
+
+| 11:41:31 | - Tabela Hash criada
+
+| 11:42:29 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 11:42:29 
+
+| 12:10:0 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 12:10:0 
+
+| 12:20:48 | - Tabela Hash criada
+
+$ Programa Iniciado no dia 15/4/2020 as 12:20:48 
+
+$ Programa Iniciado no dia 15/4/2020 as 12:25:23 
+
+$ Programa Iniciado no dia 15/4/2020 as 13:5:57 
+
+$ Programa Iniciado no dia 15/4/2020 as 20:50:48 
+
+$ Programa Iniciado no dia 15/4/2020 as 20:52:39 
+
+$ Programa Iniciado no dia 15/4/2020 as 20:53:52 
+
+$ Programa Iniciado no dia 15/4/2020 as 20:54:36 
+
+$ Programa Iniciado no dia 15/4/2020 as 20:56:50 
+
+$ Programa Iniciado no dia 16/4/2020 as 14:10:34 
+
+$ Programa Iniciado no dia 16/4/2020 as 14:17:24 
+
+$ Programa Iniciado no dia 16/4/2020 as 15:32:11 
+
+$ Programa Iniciado no dia 16/4/2020 as 16:19:53 
+
+$ Programa Iniciado no dia 16/4/2020 as 16:22:44 
+
+$ Programa Iniciado no dia 16/4/2020 as 16:25:13 
+
+$ Programa Iniciado no dia 16/4/2020 as 16:26:5 
+
+$ Programa Iniciado no dia 16/4/2020 as 17:39:13 
+
+$ Programa Iniciado no dia 16/4/2020 as 17:40:53 
+
+$ Programa Iniciado no dia 16/4/2020 as 17:55:30 
+
+$ Programa Iniciado no dia 16/4/2020 as 17:57:41 
+
+$ Programa Iniciado no dia 16/4/2020 as 18:1:20 
+
+$ Programa Iniciado no dia 16/4/2020 as 18:3:4 
+
+$ Programa Iniciado no dia 16/4/2020 as 18:4:28 
+
+$ Programa Iniciado no dia 16/4/2020 as 18:35:29 
+
+$ Programa Iniciado no dia 16/4/2020 as 18:36:8 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:16:25 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:19:11 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:27:12 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:28:51 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:32:0 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:32:12 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:35:37 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:37:20 
+
+$ Programa Iniciado no dia 16/4/2020 as 22:48:23 
+
+| 22:48:32 16/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 16/4/2020 as 22:54:43 
+
+| 22:56:12 16/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 16/4/2020 as 22:57:47 
+
+$ Programa Iniciado no dia 17/4/2020 as 9:39:23 
+
+| 9:39:25 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 16:19:12 
+
+| 16:19:50 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 16:25:16 
+
+| 16:27:24 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 16:30:39 
+
+| 16:30:40 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 16:33:46 
+
+| 16:33:48 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 18:24:29 
+
+| 18:24:32 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 18:34:29 
+
+| 18:34:32 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 23:23:17 
+
+| 23:23:24 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 23:27:25 
+
+| 23:29:44 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 23:43:26 
+
+| 23:44:13 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 23:55:46 
+
+| 23:56:6 17/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/4/2020 as 23:59:50 
+
+| 0:0:19 18/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/4/2020 as 0:2:16 
+
+| 0:2:42 18/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:8:20 
+
+$ Programa Iniciado no dia 19/4/2020 as 15:38:22 
+
+$ Programa Iniciado no dia 19/4/2020 as 15:38:45 
+
+| 15:39:1 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:43:9 
+
+| 15:43:51 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:47:26 
+
+| 15:47:58 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:48:58 
+
+| 15:49:43 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:50:53 
+
+| 15:51:34 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 15:59:26 
+
+$ Programa Iniciado no dia 19/4/2020 as 16:0:51 
+
+| 16:1:17 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 16:2:56 
+
+| 16:3:9 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 16:15:46 
+
+$ Programa Iniciado no dia 19/4/2020 as 16:47:51 
+
+$ Programa Iniciado no dia 19/4/2020 as 16:51:2 
+
+$ Programa Iniciado no dia 19/4/2020 as 16:54:11 
+
+$ Programa Iniciado no dia 19/4/2020 as 16:55:22 
+
+| 16:55:23 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 16:55:39 
+
+| 16:55:58 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 20:26:56 
+
+| 20:27:54 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 20:30:22 
+
+$ Programa Iniciado no dia 19/4/2020 as 20:31:35 
+
+| 20:31:36 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/4/2020 as 20:40:24 
+
+$ Programa Iniciado no dia 19/4/2020 as 20:41:11 
+
+$ Programa Iniciado no dia 19/4/2020 as 20:41:31 
+
+| 20:41:32 19/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 20/4/2020 as 13:6:31 
+
+| 13:6:32 20/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 20/4/2020 as 13:30:35 
+
+| 13:30:50 20/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 16:2:55 
+
+| 16:3:46 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 16:51:42 
+
+| 16:52:20 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 16:57:17 
+
+| 16:58:1 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 17:13:11 
+
+$ Programa Iniciado no dia 21/4/2020 as 17:13:15 
+
+| 17:13:16 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 17:14:0 
+
+$ Programa Iniciado no dia 21/4/2020 as 17:14:56 
+
+| 17:14:57 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 17:24:26 
+
+| 17:24:28 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 17:25:4 
+
+| 17:25:5 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 19:59:7 
+
+$ Programa Iniciado no dia 21/4/2020 as 20:0:18 
+
+| 20:0:19 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:1:12 
+
+| 20:1:14 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:7:48 
+
+| 20:7:50 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:13:3 
+
+| 20:13:4 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:17:2 
+
+| 20:17:3 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:40:25 
+
+$ Programa Iniciado no dia 21/4/2020 as 20:41:54 
+
+| 20:42:41 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:50:52 
+
+$ Programa Iniciado no dia 21/4/2020 as 20:53:4 
+
+| 20:55:41 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 20:56:14 
+
+$ Programa Iniciado no dia 21/4/2020 as 20:59:22 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:1:49 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:2:30 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:3:39 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:9:9 
+
+| 21:13:23 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 21:15:22 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:19:18 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:21:34 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:22:29 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:23:7 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:26:5 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:27:56 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:28:28 
+
+$ Programa Iniciado no dia 21/4/2020 as 21:29:16 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:1:53 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:2:49 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:3:39 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:4:38 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:4:56 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:5:37 
+
+| 22:5:39 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:6:58 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:7:4 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:7:31 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:8:11 
+
+| 22:8:12 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:8:47 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:10:27 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:10:48 
+
+| 22:10:50 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:12:31 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:12:54 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:13:51 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:14:24 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:14:28 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:14:37 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:14:46 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:15:1 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:15:41 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:18:2 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:19:51 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:20:6 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:21:50 
+
+| 22:21:53 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:22:19 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:22:38 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:24:11 
+
+| 22:24:13 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:24:25 
+
+| 22:24:26 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:25:33 
+
+| 22:25:35 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:26:31 
+
+| 22:26:33 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 22:28:13 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:37:6 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:37:48 
+
+$ Programa Iniciado no dia 21/4/2020 as 22:38:12 
+
+| 22:38:14 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 21/4/2020 as 23:17:8 
+
+| 23:17:9 21/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 19:42:15 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:43:19 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:49:5 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:51:16 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:51:39 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:51:57 
+
+| 19:52:1 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 19:53:20 
+
+| 19:53:24 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 19:56:49 
+
+$ Programa Iniciado no dia 22/4/2020 as 19:58:32 
+
+$ Programa Iniciado no dia 22/4/2020 as 20:2:41 
+
+| 20:3:27 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 20:4:15 
+
+| 20:4:42 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 20:10:20 
+
+| 20:12:47 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 22:41:37 
+
+| 22:42:6 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 22/4/2020 as 23:13:18 
+
+| 23:13:35 22/4/2020 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:14:30 
+
+| 23/4/2020 14:14:35 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:14:44 
+
+| 23/4/2020 14:15:5 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:16:24 
+
+| 23/4/2020 14:16:39 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:50:58 
+
+| 23/4/2020 14:51:8 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:52:13 
+
+| 23/4/2020 14:52:22 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:53:33 
+
+| 23/4/2020 14:53:52 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 14:54:26 
+
+| 23/4/2020 14:55:15 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 23/4/2020 as 15:1:27 
+
+$ Programa Iniciado no dia 27/4/2020 as 1:57:19 
+
+| 27/4/2020 1:59:59 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 27/4/2020 as 16:51:36 
+
+| 27/4/2020 16:51:48 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 27/4/2020 as 17:32:54 
+
+| 27/4/2020 17:33:10 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 4/5/2020 as 3:55:43 
+
+$ Programa Iniciado no dia 15/5/2020 as 11:6:27 
+
+$ Programa Iniciado no dia 15/5/2020 as 11:30:19 
+
+$ Programa Iniciado no dia 15/5/2020 as 11:31:15 
+
+$ Programa Iniciado no dia 15/5/2020 as 11:54:52 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:2:6 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:12:5 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:12:59 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:15:47 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:17:4 
+
+$ Programa Iniciado no dia 15/5/2020 as 12:17:59 
+
+$ Programa Iniciado no dia 15/5/2020 as 19:59:42 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:2:51 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:5:18 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:8:28 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:8:32 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:9:53 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:11:58 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:13:26 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:15:9 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:28:5 
+
+$ Programa Iniciado no dia 15/5/2020 as 20:33:44 
+
+$ Programa Iniciado no dia 15/5/2020 as 21:13:3 
+
+$ Programa Iniciado no dia 15/5/2020 as 21:14:16 
+
+$ Programa Iniciado no dia 15/5/2020 as 21:19:45 
+
+$ Programa Iniciado no dia 15/5/2020 as 21:20:21 
+
+$ Programa Iniciado no dia 15/5/2020 as 21:21:24 
+
+| 15/5/2020 21:21:26 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 15/5/2020 as 21:21:49 
+
+| 15/5/2020 21:22:0 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 16/5/2020 as 0:15:2 
+
+| 16/5/2020 0:15:3 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 16/5/2020 as 5:57:57 
+
+| 16/5/2020 5:58:4 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 16/5/2020 as 5:59:39 
+
+$ Programa Iniciado no dia 16/5/2020 as 6:1:4 
+
+$ Programa Iniciado no dia 17/5/2020 as 18:20:14 
+
+$ Programa Iniciado no dia 17/5/2020 as 18:30:47 
+
+| 17/5/2020 18:30:56 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 22:45:12 
+
+| 17/5/2020 22:45:22 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 23:11:57 
+
+| 17/5/2020 23:12:7 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 23:12:41 
+
+| 17/5/2020 23:12:57 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 23:13:29 
+
+| 17/5/2020 23:13:43 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 23:17:27 
+
+$ Programa Iniciado no dia 17/5/2020 as 23:17:29 
+
+$ Programa Iniciado no dia 17/5/2020 as 23:18:2 
+
+| 17/5/2020 23:18:14 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 17/5/2020 as 23:24:6 
+
+| 17/5/2020 23:24:14 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 0:2:58 
+
+$ Programa Iniciado no dia 18/5/2020 as 0:3:17 
+
+| 18/5/2020 0:3:18 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 3:50:16 
+
+$ Programa Iniciado no dia 18/5/2020 as 3:52:12 
+
+| 18/5/2020 3:52:14 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 6:8:20 
+
+$ Programa Iniciado no dia 18/5/2020 as 19:3:51 
+
+| 18/5/2020 19:3:52 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:4:0 
+
+| 18/5/2020 19:4:2 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:6:19 
+
+| 18/5/2020 19:7:17 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:23:47 
+
+$ Programa Iniciado no dia 18/5/2020 as 19:24:4 
+
+$ Programa Iniciado no dia 18/5/2020 as 19:28:36 
+
+$ Programa Iniciado no dia 18/5/2020 as 19:30:50 
+
+| 18/5/2020 19:30:53 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:31:30 
+
+| 18/5/2020 19:31:32 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:31:51 
+
+| 18/5/2020 19:31:53 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:32:11 
+
+| 18/5/2020 19:32:12 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:33:10 
+
+| 18/5/2020 19:33:13 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:33:39 
+
+| 18/5/2020 19:33:41 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:35:24 
+
+| 18/5/2020 19:35:28 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 18/5/2020 as 19:37:12 
+
+| 18/5/2020 19:37:15 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/5/2020 as 10:14:24 
+
+| 19/5/2020 10:15:36 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/5/2020 as 10:16:57 
+
+| 19/5/2020 10:16:59 | - Programa finalizado pelo usuario
+
+| 19/5/2020 10:19:41 | - ERROR 20 - Nao ha id suficientes
+
+| 19/5/2020 10:20:3 | - ERROR 20 - Nao ha id suficientes
+
+$ Programa Iniciado no dia 19/5/2020 as 10:21:11 
+
+| 19/5/2020 10:21:20 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/5/2020 as 10:22:50 
+
+| 19/5/2020 10:22:53 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 19/5/2020 as 10:46:9 
+
+| 19/5/2020 10:46:12 | - Programa finalizado pelo usuario
+
+| 19/5/2020 10:46:14 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 19/5/2020 as 10:51:11 
+
+| 19/5/2020 10:51:26 | - Programa finalizado pelo usuario
+
+| 19/5/2020 10:51:27 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 19/5/2020 as 10:59:22 
+
+| 19/5/2020 10:59:44 | - Programa finalizado pelo usuario
+
+| 19/5/2020 10:59:46 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 21/5/2020 as 0:12:58 
+
+| 21/5/2020 0:13:17 | - Programa finalizado pelo usuario
+
+| 21/5/2020 0:13:18 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 21/5/2020 as 0:13:35 
+
+| 21/5/2020 0:17:36 | - Programa finalizado pelo usuario
+
+| 21/5/2020 0:17:37 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 21/5/2020 as 0:21:57 
+
+| 21/5/2020 0:22:9 | - Programa finalizado pelo usuario
+
+| 21/5/2020 0:22:10 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 21/5/2020 as 0:23:16 
+
+| 21/5/2020 0:23:52 | - Programa finalizado pelo usuario
+
+| 21/5/2020 0:23:53 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 24/5/2020 as 21:47:58 
+
+| 24/5/2020 21:48:8 | - Programa finalizado pelo usuario
+
+| 24/5/2020 21:48:9 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 24/5/2020 as 22:7:1 
+
+| 24/5/2020 22:7:28 | - Programa finalizado pelo usuario
+
+| 24/5/2020 22:7:29 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 24/5/2020 as 22:12:17 
+
+| 24/5/2020 22:13:16 | - Programa finalizado pelo usuario
+
+| 24/5/2020 22:13:17 | - Todos os dados foram apagados
+
+| 25/5/2020 0:10:10 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:10:31 
+
+| 25/5/2020 0:14:22 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:14:24 | - Todos os dados foram apagados
+
+| 25/5/2020 0:20:57 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:21:2 
+
+| 25/5/2020 0:21:28 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:21:30 | - Todos os dados foram apagados
+
+| 25/5/2020 0:22:34 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:22:39 
+
+| 25/5/2020 0:23:18 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:23:19 | - Todos os dados foram apagados
+
+| 25/5/2020 0:25:23 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:25:29 
+
+| 25/5/2020 0:26:42 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:26:43 | - Todos os dados foram apagados
+
+| 25/5/2020 0:29:31 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:29:36 
+
+| 25/5/2020 0:30:16 | - ERROR 13 - Hash Tables nao alocadas corretamente
+
+$ Programa Iniciado no dia 25/5/2020 as 0:30:21 
+
+$ Programa Iniciado no dia 25/5/2020 as 0:32:41 
+
+| 25/5/2020 0:33:10 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:33:11 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:35:21 
+
+| 25/5/2020 0:35:43 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:35:45 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:36:36 
+
+| 25/5/2020 0:37:2 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:37:4 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:38:11 
+
+| 25/5/2020 0:40:25 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:40:27 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:49:15 
+
+| 25/5/2020 0:49:53 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:49:54 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:56:12 
+
+| 25/5/2020 0:56:52 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:56:53 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 0:58:32 
+
+| 25/5/2020 0:59:6 | - Programa finalizado pelo usuario
+
+| 25/5/2020 0:59:7 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 25/5/2020 as 1:4:53 
+
+| 25/5/2020 1:5:9 | - Programa finalizado pelo usuario
+
+| 25/5/2020 1:5:10 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 8/6/2020 as 1:35:32 
+
+| 8/6/2020 1:36:2 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 8/6/2020 as 1:36:13 
+
+| 8/6/2020 1:36:22 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 8/6/2020 as 11:46:12 
+
+| 8/6/2020 11:47:16 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 8/6/2020 as 11:52:18 
+
+| 8/6/2020 11:55:34 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 8/6/2020 as 11:56:52 
+
+$ Programa Iniciado no dia 8/6/2020 as 11:58:45 
+
+| 8/6/2020 11:59:8 | - Programa finalizado pelo usuario
+
+$ Programa Iniciado no dia 8/6/2020 as 11:59:51 
+
+| 8/6/2020 12:0:0 | - Programa finalizado pelo usuario
+
+| 8/6/2020 12:0:1 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 8/6/2020 as 12:2:32 
+
+| 8/6/2020 12:2:42 | - Programa finalizado pelo usuario
+
+| 8/6/2020 12:2:43 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 8/6/2020 as 12:3:13 
+
+| 8/6/2020 12:3:22 | - Programa finalizado pelo usuario
+
+| 8/6/2020 12:3:24 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 8/6/2020 as 12:6:22 
+
+| 8/6/2020 12:6:32 | - Programa finalizado pelo usuario
+
+| 8/6/2020 12:6:32 | - Livros destruidos
+
+| 8/6/2020 12:6:32 | - Requisicoes destruidas
+
+| 8/6/2020 12:6:32 | - Requisitantes destruidas
+
+| 8/6/2020 12:6:32 | - Freguesias destruidas
+
+| 8/6/2020 12:6:32 | - Lista destruidos
+
+| 8/6/2020 12:6:32 | - Hash 1 destruido
+
+| 8/6/2020 12:6:32 | - Hash 2 destruido
+
+| 8/6/2020 12:6:32 | - Hash 3 destruido
+
+| 8/6/2020 12:6:33 | - Hash 4 destruido
+
+| 8/6/2020 12:6:33 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 8/6/2020 as 12:8:21 
+
+$ Programa Iniciado no dia 8/6/2020 as 12:20:21 
+
+| 8/6/2020 12:20:59 | - Programa finalizado pelo usuario
+
+| 8/6/2020 12:20:59 | - Livros destruidos
+
+| 8/6/2020 12:20:59 | - Requisicoes destruidas
+
+| 8/6/2020 12:20:59 | - Requisitantes destruidas
+
+| 8/6/2020 12:20:59 | - Freguesias destruidas
+
+| 8/6/2020 12:20:59 | - Lista destruidos
+
+| 8/6/2020 12:21:0 | - Hash 1 destruido
+
+| 8/6/2020 12:21:0 | - Hash 2 destruido
+
+| 8/6/2020 12:21:0 | - Hash 3 destruido
+
+| 8/6/2020 12:21:1 | - Hash 4 destruido
+
+| 8/6/2020 12:21:1 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 29/6/2020 as 9:12:36 
+
+| 29/6/2020 9:13:23 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:13:23 | - Livros destruidos
+
+| 29/6/2020 9:13:23 | - Requisicoes destruidas
+
+| 29/6/2020 9:13:23 | - Requisitantes destruidas
+
+| 29/6/2020 9:13:23 | - Freguesias destruidas
+
+| 29/6/2020 9:13:23 | - Lista destruidos
+
+$ Programa Iniciado no dia 29/6/2020 as 9:14:57 
+
+| 29/6/2020 9:15:7 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:15:7 | - Livros destruidos
+
+| 29/6/2020 9:15:7 | - Requisicoes destruidas
+
+| 29/6/2020 9:15:7 | - Requisitantes destruidas
+
+| 29/6/2020 9:15:7 | - Freguesias destruidas
+
+| 29/6/2020 9:15:7 | - Lista destruidos
+
+$ Programa Iniciado no dia 29/6/2020 as 9:34:31 
+
+| 29/6/2020 9:34:41 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:34:41 | - Livros destruidos
+
+| 29/6/2020 9:34:41 | - Requisicoes destruidas
+
+| 29/6/2020 9:34:41 | - Requisitantes destruidas
+
+| 29/6/2020 9:34:41 | - Freguesias destruidas
+
+| 29/6/2020 9:34:41 | - Lista destruidos
+
+$ Programa Iniciado no dia 29/6/2020 as 9:35:42 
+
+| 29/6/2020 9:35:51 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:35:51 | - Livros destruidos
+
+| 29/6/2020 9:35:51 | - Requisicoes destruidas
+
+| 29/6/2020 9:35:51 | - Requisitantes destruidas
+
+| 29/6/2020 9:35:51 | - Freguesias destruidas
+
+| 29/6/2020 9:35:51 | - Lista destruidos
+
+$ Programa Iniciado no dia 29/6/2020 as 9:44:35 
+
+| 29/6/2020 9:44:45 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:44:45 | - Livros destruidos
+
+| 29/6/2020 9:44:45 | - Requisicoes destruidas
+
+| 29/6/2020 9:44:45 | - Requisitantes destruidas
+
+| 29/6/2020 9:44:45 | - Freguesias destruidas
+
+| 29/6/2020 9:44:45 | - Lista destruidos
+
+$ Programa Iniciado no dia 29/6/2020 as 9:45:34 
+
+| 29/6/2020 9:45:49 | - Programa finalizado pelo usuario
+
+| 29/6/2020 9:45:49 | - Livros destruidos
+
+| 29/6/2020 9:45:49 | - Requisicoes destruidas
+
+| 29/6/2020 9:45:49 | - Requisitantes destruidas
+
+| 29/6/2020 9:45:49 | - Freguesias destruidas
+
+| 29/6/2020 9:45:49 | - Lista destruidos
+
+| 29/6/2020 9:45:50 | - Hash 1 destruido
+
+| 29/6/2020 9:45:50 | - Hash 2 destruido
+
+| 29/6/2020 9:45:50 | - Hash 3 destruido
+
+| 29/6/2020 9:45:50 | - Hash 4 destruido
+
+| 29/6/2020 9:45:50 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 29/6/2020 as 10:4:5 
+
+$ Programa Iniciado no dia 29/6/2020 as 10:8:24 
+
+| 29/6/2020 10:25:17 | - Programa finalizado pelo usuario
+
+| 29/6/2020 10:25:17 | - Livros destruidos
+
+| 29/6/2020 10:25:17 | - Requisicoes destruidas
+
+| 29/6/2020 10:25:17 | - Requisitantes destruidas
+
+| 29/6/2020 10:25:17 | - Freguesias destruidas
+
+| 29/6/2020 10:25:17 | - Lista destruidos
+
+| 29/6/2020 10:25:18 | - Hash 1 destruido
+
+| 29/6/2020 10:25:18 | - Hash 2 destruido
+
+| 29/6/2020 10:25:18 | - Hash 3 destruido
+
+| 29/6/2020 10:25:19 | - Hash 4 destruido
+
+| 29/6/2020 10:25:19 | - Todos os dados foram apagados
+
+$ Programa Iniciado no dia 21/7/2020 as 3:19:46 
+
+| 21/7/2020 3:20:41 | - Programa finalizado pelo usuario
+
+| 21/7/2020 3:20:41 | - Livros destruidos
+
+| 21/7/2020 3:20:41 | - Requisicoes destruidas
+
+| 21/7/2020 3:20:41 | - Requisitantes destruidas
+
+| 21/7/2020 3:20:41 | - Freguesias destruidas
+
+| 21/7/2020 3:20:41 | - Lista destruidos

@@ -1,0 +1,2883 @@
+2886
+010103	Aguada de Cima	0119	Vale de Cambra	0119	Vale de Cambra	10	LEIRIA
+010109	Fermentelos	0119	Vale de Cambra	0119	Vale de Cambra	10	LEIRIA
+010112	Macinhata do Vouga	0119	Vale de Cambra	0119	Vale de Cambra	11	LISBOA
+010119	Valongo do Vouga	0119	Vale de Cambra	0119	Vale de Cambra	11	LISBOA
+010121	Agueda e Borralha	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010122	Barro e Aguada de Baixo	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010123	Belazaima do Chao, Castanheira do Vouga e Agadao	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010124	Recardaes e Espinhel	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010125	Travasso e Ois da Ribeira	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010126	Trofa, Segadaes e Lamas do Vouga	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010127	Prestimo e Macieira de Alcoba	0119	Vale de Cambra	0119	Vale de Cambra	12	PORTALEGRE
+010202	Alquerubim	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010203	Angeja	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010204	Branca	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010206	Ribeira de Fraguas	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010209	Albergaria-A-Velha e Valmaior	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010210	Sao Joao de Loure e Frossos	0119	Vale de Cambra	0214	Vidigueira	01	AVEIRO
+010304	Avelas de Caminho	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010305	Avelas de Cima	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010307	Moita	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010309	Sangalhos	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010310	S. Lourenco do Bairro	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010312	Vila Nova de Monsarros	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010313	Vilarinho do Bairro	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010316	Amoreira da Gandara, Paredes do Bairro e Ancas	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010317	Arcos e Mogofores	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010318	Tamengos, Aguim e Ois do Bairro	0119	Vale de Cambra	0314	Vizela	01	AVEIRO
+010402	Alvarenga	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010407	Chave	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010409	Escariz	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010411	Fermedo	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010413	Mansores	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010414	Moldes	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010415	Rossas	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010416	Santa Eulalia	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010417	S. Miguel do Mato	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010418	Tropeco	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010419	Urro	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010420	Varzea	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010421	Arouca e Burgo	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010422	Cabreiros e Albergaria da Serra	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010423	Canelas e Espiunca	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010424	Covelo de Paivo e Janarde	0119	Vale de Cambra	0412	Vinhais	01	AVEIRO
+010501	Aradas	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010502	Cacia	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010505	Esgueira	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010508	Oliveirinha	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010510	S. Bernardo	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010511	S. Jacinto	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010513	Santa Joana	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010515	Eixo e Eirol	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010516	Requeixo, Nossa Senhora de Fatima e Nariz	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010517	Gloria e Vera Cruz	0119	Vale de Cambra	0511	Vila Velha de Rodao	01	AVEIRO
+010602	Fornos	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010606	Real	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010607	Santa Maria de Sardoura	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010608	S. Martinho de Sardoura	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010610	Raiva, Pedorido e Paraiso	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010611	Sobrado e Bairros	0119	Vale de Cambra	0617	Vila Nova de Poiares	01	AVEIRO
+010702	Espinho	0119	Vale de Cambra	0714	Vila Vicosa	01	AVEIRO
+010704	Paramos	0119	Vale de Cambra	0714	Vila Vicosa	01	AVEIRO
+010705	Silvalde	0119	Vale de Cambra	0714	Vila Vicosa	01	AVEIRO
+010706	Anta e Guetim	0119	Vale de Cambra	0714	Vila Vicosa	01	AVEIRO
+010801	Avanca	0119	Vale de Cambra	0816	Vila Real de Santo Antonio	01	AVEIRO
+010805	Pardilho	0119	Vale de Cambra	0816	Vila Real de Santo Antonio	01	AVEIRO
+010806	Salreu	0119	Vale de Cambra	0816	Vila Real de Santo Antonio	01	AVEIRO
+010808	Beduido e Veiros	0119	Vale de Cambra	0816	Vila Real de Santo Antonio	01	AVEIRO
+010809	Canelas e Fermela	0119	Vale de Cambra	0816	Vila Real de Santo Antonio	01	AVEIRO
+010901	Argoncilhe	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010902	Arrifana	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010904	Escapaes	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010907	Fiaes	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010908	Fornos	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010913	Lourosa	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010914	Milheiros de Poiares	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010916	Mozelos	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010917	Nogueira da Regedoura	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010918	S. Paio de Oleiros	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010919	Pacos de Brandao	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010921	Rio Meao	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010922	Romariz	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010924	Sanguedo	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010925	Santa Maria de Lamas	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010926	S. Joao de Ver	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010932	Caldas de Sao Jorge e Pigeiros	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010933	Canedo, Vale e Vila Maior	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010934	Lobao, Giao, Louredo e Guisande	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010935	Santa Maria da Feira, Travanca, Sanfins e Espargo	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+010936	Sao Miguel do Souto e Mosteiro	0119	Vale de Cambra	0914	Vila Nova de Foz Coa	01	AVEIRO
+011005	Gafanha da Encarnacao	0119	Vale de Cambra	1016	Porto de Mos	01	AVEIRO
+011006	Gafanha da Nazare	0119	Vale de Cambra	1016	Porto de Mos	01	AVEIRO
+011007	Gafanha do Carmo	0119	Vale de Cambra	1016	Porto de Mos	01	AVEIRO
+011008	Ilhavo (Sao Salvador)	0119	Vale de Cambra	1016	Porto de Mos	01	AVEIRO
+011102	Barcouco	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011103	Casal Comba	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011104	Luso	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011106	Pampilhosa	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011107	Vacarica	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011109	Mealhada, Ventosa do Bairro e Antes	0119	Vale de Cambra	1116	Odivelas	10	LEIRIA
+011201	Bunheiro	0119	Vale de Cambra	1215	Sousel	01	AVEIRO
+011202	Monte	0119	Vale de Cambra	1215	Sousel	01	AVEIRO
+011203	Murtosa	0119	Vale de Cambra	1215	Sousel	01	AVEIRO
+011204	Torreira	0119	Vale de Cambra	1215	Sousel	01	AVEIRO
+011301	Carregosa	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011302	Cesar	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011303	Fajoes	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011304	Loureiro	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011305	Macieira de Sarnes	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011310	Ossela	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011315	S. Martinho da Gandara	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011318	Sao Roque	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011319	Vila de Cucujaes	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011320	Nogueira do Cravo e Pindelo	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011321	O. Azemeis, Riba-Ul, Ul, Macinhata Seixa, Madail	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011322	Pinheiro da Bemposta, Travanca e Palmaz	0119	Vale de Cambra	1318	Trofa	01	AVEIRO
+011403	Oia	0119	Vale de Cambra	1421	Ourem	01	AVEIRO
+011404	Oliveira do Bairro	0119	Vale de Cambra	1421	Ourem	01	AVEIRO
+011405	Palhaca	0119	Vale de Cambra	1421	Ourem	01	AVEIRO
+011407	Bustos, Troviscal e Mamarrosa	0119	Vale de Cambra	1421	Ourem	01	AVEIRO
+011502	Cortegaca	0119	Vale de Cambra	1513	Sines	01	AVEIRO
+011503	Esmoriz	0119	Vale de Cambra	1513	Sines	01	AVEIRO
+011504	Maceda	0119	Vale de Cambra	1513	Sines	01	AVEIRO
+011507	Valega	0119	Vale de Cambra	1513	Sines	01	AVEIRO
+011509	Ovar, S.Joao, Arada e S.Vicente de Pereira Jusa	0119	Vale de Cambra	1513	Sines	01	AVEIRO
+011601	S. Joao da Madeira	0119	Vale de Cambra	1610	Vila Nova de Cerveira	01	AVEIRO
+011702	Couto de Esteves	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011704	Pessegueiro do Vouga	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011705	Rocas do Vouga	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011706	Sever do Vouga	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011708	Talhadas	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011710	Cedrim e Paradela	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011711	Silva Escura e Dornelas	0119	Vale de Cambra	1714	Vila Real	01	AVEIRO
+011801	Calvao	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011804	Gafanha da Boa Hora	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011805	Ouca	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011807	Soza	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011810	Santo Andre de Vagos	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011812	Fonte de Angeao e Covao do Lobo	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011813	Ponte de Vagos e Santa Catarina	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011814	Vagos e Santo Antonio	0119	Vale de Cambra	1824	Vouzel	01	AVEIRO
+011901	Aroes	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011902	Sao Pedro de Casteloes	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011903	Cepelos	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011905	Junqueira	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011906	Macieira de Cambra	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011907	Roge	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+011910	Vila Cha, Codal e Vila Cova de Perrinho	0119	Vale de Cambra	0101	Agueda	01	AVEIRO
+020102	Ervidel	0214	Vidigueira	0119	Vale de Cambra	10	LEIRIA
+020103	Messejana	0214	Vidigueira	0119	Vale de Cambra	10	LEIRIA
+020104	S. Joao de Negrilhos	0214	Vidigueira	0119	Vale de Cambra	10	LEIRIA
+020106	Aljustrel e Rio de Moinhos	0214	Vidigueira	0119	Vale de Cambra	10	LEIRIA
+020203	Rosario	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020205	Santa Cruz	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020206	S. Barnabe	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020208	Aldeia Dos Fernandes	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020209	Almodovar e Graca Dos Padroes	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020210	Santa Clara-A-Nova e Gomes Aires	0214	Vidigueira	0214	Vidigueira	01	AVEIRO
+020301	Alvito	0214	Vidigueira	0314	Vizela	01	AVEIRO
+020302	Vila Nova da Baronia	0214	Vidigueira	0314	Vizela	01	AVEIRO
+020401	Barrancos	0214	Vidigueira	0412	Vinhais	01	AVEIRO
+020502	Baleizao	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020503	Beringel	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020504	Cabeca Gorda	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020506	Nossa Senhora Das Neves	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020510	Santa Clara de Louredo	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020516	S. Matias	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020519	Albernoa e Trindade	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020520	Beja (Salvador e Santa Maria da Feira)	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020521	Beja (Santiago Maior e Sao Joao Baptista)	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020522	Salvada e Quintos	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020523	Santa Vitoria e Mombeja	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020524	Trigaches e Sao Brissos	0214	Vidigueira	0511	Vila Velha de Rodao	01	AVEIRO
+020603	Entradas	0214	Vidigueira	0617	Vila Nova de Poiares	01	AVEIRO
+020604	Santa Barbara de Padroes	0214	Vidigueira	0617	Vila Nova de Poiares	01	AVEIRO
+020605	S. Marcos da Ataboeira	0214	Vidigueira	0617	Vila Nova de Poiares	01	AVEIRO
+020606	Castro Verde e Casevel	0214	Vidigueira	0617	Vila Nova de Poiares	01	AVEIRO
+020701	Cuba	0214	Vidigueira	0714	Vila Vicosa	01	AVEIRO
+020702	Faro do Alentejo	0214	Vidigueira	0714	Vila Vicosa	01	AVEIRO
+020703	Vila Alva	0214	Vidigueira	0714	Vila Vicosa	01	AVEIRO
+020704	Vila Ruiva	0214	Vidigueira	0714	Vila Vicosa	01	AVEIRO
+020803	Figueira Dos Cavaleiros	0214	Vidigueira	0816	Vila Real de Santo Antonio	01	AVEIRO
+020804	Odivelas	0214	Vidigueira	0816	Vila Real de Santo Antonio	01	AVEIRO
+020807	Alfundao e Peroguarda	0214	Vidigueira	0816	Vila Real de Santo Antonio	01	AVEIRO
+020808	Ferreira do Alentejo e Canhestros	0214	Vidigueira	0816	Vila Real de Santo Antonio	01	AVEIRO
+020901	Alcaria Ruiva	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020902	Corte do Pinto	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020903	Espirito Santo	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020904	Mertola	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020905	Santana de Cambas	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020906	S. Joao Dos Caldeireiros	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+020910	S.Mig. Pinheiro, S.Pedro Solis, S.Sebastiao Carros	0214	Vidigueira	0914	Vila Nova de Foz Coa	01	AVEIRO
+021001	Amareleja	0214	Vidigueira	1016	Porto de Mos	01	AVEIRO
+021002	Povoa de Sao Miguel	0214	Vidigueira	1016	Porto de Mos	01	AVEIRO
+021008	Sobral da Adica	0214	Vidigueira	1016	Porto de Mos	01	AVEIRO
+021009	Santo Agostinho e Sao Joao Baptista e Santo Amador	0214	Vidigueira	1016	Porto de Mos	01	AVEIRO
+021010	Safara e Santo Aleixo da Restauracao	0214	Vidigueira	1016	Porto de Mos	01	AVEIRO
+021102	Reliquias	0214	Vidigueira	1116	Odivelas	10	LEIRIA
+021103	Saboia	0214	Vidigueira	1116	Odivelas	10	LEIRIA
+021106	S. Luis	0214	Vidigueira	1116	Odivelas	10	LEIRIA
+021107	S. Martinho Das Amoreiras	0214	Vidigueira	1116	Odivelas	10	LEIRIA
+021111	Vila Nova de Milfontes	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021115	Luzianes-Gare	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021116	Longueira/Almograve	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021117	Boavista Dos Pinheiros	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021118	Colos	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021119	Santa Clara-A-Velha	0214	Vidigueira	1116	Odivelas	11	LISBOA
+021120	Sao Salvador e Santa Maria	0214	Vidigueira	1116	Odivelas	12	PORTALEGRE
+021121	Sao Teotonio	0214	Vidigueira	1116	Odivelas	12	PORTALEGRE
+021122	Vale de Santiago	0214	Vidigueira	1116	Odivelas	12	PORTALEGRE
+021203	Ourique	0214	Vidigueira	1215	Sousel	01	AVEIRO
+021206	Santana da Serra	0214	Vidigueira	1215	Sousel	01	AVEIRO
+021207	Garvao e Santa Luzia	0214	Vidigueira	1215	Sousel	01	AVEIRO
+021208	Panoias e Conceicao	0214	Vidigueira	1215	Sousel	01	AVEIRO
+021302	Brinches	0214	Vidigueira	1318	Trofa	01	AVEIRO
+021303	Pias	0214	Vidigueira	1318	Trofa	01	AVEIRO
+021307	Vila Verde de Ficalho	0214	Vidigueira	1318	Trofa	01	AVEIRO
+021308	Serpa (Salvador e Santa Maria)	0214	Vidigueira	1318	Trofa	01	AVEIRO
+021309	Vila Nova de Sao Bento e Vale de Vargo	0214	Vidigueira	1318	Trofa	01	AVEIRO
+021401	Pedrogao	0214	Vidigueira	1421	Ourem	01	AVEIRO
+021402	Selmes	0214	Vidigueira	1421	Ourem	01	AVEIRO
+021403	Vidigueira	0214	Vidigueira	1421	Ourem	01	AVEIRO
+021404	Vila de Frades	0214	Vidigueira	1421	Ourem	01	AVEIRO
+030102	Barreiros	0314	Vizela	0119	Vale de Cambra	10	LEIRIA
+030104	Bico	0314	Vizela	0119	Vale de Cambra	10	LEIRIA
+030105	Caires	0314	Vizela	0119	Vale de Cambra	10	LEIRIA
+030107	Carrazedo	0314	Vizela	0119	Vale de Cambra	10	LEIRIA
+030108	Dornelas	0314	Vizela	0119	Vale de Cambra	10	LEIRIA
+030111	Fiscal	0314	Vizela	0119	Vale de Cambra	11	LISBOA
+030112	Goaes	0314	Vizela	0119	Vale de Cambra	11	LISBOA
+030113	Lago	0314	Vizela	0119	Vale de Cambra	11	LISBOA
+030118	Rendufe	0314	Vizela	0119	Vale de Cambra	11	LISBOA
+030119	Bouro (Santa Maria)	0314	Vizela	0119	Vale de Cambra	11	LISBOA
+030120	Bouro (Santa Marta)	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030125	Amares e Figueiredo	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030126	Caldelas, Sequeiros e Paranhos	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030127	Ferreiros, Prozelo e Besteiros	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030128	Torre e Portela	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030129	Vilela, Seramil e Paredes Secas	0314	Vizela	0119	Vale de Cambra	12	PORTALEGRE
+030201	Abade de Neiva	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030202	Aborim	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030203	Adaes	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030205	Airo	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030206	Aldreu	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030208	Alvelos	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030209	Arcozelo	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030210	Areias	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030212	Balugaes	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030213	Barcelinhos	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030215	Barqueiros	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030216	Cambeses	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030218	Carapecos	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030220	Carvalhal	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030221	Carvalhas	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030224	Cossourado	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030228	Cristelo	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030234	Fornelos	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030235	Fragoso	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030237	Gilmonde	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030242	Lama	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030243	Lijo	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030244	Macieira de Rates	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030245	Manhente	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030247	Martim	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030252	Moure	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030254	Oliveira	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030255	Palme	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030256	Panque	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030257	Paradela	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030259	Pereira	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030260	Perelhal	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030261	Pousa	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030263	Remelhe	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030264	Roriz	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030265	Rio Covo (Santa Eugenia)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030268	Galegos (Santa Maria)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030272	Galegos (S. Martinho)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030277	Tamel (S. Verissimo)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030279	Silva	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030282	Ucha	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030283	Varzea	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030287	Vila Seca	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030290	Alheira e Igreja Nova	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030291	Alvito (Sao Pedro e Sao Martinho) e Couto	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030292	Areias de Vilar e Encourados	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030293	Barcelos, V.Boa, V.Frescainha	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030294	Campo e Tamel (Sao Pedro Fins)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030295	Carreira e Fonte Coberta	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030296	Chorente, Goios, Courel, Pedra Furada e Gueral	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030297	Creixomil e Mariz	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030298	Durraes e Tregosa	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030299	Gamil e Midoes	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FA	Milhazes, Vilar de Figos e Faria	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FB	Negreiros e Chavao	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FC	Quintiaes e Aguiar	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FD	Sequeade e Bastuco (Sao Joao e Santo Estevao)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FE	Silveiros e Rio Covo (Santa Eulalia)	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FF	Tamel (Santa Leocadia) e Vilar do Monte	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FG	Viatodos, Grimancelos, Minhotaes, Monte Fralaes	0314	Vizela	0214	Vidigueira	01	AVEIRO
+0302FH	Vila Cova e Feitos	0314	Vizela	0214	Vidigueira	01	AVEIRO
+030301	Adaufe	0314	Vizela	0314	Vizela	01	AVEIRO
+030312	Espinho	0314	Vizela	0314	Vizela	01	AVEIRO
+030313	Esporoes	0314	Vizela	0314	Vizela	01	AVEIRO
+030315	Figueiredo	0314	Vizela	0314	Vizela	01	AVEIRO
+030319	Gualtar	0314	Vizela	0314	Vizela	01	AVEIRO
+030322	Lamas	0314	Vizela	0314	Vizela	01	AVEIRO
+030325	Mire de Tibaes	0314	Vizela	0314	Vizela	01	AVEIRO
+030330	Padim da Graca	0314	Vizela	0314	Vizela	01	AVEIRO
+030331	Palmeira	0314	Vizela	0314	Vizela	01	AVEIRO
+030334	Pedralva	0314	Vizela	0314	Vizela	01	AVEIRO
+030336	Priscos	0314	Vizela	0314	Vizela	01	AVEIRO
+030338	Ruilhe	0314	Vizela	0314	Vizela	01	AVEIRO
+030349	Braga (S. Vicente)	0314	Vizela	0314	Vizela	01	AVEIRO
+030351	Braga (S. Vitor)	0314	Vizela	0314	Vizela	01	AVEIRO
+030354	Sequeira	0314	Vizela	0314	Vizela	01	AVEIRO
+030355	Sobreposta	0314	Vizela	0314	Vizela	01	AVEIRO
+030356	Tadim	0314	Vizela	0314	Vizela	01	AVEIRO
+030357	Tebosa	0314	Vizela	0314	Vizela	01	AVEIRO
+030363	Arentim e Cunha	0314	Vizela	0314	Vizela	01	AVEIRO
+030364	Braga (Maximinos, Se e Cividade)	0314	Vizela	0314	Vizela	01	AVEIRO
+030365	Braga (Sao Jose de Sao Lazaro e Sao Joao do Souto)	0314	Vizela	0314	Vizela	01	AVEIRO
+030366	Cabreiros e Passos (Sao Juliao)	0314	Vizela	0314	Vizela	01	AVEIRO
+030367	Celeiros, Aveleda e Vimieiro	0314	Vizela	0314	Vizela	01	AVEIRO
+030368	Crespos e Pousada	0314	Vizela	0314	Vizela	01	AVEIRO
+030369	Escudeiros e Penso (Santo Estevao e Sao Vicente)	0314	Vizela	0314	Vizela	01	AVEIRO
+030370	Este (Sao Pedro e Sao Mamede)	0314	Vizela	0314	Vizela	01	AVEIRO
+030371	Ferreiros e Gondizalves	0314	Vizela	0314	Vizela	01	AVEIRO
+030372	Guisande e Oliveira (Sao Pedro)	0314	Vizela	0314	Vizela	01	AVEIRO
+030373	Lomar e Arcos	0314	Vizela	0314	Vizela	01	AVEIRO
+030374	Merelim (Sao Paio), Panoias e Parada de Tibaes	0314	Vizela	0314	Vizela	01	AVEIRO
+030375	Merelim (Sao Pedro) e Frossos	0314	Vizela	0314	Vizela	01	AVEIRO
+030376	Morreira e Trandeiras	0314	Vizela	0314	Vizela	01	AVEIRO
+030377	Nogueira, Fraiao e Lamacaes	0314	Vizela	0314	Vizela	01	AVEIRO
+030378	Nogueiro e Tenoes	0314	Vizela	0314	Vizela	01	AVEIRO
+030379	Real, Dume e Semelhe	0314	Vizela	0314	Vizela	01	AVEIRO
+030380	Santa Lucrecia de Algeriz e Navarra	0314	Vizela	0314	Vizela	01	AVEIRO
+030381	Vilaca e Fradelos	0314	Vizela	0314	Vizela	01	AVEIRO
+030401	Abadim	0314	Vizela	0412	Vinhais	01	AVEIRO
+030404	Basto	0314	Vizela	0412	Vinhais	01	AVEIRO
+030405	Bucos	0314	Vizela	0412	Vinhais	01	AVEIRO
+030406	Cabeceiras de Basto	0314	Vizela	0412	Vinhais	01	AVEIRO
+030407	Cavez	0314	Vizela	0412	Vinhais	01	AVEIRO
+030408	Faia	0314	Vizela	0412	Vinhais	01	AVEIRO
+030413	Pedraca	0314	Vizela	0412	Vinhais	01	AVEIRO
+030415	Rio Douro	0314	Vizela	0412	Vinhais	01	AVEIRO
+030418	Alvite e Passos	0314	Vizela	0412	Vinhais	01	AVEIRO
+030419	Arco de Baulhe e Vila Nune	0314	Vizela	0412	Vinhais	01	AVEIRO
+030420	Gondiaes e Vilar de Cunhas	0314	Vizela	0412	Vinhais	01	AVEIRO
+030421	Refojos de Basto, Outeiro e Painzela	0314	Vizela	0412	Vinhais	01	AVEIRO
+030501	Agilde	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030502	Arnoia	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030503	Borba da Montanha	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030508	Codecoso	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030510	Fervenca	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030515	Moreira do Castelo	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030517	Rego	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030518	Ribas	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030520	Basto (S. Clemente)	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030521	Vale de Bouro	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030523	Britelo, Gemeos e Ourilhe	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030524	Cacarilhe e Infesta	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030525	Canedo de Basto e Corgo	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030526	Carvalho e Basto (Santa Tecla)	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030527	Veade, Gagos e Molares	0314	Vizela	0511	Vila Velha de Rodao	01	AVEIRO
+030601	Antas	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030608	Forjaes	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030610	Gemeses	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030615	Vila Cha	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030616	Apulia e Fao	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030617	Belinho e Mar	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030618	Esposende, Marinhas e Gandra	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030619	Fonte Boa e Rio Tinto	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030620	Palmeira de Faro e Curvos	0314	Vizela	0617	Vila Nova de Poiares	01	AVEIRO
+030705	Armil	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030708	Estoraos	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030709	Fafe	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030712	Fornelos	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030714	Golaes	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030716	Medelo	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030719	Passos	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030722	Quinchaes	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030723	Regadas	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030724	Revelhe	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030725	Ribeiros	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030726	Aroes (Santa Cristina)	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030728	S. Gens	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030729	Silvares (S. Martinho)	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030730	Aroes (S. Romao)	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030733	Travassos	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030736	Vinhos	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030737	Aboim, Felgueiras, Gontim e Pedraido	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030738	Agrela e Serafao	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030739	Antime e Silvares (Sao Clemente)	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030740	Ardegao, Arnozela e Seidoes	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030741	Cepaes e Fareja	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030742	Freitas e Vila Cova	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030743	Monte e Queimadela	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030744	Moreira do Rei e Varzea Cova	0314	Vizela	0714	Vila Vicosa	01	AVEIRO
+030801	Aldao	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030804	Azurem	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030806	Barco	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030807	Brito	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030808	Caldelas	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030812	Costa	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030813	Creixomil	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030815	Fermentoes	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030820	Gonca	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030821	Gondar	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030823	Guardizela	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030824	Infantas	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030827	Longos	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030828	Lordelo	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030830	Mesao Frio	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030831	Moreira de Conegos	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030832	Nespereira	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030835	Pencelo	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030836	Pinheiro	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030837	Polvoreira	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030838	Ponte	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030840	Ronfe	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030842	Prazins (Santa Eufemia)	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030850	Selho (S. Cristovao)	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030854	Selho (S. Jorge)	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030857	Candoso (S. Martinho)	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030858	Sande (S. Martinho)	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030865	S. Torcato	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030866	Serzedelo	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030868	Silvares	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030871	Urgezes	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030875	Abacao e Gemeos	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030876	Airao Santa Maria, Airao Sao Joao e Vermil	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030877	Arosa e Casteloes	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030878	Ataes e Rendufe	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030879	Briteiros Santo Estevao e Donim	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030880	Briteiros Sao Salvador e Briteiros Santa Leocadia	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030881	Candoso Sao Tiago e Mascotelos	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030882	Conde e Gandarela	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030883	Leitoes, Oleiros e Figueiredo	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030884	Oliveira, Sao Paio e Sao Sebastiao	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030885	Prazins Santo Tirso e Corvite	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030886	Sande Sao Lourenco e Balazar	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030887	Sande Vila Nova e Sande Sao Clemente	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030888	Selho Sao Lourenco e Gominhaes	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030889	Serzedo e Calvos	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030890	Souto Santa Maria, Souto Sao Salvador e Gondomar	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030891	Tabuadelo e Sao Faustino	0314	Vizela	0816	Vila Real de Santo Antonio	01	AVEIRO
+030906	Covelas	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030908	Ferreiros	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030912	Galegos	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030913	Garfe	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030914	Geraz do Minho	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030915	Lanhoso	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030917	Monsul	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030919	Povoa de Lanhoso (N. Senhora do Amparo)	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030921	Rendufinho	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030922	Santo Emiliao	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030923	S. Joao de Rei	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030924	Serzedelo	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030925	Sobradelo da Goma	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030926	Taide	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030927	Travassos	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030929	Vilela	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030930	Aguas Santas e Moure	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030931	Calvos e Frades	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030932	Campos e Louredo	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030933	Esperanca e Brunhais	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030934	Fonte Arcada e Oliveira	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+030935	Verim, Friande e Ajude	0314	Vizela	0914	Vila Nova de Foz Coa	01	AVEIRO
+031001	Balanca	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031003	Campo do Geres	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031004	Carvalheira	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031008	Covide	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031009	Gondoriz	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031010	Moimenta	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031012	Ribeira	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031013	Rio Caldo	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031014	Souto	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031015	Valdosende	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031017	Vilar da Veiga	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031018	Chamoim e Vilar	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031019	Chorense e Monte	0314	Vizela	1016	Porto de Mos	01	AVEIRO
+031020	Ciboes e Brufe	0314	Vizela	1016	Porto de Mos	02	BEJA
+031105	Cantelaes	0314	Vizela	1116	Odivelas	10	LEIRIA
+031107	Eira Vedra	0314	Vizela	1116	Odivelas	10	LEIRIA
+031108	Guilhofrei	0314	Vizela	1116	Odivelas	10	LEIRIA
+031109	Louredo	0314	Vizela	1116	Odivelas	10	LEIRIA
+031110	Mosteiro	0314	Vizela	1116	Odivelas	11	LISBOA
+031111	Parada do Bouro	0314	Vizela	1116	Odivelas	11	LISBOA
+031112	Pinheiro	0314	Vizela	1116	Odivelas	11	LISBOA
+031113	Rossas	0314	Vizela	1116	Odivelas	11	LISBOA
+031115	Salamonde	0314	Vizela	1116	Odivelas	11	LISBOA
+031118	Tabuacas	0314	Vizela	1116	Odivelas	11	LISBOA
+031120	Vieira do Minho	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031122	Anisso e Soutelo	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031123	Anjos e Vilar do Chao	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031124	Canicada e Soengas	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031125	Ruivaes e Campos	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031126	Ventosa e Cova	0314	Vizela	1116	Odivelas	12	PORTALEGRE
+031204	Bairro	0314	Vizela	1215	Sousel	01	AVEIRO
+031206	Brufe	0314	Vizela	1215	Sousel	01	AVEIRO
+031210	Casteloes	0314	Vizela	1215	Sousel	01	AVEIRO
+031212	Cruz	0314	Vizela	1215	Sousel	01	AVEIRO
+031213	Delaes	0314	Vizela	1215	Sousel	01	AVEIRO
+031215	Fradelos	0314	Vizela	1215	Sousel	01	AVEIRO
+031216	Gaviao	0314	Vizela	1215	Sousel	01	AVEIRO
+031219	Joane	0314	Vizela	1215	Sousel	01	AVEIRO
+031221	Landim	0314	Vizela	1215	Sousel	01	AVEIRO
+031223	Louro	0314	Vizela	1215	Sousel	01	AVEIRO
+031224	Lousado	0314	Vizela	1215	Sousel	01	AVEIRO
+031225	Mogege	0314	Vizela	1215	Sousel	01	AVEIRO
+031227	Nine	0314	Vizela	1215	Sousel	01	AVEIRO
+031230	Pedome	0314	Vizela	1215	Sousel	01	AVEIRO
+031232	Pousada de Saramagos	0314	Vizela	1215	Sousel	01	AVEIRO
+031233	Requiao	0314	Vizela	1215	Sousel	01	AVEIRO
+031234	Riba de Ave	0314	Vizela	1215	Sousel	01	AVEIRO
+031235	Ribeirao	0314	Vizela	1215	Sousel	01	AVEIRO
+031239	Oliveira (Santa Maria)	0314	Vizela	1215	Sousel	01	AVEIRO
+031241	Vale (S. Martinho)	0314	Vizela	1215	Sousel	01	AVEIRO
+031242	Oliveira (S. Mateus)	0314	Vizela	1215	Sousel	01	AVEIRO
+031247	Vermoim	0314	Vizela	1215	Sousel	01	AVEIRO
+031249	Vilarinho Das Cambas	0314	Vizela	1215	Sousel	01	AVEIRO
+031250	Antas e Abade de Vermoim	0314	Vizela	1215	Sousel	01	AVEIRO
+031251	Arnoso (Santa Maria e Santa Eulalia) e Sezures	0314	Vizela	1215	Sousel	01	AVEIRO
+031252	Avidos e Lagoa	0314	Vizela	1215	Sousel	01	AVEIRO
+031253	Carreira e Bente	0314	Vizela	1215	Sousel	01	AVEIRO
+031254	Esmeriz e Cabecudos	0314	Vizela	1215	Sousel	01	AVEIRO
+031255	Gondifelos, Cavaloes e Outiz	0314	Vizela	1215	Sousel	01	AVEIRO
+031256	Lemenhe, Mouquim e Jesufrei	0314	Vizela	1215	Sousel	01	AVEIRO
+031257	Ruivaes e Novais	0314	Vizela	1215	Sousel	01	AVEIRO
+031258	Seide	0314	Vizela	1215	Sousel	01	AVEIRO
+031259	Vale (Sao Cosme), Telhado e Portela	0314	Vizela	1215	Sousel	01	AVEIRO
+031260	Vila Nova de Famalicao e Calendario	0314	Vizela	1215	Sousel	01	AVEIRO
+031304	Atiaes	0314	Vizela	1318	Trofa	01	AVEIRO
+031308	Cabanelas	0314	Vizela	1318	Trofa	01	AVEIRO
+031309	Cervaes	0314	Vizela	1318	Trofa	01	AVEIRO
+031311	Coucieiro	0314	Vizela	1318	Trofa	01	AVEIRO
+031313	Dossaos	0314	Vizela	1318	Trofa	01	AVEIRO
+031316	Freiriz	0314	Vizela	1318	Trofa	01	AVEIRO
+031317	Geme	0314	Vizela	1318	Trofa	01	AVEIRO
+031323	Lage	0314	Vizela	1318	Trofa	01	AVEIRO
+031324	Lanhas	0314	Vizela	1318	Trofa	01	AVEIRO
+031325	Loureira	0314	Vizela	1318	Trofa	01	AVEIRO
+031328	Moure	0314	Vizela	1318	Trofa	01	AVEIRO
+031330	Oleiros	0314	Vizela	1318	Trofa	01	AVEIRO
+031331	Parada de Gatim	0314	Vizela	1318	Trofa	01	AVEIRO
+031335	Pico	0314	Vizela	1318	Trofa	01	AVEIRO
+031337	Ponte	0314	Vizela	1318	Trofa	01	AVEIRO
+031340	Sabariz	0314	Vizela	1318	Trofa	01	AVEIRO
+031342	Vila de Prado	0314	Vizela	1318	Trofa	01	AVEIRO
+031350	Prado (S. Miguel)	0314	Vizela	1318	Trofa	01	AVEIRO
+031352	Soutelo	0314	Vizela	1318	Trofa	01	AVEIRO
+031354	Turiz	0314	Vizela	1318	Trofa	01	AVEIRO
+031355	Valdreu	0314	Vizela	1318	Trofa	01	AVEIRO
+031359	Aboim da Nobrega e Gondomar	0314	Vizela	1318	Trofa	01	AVEIRO
+031360	Ribeira do Neiva	0314	Vizela	1318	Trofa	01	AVEIRO
+031361	Carreiras (Sao Miguel) e Carreiras (Santiago)	0314	Vizela	1318	Trofa	01	AVEIRO
+031362	Escariz (Sao Mamede) e Escariz (Sao Martinho)	0314	Vizela	1318	Trofa	01	AVEIRO
+031363	Esqueiros, Nevogilde e Travassos	0314	Vizela	1318	Trofa	01	AVEIRO
+031364	Marrancos e Arcozelo	0314	Vizela	1318	Trofa	01	AVEIRO
+031365	Oriz (Santa Marinha) e Oriz (Sao Miguel)	0314	Vizela	1318	Trofa	01	AVEIRO
+031366	Pico de Regalados, Gondiaes e Mos	0314	Vizela	1318	Trofa	01	AVEIRO
+031367	Sande, Vilarinho, Barros e Gomide	0314	Vizela	1318	Trofa	01	AVEIRO
+031368	Valbom (Sao Pedro), Passo e Valbom (Sao Martinho)	0314	Vizela	1318	Trofa	01	AVEIRO
+031369	Vade	0314	Vizela	1318	Trofa	01	AVEIRO
+031370	Vila Verde e Barbudo	0314	Vizela	1318	Trofa	01	AVEIRO
+031401	Infias	0314	Vizela	1421	Ourem	01	AVEIRO
+031402	Santa Eulalia	0314	Vizela	1421	Ourem	01	AVEIRO
+031403	Santo Adriao de Vizela	0314	Vizela	1421	Ourem	01	AVEIRO
+031408	Caldas de Vizela (Sao Miguel e Sao Joao)	0314	Vizela	1421	Ourem	01	AVEIRO
+031409	Tagilde e Vizela (Sao Paio)	0314	Vizela	1421	Ourem	01	AVEIRO
+040102	Alfandega da Fe	0412	Vinhais	0119	Vale de Cambra	10	LEIRIA
+040103	Cerejais	0412	Vinhais	0119	Vale de Cambra	10	LEIRIA
+040111	Sambade	0412	Vinhais	0119	Vale de Cambra	11	LISBOA
+040118	Vilar Chao	0412	Vinhais	0119	Vale de Cambra	11	LISBOA
+040119	Vilarelhos	0412	Vinhais	0119	Vale de Cambra	11	LISBOA
+040120	Vilares de Vilarica	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040121	Agrobom, Saldonha e Vale Pereiro	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040122	Eucisia, Gouveia e Valverde	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040123	Ferradosa e Sendim da Serra	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040124	Gebelim e Soeima	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040125	Parada e Sendim da Ribeira	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040126	Pombal e Vales	0412	Vinhais	0119	Vale de Cambra	12	PORTALEGRE
+040201	Alfaiao	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040203	Babe	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040204	Bacal	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040206	Carragosa	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040209	Castro de Avelas	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040210	Coelhoso	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040212	Donai	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040213	Espinhosela	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040215	Franca	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040216	Gimonde	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040217	Gondesende	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040218	Gostei	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040219	Grijo de Parada	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040221	Macedo do Mato	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040224	Mos	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040225	Nogueira	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040226	Outeiro	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040229	Paramio	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040230	Pinela	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040232	Quintanilha	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040233	Quintela de Lampacas	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040234	Rabal	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040236	Rebordaos	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040239	Salsas	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040240	Samil	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040241	Santa Comba de Rossas	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040244	S. Pedro de Serracenos	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040246	Sendas	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040247	Serapicos	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040248	Sortes	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040249	Zoio	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040250	Aveleda e Rio de Onor	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040251	Castrelos e Carrazedo	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040252	Izeda, Calvelhe e Paradinha Nova	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040253	Parada e Failde	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040254	Rebordainhos e Pombares	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040255	Rio Frio e Milhao	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040256	Sao Juliao de Palacios e Deilao	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040257	Se, Santa Maria e Meixedo	0412	Vinhais	0214	Vidigueira	01	AVEIRO
+040304	Carrazeda de Ansiaes	0412	Vinhais	0314	Vizela	01	AVEIRO
+040306	Fonte Longa	0412	Vinhais	0314	Vizela	01	AVEIRO
+040308	Linhares	0412	Vinhais	0314	Vizela	01	AVEIRO
+040309	Marzagao	0412	Vinhais	0314	Vizela	01	AVEIRO
+040311	Parambos	0412	Vinhais	0314	Vizela	01	AVEIRO
+040312	Pereiros	0412	Vinhais	0314	Vizela	01	AVEIRO
+040313	Pinhal do Norte	0412	Vinhais	0314	Vizela	01	AVEIRO
+040314	Pombal	0412	Vinhais	0314	Vizela	01	AVEIRO
+040316	Seixo de Ansiaes	0412	Vinhais	0314	Vizela	01	AVEIRO
+040318	Vilarinho da Castanheira	0412	Vinhais	0314	Vizela	01	AVEIRO
+040320	Amedo e Zedes	0412	Vinhais	0314	Vizela	01	AVEIRO
+040321	Belver e Mogo de Malta	0412	Vinhais	0314	Vizela	01	AVEIRO
+040322	Castanheiro do Norte e Ribalonga	0412	Vinhais	0314	Vizela	01	AVEIRO
+040323	Lavandeira, Beira Grande e Selores	0412	Vinhais	0314	Vizela	01	AVEIRO
+040404	Ligares	0412	Vinhais	0412	Vinhais	01	AVEIRO
+040406	Poiares	0412	Vinhais	0412	Vinhais	01	AVEIRO
+040407	Freixo de Espada a Cinta e Mazouco	0412	Vinhais	0412	Vinhais	01	AVEIRO
+040408	Lagoaca e Fornos	0412	Vinhais	0412	Vinhais	01	AVEIRO
+040502	Amendoeira	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040503	Arcas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040507	Carrapatas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040509	Chacim	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040510	Corticos	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040511	Corujas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040514	Ferreira	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040515	Grijo	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040516	Lagoa	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040517	Lamalonga	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040518	Lamas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040519	Lombo	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040520	Macedo de Cavaleiros	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040521	Morais	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040523	Olmos	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040524	Peredo	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040526	Salselas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040528	Sezulfe	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040530	Talhas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040532	Vale Benfeito	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040533	Vale da Porca	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040534	Vale de Prados	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040536	Vilarinho de Agrochao	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040538	Vinhas	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040539	Ala e Vilarinho do Monte	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040540	Bornes e Burga	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040541	Castelaos e Vilar do Monte	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040542	Espadanedo, Edroso, Murcos e Soutelo Mourisco	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040543	Podence e Santa Combinha	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040544	Talhinhas e Bagueixe	0412	Vinhais	0511	Vila Velha de Rodao	01	AVEIRO
+040604	Duas Igrejas	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040605	Genisio	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040607	Malhadas	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040608	Miranda do Douro	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040609	Palacoulo	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040611	Picote	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040612	Povoa	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040613	S. Martinho de Angueira	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040616	Vila Cha de Braciosa	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040618	Constantim e Cicouro	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040619	Ifanes e Paradela	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040620	Sendim e Atenor	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040621	Silva e Aguas Vivas	0412	Vinhais	0617	Vila Nova de Poiares	01	AVEIRO
+040701	Abambres	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040702	Abreiro	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040703	Aguieiras	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040704	Alvites	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040708	Bouca	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040709	Cabanelas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040710	Caravelas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040711	Carvalhais	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040712	Cedaes	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040713	Cobro	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040714	Fradizela	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040716	Frechas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040718	Lamas de Orelhao	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040720	Mascarenhas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040721	Mirandela	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040722	Murias	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040724	Passos	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040727	S. Pedro Velho	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040728	S. Salvador	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040729	Sucaes	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040730	Torre de D. Chama	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040731	Vale de Asnes	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040732	Vale de Gouvinhas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040733	Vale de Salgueiro	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040734	Vale de Telhas	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040738	Avantos e Romeu	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040739	Avidagos, Navalho e Pereira	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040740	Barcel, Marmelos e Valverde da Gestosa	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040741	Franco e Vila Boa	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040742	Freixeda e Vila Verde	0412	Vinhais	0714	Vila Vicosa	01	AVEIRO
+040801	Azinhoso	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040802	Bemposta	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040803	Bruco	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040804	Brunhoso	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040807	Castelo Branco	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040808	Castro Vicente	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040809	Meirinhos	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040811	Paradela	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040812	Penas Roias	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040813	Peredo da Bemposta	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040815	Saldanha	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040817	S. Martinho do Peso	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040819	To	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040820	Travanca	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040821	Urros	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040822	Vale da Madre	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040826	Vila de Ala	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040829	Brunhozinho, Castanheira e Sanhoane	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040830	Mogadouro, Valverde, Vale de Porco e Vilar de Rei	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040831	Remondes e Soutelo	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040832	Vilarinho Dos Galegos e Ventozelo	0412	Vinhais	0816	Vila Real de Santo Antonio	01	AVEIRO
+040901	Acoreira	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040903	Cabeca Boa	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040905	Carvicais	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040906	Castedo	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040909	Horta da Vilarica	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040910	Larinho	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040911	Lousa	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040913	Mos	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040916	Torre de Moncorvo	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040918	Adeganha e Cardanha	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040919	Felgar e Souto da Velha	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040920	Felgueiras e Macores	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+040921	Urros e Peredo Dos Castelhanos	0412	Vinhais	0914	Vila Nova de Foz Coa	01	AVEIRO
+041002	Benlhevai	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041005	Freixiel	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041009	Roios	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041010	Samoes	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041011	Sampaio	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041012	Santa Comba de Vilarica	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041013	Seixo de Manhoses	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041014	Trindade	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041015	Vale Frechoso	0412	Vinhais	1016	Porto de Mos	01	AVEIRO
+041020	Assares e Lodoes	0412	Vinhais	1016	Porto de Mos	02	BEJA
+041021	Candoso e Carvalho de Egas	0412	Vinhais	1016	Porto de Mos	02	BEJA
+041022	Valtorno e Mourao	0412	Vinhais	1016	Porto de Mos	02	BEJA
+041023	Vila Flor e Nabo	0412	Vinhais	1016	Porto de Mos	02	BEJA
+041024	Vilas Boas e Vilarinho Das Azenhas	0412	Vinhais	1016	Porto de Mos	02	BEJA
+041103	Argozelo	0412	Vinhais	1116	Odivelas	10	LEIRIA
+041107	Carcao	0412	Vinhais	1116	Odivelas	10	LEIRIA
+041108	Matela	0412	Vinhais	1116	Odivelas	10	LEIRIA
+041109	Pinelo	0412	Vinhais	1116	Odivelas	10	LEIRIA
+041110	Santulhao	0412	Vinhais	1116	Odivelas	11	LISBOA
+041113	Vilar Seco	0412	Vinhais	1116	Odivelas	11	LISBOA
+041114	Vimioso	0412	Vinhais	1116	Odivelas	11	LISBOA
+041115	Algoso, Campo de Viboras e Uva	0412	Vinhais	1116	Odivelas	11	LISBOA
+041116	Cacarelhos e Angueira	0412	Vinhais	1116	Odivelas	11	LISBOA
+041117	Vale de Frades e Avelanoso	0412	Vinhais	1116	Odivelas	11	LISBOA
+041201	Agrochao	0412	Vinhais	1215	Sousel	01	AVEIRO
+041203	Candedo	0412	Vinhais	1215	Sousel	01	AVEIRO
+041204	Celas	0412	Vinhais	1215	Sousel	01	AVEIRO
+041206	Edral	0412	Vinhais	1215	Sousel	01	AVEIRO
+041207	Edrosa	0412	Vinhais	1215	Sousel	01	AVEIRO
+041208	Ervedosa	0412	Vinhais	1215	Sousel	01	AVEIRO
+041215	Paco	0412	Vinhais	1215	Sousel	01	AVEIRO
+041216	Penhas Juntas	0412	Vinhais	1215	Sousel	01	AVEIRO
+041219	Rebordelo	0412	Vinhais	1215	Sousel	01	AVEIRO
+041221	Santalha	0412	Vinhais	1215	Sousel	01	AVEIRO
+041226	Tuizelo	0412	Vinhais	1215	Sousel	01	AVEIRO
+041227	Vale Das Fontes	0412	Vinhais	1215	Sousel	01	AVEIRO
+041229	Vila Boa de Ousilhao	0412	Vinhais	1215	Sousel	01	AVEIRO
+041230	Vila Verde	0412	Vinhais	1215	Sousel	01	AVEIRO
+041232	Vilar de Ossos	0412	Vinhais	1215	Sousel	01	AVEIRO
+041233	Vilar de Peregrinos	0412	Vinhais	1215	Sousel	01	AVEIRO
+041234	Vilar Seco de Lomba	0412	Vinhais	1215	Sousel	01	AVEIRO
+041235	Vinhais	0412	Vinhais	1215	Sousel	01	AVEIRO
+041236	Curopos e Vale de Janeiro	0412	Vinhais	1215	Sousel	01	AVEIRO
+041237	Moimenta e Montouto	0412	Vinhais	1215	Sousel	01	AVEIRO
+041238	Nunes e Ousilhao	0412	Vinhais	1215	Sousel	01	AVEIRO
+041239	Quiras e Pinheiro Novo	0412	Vinhais	1215	Sousel	01	AVEIRO
+041240	Sobreiro de Baixo e Alvaredos	0412	Vinhais	1215	Sousel	01	AVEIRO
+041241	Soeira, Fresulfe e Mofreita	0412	Vinhais	1215	Sousel	01	AVEIRO
+041242	Travanca e Santa Cruz	0412	Vinhais	1215	Sousel	01	AVEIRO
+041243	Vilar de Lomba e Sao Jomil	0412	Vinhais	1215	Sousel	01	AVEIRO
+050102	Caria	0511	Vila Velha de Rodao	0119	Vale de Cambra	10	LEIRIA
+050104	Inguias	0511	Vila Velha de Rodao	0119	Vale de Cambra	10	LEIRIA
+050105	Macainhas	0511	Vila Velha de Rodao	0119	Vale de Cambra	10	LEIRIA
+050106	Belmonte e Colmeal da Torre	0511	Vila Velha de Rodao	0119	Vale de Cambra	10	LEIRIA
+050201	Alcains	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050202	Almaceda	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050203	Benquerencas	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050205	Castelo Branco	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050211	Lardosa	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050212	Lourical do Campo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050214	Malpica do Tejo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050216	Monforte da Beira	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050220	Salgueiro do Campo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050221	Santo Andre Das Tojeiras	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050222	S. Vicente da Beira	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050223	Sarzedas	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050225	Tinalhas	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050226	Cebolais de Cima e Retaxo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050227	Escalos de Baixo e Mata	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050228	Escalos de Cima e Lousa	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050229	Freixial e Juncal do Campo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050230	Ninho do Acor e Sobral do Campo	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050231	Povoa de Rio de Moinhos e Cafede	0511	Vila Velha de Rodao	0214	Vidigueira	01	AVEIRO
+050302	Aldeia de S. Francisco de Assis	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050305	Boidobra	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050308	Cortes do Meio	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050309	Dominguizo	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050310	Erada	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050311	Ferro	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050312	Orjais	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050314	Paul	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050315	Peraboa	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050318	S. Jorge da Beira	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050322	Sobral de S. Miguel	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050324	Tortosendo	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050325	Unhais da Serra	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050327	Verdelhos	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050332	Barco e Coutada	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050333	Cantar-Galo e Vila do Carvalho	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050334	Casegas e Ourondo	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050335	Covilha e Canhoso	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050336	Peso e Vales do Rio	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050337	Teixoso e Sarzedo	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050338	Vale Formoso e Aldeia do Souto	0511	Vila Velha de Rodao	0314	Vizela	01	AVEIRO
+050401	Alcaide	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050402	Alcaria	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050403	Alcongosta	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050406	Alpedrinha	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050408	Barroca	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050410	Bogas de Cima	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050411	Capinha	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050412	Castelejo	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050413	Castelo Novo	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050416	Fatela	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050419	Lavacolhos	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050420	Orca	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050421	Pero Viseu	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050424	Silvares	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050425	Soalheira	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050426	Souto da Casa	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050427	Telhado	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050431	Enxames	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050432	Tres Povos	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050433	Janeiro de Cima e Bogas de Baixo	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050434	Fundao, Valverde, Donas, A. Joanes, A. Nova Cabo	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050435	Povoa de Atalaia e Atalaia do Campo	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050436	Vale de Prazeres e Mata da Rainha	0511	Vila Velha de Rodao	0412	Vinhais	01	AVEIRO
+050502	Aldeia de Santa Margarida	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050505	Ladoeiro	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050506	Medelim	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050509	Oledo	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050510	Penha Garcia	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050511	Proenca-A-Velha	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050512	Rosmaninhal	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050514	S. Miguel de Acha	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050516	Touloes	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050518	Idanha-A-Nova e Alcafozes	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050519	Monfortinho e Salvaterra do Extremo	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050520	Monsanto e Idanha-A-Velha	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050521	Zebreira e Segura	0511	Vila Velha de Rodao	0511	Vila Velha de Rodao	01	AVEIRO
+050601	Alvaro	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050603	Cambas	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050605	Isna	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050606	Madeira	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050607	Mosteiro	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050609	Orvalho	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050610	Sarnadas de S. Simao	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050611	Sobral	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050613	Estreito-Vilar Barroco	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050614	Oleiros-Amieira	0511	Vila Velha de Rodao	0617	Vila Nova de Poiares	01	AVEIRO
+050704	Aranhas	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050706	Benquerenca	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050707	Meimao	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050708	Meimoa	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050710	Penamacor	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050711	Salvador	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050712	Vale da Senhora da Povoa	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050713	Aldeia do Bispo, Aguas e Aldeia de Joao Pires	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050714	Pedrogao de Sao Pedro e Bemposta	0511	Vila Velha de Rodao	0714	Vila Vicosa	01	AVEIRO
+050802	Montes da Senhora	0511	Vila Velha de Rodao	0816	Vila Real de Santo Antonio	01	AVEIRO
+050805	S. Pedro do Esteval	0511	Vila Velha de Rodao	0816	Vila Real de Santo Antonio	01	AVEIRO
+050807	Proenca-A-Nova e Peral	0511	Vila Velha de Rodao	0816	Vila Real de Santo Antonio	01	AVEIRO
+050808	Sobreira Formosa e Alvito da Beira	0511	Vila Velha de Rodao	0816	Vila Real de Santo Antonio	01	AVEIRO
+050901	Cabecudo	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050902	Carvalhal	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050903	Castelo	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050911	Pedrogao Pequeno	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050912	Serta	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050913	Troviscal	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050914	Varzea Dos Cavaleiros	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050915	Cernache do Bonjardim, Nesperal e Palhais	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050916	Cumeada e Marmeleiro	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+050917	Ermida e Figueiredo	0511	Vila Velha de Rodao	0914	Vila Nova de Foz Coa	01	AVEIRO
+051001	Fundada	0511	Vila Velha de Rodao	1016	Porto de Mos	01	AVEIRO
+051002	S. Joao do Peso	0511	Vila Velha de Rodao	1016	Porto de Mos	01	AVEIRO
+051003	Vila de Rei	0511	Vila Velha de Rodao	1016	Porto de Mos	01	AVEIRO
+051101	Fratel	0511	Vila Velha de Rodao	1116	Odivelas	10	LEIRIA
+051102	Perais	0511	Vila Velha de Rodao	1116	Odivelas	10	LEIRIA
+051103	Sarnadas de Rodao	0511	Vila Velha de Rodao	1116	Odivelas	10	LEIRIA
+051104	Vila Velha de Rodao	0511	Vila Velha de Rodao	1116	Odivelas	10	LEIRIA
+060102	Arganil	0617	Vila Nova de Poiares	0119	Vale de Cambra	10	LEIRIA
+060104	Benfeita	0617	Vila Nova de Poiares	0119	Vale de Cambra	10	LEIRIA
+060105	Celavisa	0617	Vila Nova de Poiares	0119	Vale de Cambra	10	LEIRIA
+060109	Folques	0617	Vila Nova de Poiares	0119	Vale de Cambra	10	LEIRIA
+060111	Piodao	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060112	Pomares	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060113	Pombeiro da Beira	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060114	S. Martinho da Cortica	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060115	Sarzedo	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060116	Secarias	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060119	Cepos e Teixeira	0617	Vila Nova de Poiares	0119	Vale de Cambra	11	LISBOA
+060120	Cerdeira e Moura da Serra	0617	Vila Nova de Poiares	0119	Vale de Cambra	12	PORTALEGRE
+060121	Coja e Barril de Alva	0617	Vila Nova de Poiares	0119	Vale de Cambra	12	PORTALEGRE
+060122	Vila Cova de Alva e Anseriz	0617	Vila Nova de Poiares	0119	Vale de Cambra	12	PORTALEGRE
+060201	Anca	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060203	Cadima	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060205	Cordinha	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060207	Febres	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060208	Murtede	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060209	Ourenta	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060214	Tocha	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060215	S. Caetano	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060218	Sanguinheira	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060220	Cantanhede e Pocarica	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060221	Covoes e Camarneira	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060222	Portunhos e Outil	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060223	Sepins e Bolho	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060224	Vilamar e Corticeiro de Cima	0617	Vila Nova de Poiares	0214	Vidigueira	01	AVEIRO
+060301	Almalagues	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060309	Brasfemes	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060311	Ceira	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060312	Cernache	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060318	Santo Antonio Dos Olivais	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060320	S. Joao do Campo	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060324	S. Silvestre	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060329	Torres do Mondego	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060332	Antuzede e Vil de Matos	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060333	Assafarge e Antanhol	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060334	Se Nova, Santa Cruz, Almedina e Sao Bartolomeu	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060335	Eiras e Sao Paulo de Frades	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060336	Santa Clara e Castelo Viegas	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060337	Sao Martinho de Arvore e Lamarosa	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060338	Sao Martinho do Bispo e Ribeira de Frades	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060339	Souselas e Botao	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060340	Taveiro, Ameal e Arzila	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060341	Trouxemil e Torre de Vilela	0617	Vila Nova de Poiares	0314	Vizela	01	AVEIRO
+060401	Anobra	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060406	Ega	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060407	Furadouro	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060410	Zambujal	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060411	Condeixa-A-Velha e Condeixa-A-Nova	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060412	Sebal e Belide	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060413	Vila Seca e Bem da Fe	0617	Vila Nova de Poiares	0412	Vinhais	01	AVEIRO
+060502	Alqueidao	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060507	Maiorca	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060508	Marinha Das Ondas	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060512	Tavarede	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060513	Vila Verde	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060514	S. Pedro	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060515	Bom Sucesso	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060518	Moinhos de Gandara	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060519	Alhadas	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060520	Buarcos	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060521	Ferreira-A-Nova	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060522	Lavos	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060523	Paiao	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060524	Quiaios	0617	Vila Nova de Poiares	0511	Vila Velha de Rodao	01	AVEIRO
+060601	Alvares	0617	Vila Nova de Poiares	0617	Vila Nova de Poiares	01	AVEIRO
+060604	Gois	0617	Vila Nova de Poiares	0617	Vila Nova de Poiares	01	AVEIRO
+060605	Vila Nova do Ceira	0617	Vila Nova de Poiares	0617	Vila Nova de Poiares	01	AVEIRO
+060606	Cadafaz e Colmeal	0617	Vila Nova de Poiares	0617	Vila Nova de Poiares	01	AVEIRO
+060704	Serpins	0617	Vila Nova de Poiares	0714	Vila Vicosa	01	AVEIRO
+060706	Gandaras	0617	Vila Nova de Poiares	0714	Vila Vicosa	01	AVEIRO
+060707	Foz de Arouce e Casal de Ermio	0617	Vila Nova de Poiares	0714	Vila Vicosa	01	AVEIRO
+060708	Lousa e Vilarinho	0617	Vila Nova de Poiares	0714	Vila Vicosa	01	AVEIRO
+060801	Mira	0617	Vila Nova de Poiares	0816	Vila Real de Santo Antonio	01	AVEIRO
+060802	Seixo	0617	Vila Nova de Poiares	0816	Vila Real de Santo Antonio	01	AVEIRO
+060803	Carapelhos	0617	Vila Nova de Poiares	0816	Vila Real de Santo Antonio	01	AVEIRO
+060804	Praia de Mira	0617	Vila Nova de Poiares	0816	Vila Real de Santo Antonio	01	AVEIRO
+060901	Lamas	0617	Vila Nova de Poiares	0914	Vila Nova de Foz Coa	01	AVEIRO
+060902	Miranda do Corvo	0617	Vila Nova de Poiares	0914	Vila Nova de Foz Coa	01	AVEIRO
+060905	Vila Nova	0617	Vila Nova de Poiares	0914	Vila Nova de Foz Coa	01	AVEIRO
+060906	Semide e Rio Vide	0617	Vila Nova de Poiares	0914	Vila Nova de Foz Coa	01	AVEIRO
+061002	Arazede	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061003	Carapinheira	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061005	Liceia	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061006	Meas do Campo	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061008	Pereira	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061009	Santo Varao	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061010	Seixo de Gatoes	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061011	Tentugal	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061014	Ereira	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061015	Abrunheira, Verride e Vila Nova da Barca	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061016	Montemor-O-Velho e Gatoes	0617	Vila Nova de Poiares	1016	Porto de Mos	01	AVEIRO
+061101	Aldeia Das Dez	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061102	Alvoco Das Varzeas	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061103	Avo	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061104	Bobadela	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061106	Lagares	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061109	Lourosa	0617	Vila Nova de Poiares	1116	Odivelas	10	LEIRIA
+061110	Meruge	0617	Vila Nova de Poiares	1116	Odivelas	11	LISBOA
+061111	Nogueira do Cravo	0617	Vila Nova de Poiares	1116	Odivelas	11	LISBOA
+061115	S. Giao	0617	Vila Nova de Poiares	1116	Odivelas	11	LISBOA
+061118	Seixo da Beira	0617	Vila Nova de Poiares	1116	Odivelas	11	LISBOA
+061119	Travanca de Lagos	0617	Vila Nova de Poiares	1116	Odivelas	11	LISBOA
+061122	Ervedal e Vila Franca da Beira	0617	Vila Nova de Poiares	1116	Odivelas	12	PORTALEGRE
+061123	Lagos da Beira e Lajeosa	0617	Vila Nova de Poiares	1116	Odivelas	12	PORTALEGRE
+061124	Oliveira do Hospital e Sao Paio de Gramacos	0617	Vila Nova de Poiares	1116	Odivelas	12	PORTALEGRE
+061125	Penalva de Alva e Sao Sebastiao da Feira	0617	Vila Nova de Poiares	1116	Odivelas	12	PORTALEGRE
+061126	Santa Ovaia e Vila Pouca da Beira	0617	Vila Nova de Poiares	1116	Odivelas	12	PORTALEGRE
+061201	Cabril	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061202	Dornelas do Zezere	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061204	Janeiro de Baixo	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061206	Pampilhosa da Serra	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061207	Pessegueiro	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061209	Unhais-O-Velho	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061211	Fajao-Vidual	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061212	Portela do Fojo-Machio	0617	Vila Nova de Poiares	1215	Sousel	01	AVEIRO
+061301	Carvalho	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061302	Figueira de Lorvao	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061304	Lorvao	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061307	Penacova	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061310	Sazes do Lorvao	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061312	Friumes e Paradela	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061313	Oliveira do Mondego e Travanca do Mondego	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061314	Sao Pedro de Alva e Sao Paio de Mondego	0617	Vila Nova de Poiares	1318	Trofa	01	AVEIRO
+061401	Cumeeira	0617	Vila Nova de Poiares	1421	Ourem	01	AVEIRO
+061402	Espinhal	0617	Vila Nova de Poiares	1421	Ourem	01	AVEIRO
+061403	Podentes	0617	Vila Nova de Poiares	1421	Ourem	01	AVEIRO
+061407	Sao Miguel, Santa Eufemia e Rabacal	0617	Vila Nova de Poiares	1421	Ourem	01	AVEIRO
+061501	Alfarelos	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061504	Figueiro do Campo	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061506	Granja do Ulmeiro	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061508	Samuel	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061509	Soure	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061510	Tapeus	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061511	Vila Nova de Ancos	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061512	Vinha da Rainha	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061513	Degracias e Pombalinho	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061514	Gesteira e Brunhos	0617	Vila Nova de Poiares	1513	Sines	01	AVEIRO
+061602	Candosa	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061603	Carapinha	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061608	Midoes	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061609	Mouronho	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061611	Povoa de Midoes	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061612	S. Joao da Boa Vista	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061614	Tabua	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061616	Azere e Covelo	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061617	Covas e Vila Nova de Oliveirinha	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061618	Espariz e Sinde	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061619	Pinheiro de Coja e Meda de Mouros	0617	Vila Nova de Poiares	1610	Vila Nova de Cerveira	01	AVEIRO
+061701	Arrifana	0617	Vila Nova de Poiares	1714	Vila Real	01	AVEIRO
+061702	Lavegadas	0617	Vila Nova de Poiares	1714	Vila Real	01	AVEIRO
+061703	Poiares (Santo Andre)	0617	Vila Nova de Poiares	1714	Vila Real	01	AVEIRO
+061704	S. Miguel de Poiares	0617	Vila Nova de Poiares	1714	Vila Real	01	AVEIRO
+070103	Santiago Maior	0714	Vila Vicosa	0119	Vale de Cambra	10	LEIRIA
+070104	Capelins (Santo Antonio)	0714	Vila Vicosa	0119	Vale de Cambra	10	LEIRIA
+070105	Terena (S. Pedro)	0714	Vila Vicosa	0119	Vale de Cambra	10	LEIRIA
+070107	N.S. Conceicao, S.Bras Matos, Juromenha	0714	Vila Vicosa	0119	Vale de Cambra	10	LEIRIA
+070201	Arraiolos	0714	Vila Vicosa	0214	Vidigueira	01	AVEIRO
+070202	Igrejinha	0714	Vila Vicosa	0214	Vidigueira	01	AVEIRO
+070206	Vimieiro	0714	Vila Vicosa	0214	Vidigueira	01	AVEIRO
+070208	Gafanhoeira (Sao Pedro) e Sabugueiro	0714	Vila Vicosa	0214	Vidigueira	01	AVEIRO
+070209	Sao Gregorio e Santa Justa	0714	Vila Vicosa	0214	Vidigueira	01	AVEIRO
+070301	Borba (Matriz)	0714	Vila Vicosa	0314	Vizela	01	AVEIRO
+070302	Orada	0714	Vila Vicosa	0314	Vizela	01	AVEIRO
+070303	Rio de Moinhos	0714	Vila Vicosa	0314	Vizela	01	AVEIRO
+070304	Borba (S. Bartolomeu)	0714	Vila Vicosa	0314	Vizela	01	AVEIRO
+070401	Arcos	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070402	Gloria	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070404	Evora Monte (Santa Maria)	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070411	S. Domingos de Ana Loura	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070413	Veiros	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070414	Estremoz (Santa Maria e Santo Andre)	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070415	Sao Bento do Cortico e Santo Estevao	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070416	Sao Lourenco de Mamporcao e Sao Bento de Ana Loura	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070417	Ameixial (Santa Vitoria e Sao Bento)	0714	Vila Vicosa	0412	Vinhais	01	AVEIRO
+070502	Nossa Senhora da Graca do Divor	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070503	Nossa Senhora de Machede	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070506	S. Bento do Mato	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070509	S. Miguel de Machede	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070513	Torre de Coelheiros	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070515	Canaviais	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070522	Bacelo e Senhora da Saude	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070523	Evora (Sao Mamede, Se, Sao Pedro e Santo Antao)	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070524	Malagueira e Horta Das Figueiras	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070525	N.S. da Tourega e N.S. de Guadalupe	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070526	Sao Mancos e Sao Vicente do Pigeiro	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070527	S.Sebastiao da Giesteira e N.S. da Boa Fe	0714	Vila Vicosa	0511	Vila Velha de Rodao	01	AVEIRO
+070601	Cabrela	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070605	Santiago do Escoural	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070606	S. Cristovao	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070607	Ciborro	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070610	Foros de Vale de Figueira	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070611	Corticadas de Lavre e Lavre	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070612	N.S. da Vila, N.S. do Bispo e Silveiras	0714	Vila Vicosa	0617	Vila Nova de Poiares	01	AVEIRO
+070701	Brotas	0714	Vila Vicosa	0714	Vila Vicosa	01	AVEIRO
+070702	Cabecao	0714	Vila Vicosa	0714	Vila Vicosa	01	AVEIRO
+070703	Mora	0714	Vila Vicosa	0714	Vila Vicosa	01	AVEIRO
+070704	Pavia	0714	Vila Vicosa	0714	Vila Vicosa	01	AVEIRO
+070801	Granja	0714	Vila Vicosa	0816	Vila Real de Santo Antonio	01	AVEIRO
+070802	Luz	0714	Vila Vicosa	0816	Vila Real de Santo Antonio	01	AVEIRO
+070803	Mourao	0714	Vila Vicosa	0816	Vila Real de Santo Antonio	01	AVEIRO
+070903	Monte do Trigo	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+070905	Portel	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+070906	Santana	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+070908	Vera Cruz	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+070909	Amieira e Alqueva	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+070910	Sao Bartolomeu do Outeiro e Oriola	0714	Vila Vicosa	0914	Vila Nova de Foz Coa	01	AVEIRO
+071001	Montoito	0714	Vila Vicosa	1016	Porto de Mos	01	AVEIRO
+071002	Redondo	0714	Vila Vicosa	1016	Porto de Mos	01	AVEIRO
+071102	Corval	0714	Vila Vicosa	1116	Odivelas	10	LEIRIA
+071103	Monsaraz	0714	Vila Vicosa	1116	Odivelas	10	LEIRIA
+071104	Reguengos de Monsaraz	0714	Vila Vicosa	1116	Odivelas	10	LEIRIA
+071106	Campo e Campinho	0714	Vila Vicosa	1116	Odivelas	10	LEIRIA
+071201	Vendas Novas	0714	Vila Vicosa	1215	Sousel	01	AVEIRO
+071202	Landeira	0714	Vila Vicosa	1215	Sousel	01	AVEIRO
+071301	Alcacovas	0714	Vila Vicosa	1318	Trofa	01	AVEIRO
+071302	Viana do Alentejo	0714	Vila Vicosa	1318	Trofa	01	AVEIRO
+071303	Aguiar	0714	Vila Vicosa	1318	Trofa	01	AVEIRO
+071401	Bencatel	0714	Vila Vicosa	1421	Ourem	01	AVEIRO
+071402	Ciladas	0714	Vila Vicosa	1421	Ourem	01	AVEIRO
+071404	Pardais	0714	Vila Vicosa	1421	Ourem	01	AVEIRO
+071406	Nossa Senhora da Conceicao e Sao Bartolomeu	0714	Vila Vicosa	1421	Ourem	01	AVEIRO
+080102	Guia	0816	Vila Real de Santo Antonio	0119	Vale de Cambra	10	LEIRIA
+080103	Paderne	0816	Vila Real de Santo Antonio	0119	Vale de Cambra	10	LEIRIA
+080104	Ferreiras	0816	Vila Real de Santo Antonio	0119	Vale de Cambra	10	LEIRIA
+080106	Albufeira e Olhos de Agua	0816	Vila Real de Santo Antonio	0119	Vale de Cambra	10	LEIRIA
+080202	Gioes	0816	Vila Real de Santo Antonio	0214	Vidigueira	01	AVEIRO
+080203	Martim Longo	0816	Vila Real de Santo Antonio	0214	Vidigueira	01	AVEIRO
+080205	Vaqueiros	0816	Vila Real de Santo Antonio	0214	Vidigueira	01	AVEIRO
+080206	Alcoutim e Pereiro	0816	Vila Real de Santo Antonio	0214	Vidigueira	01	AVEIRO
+080301	Aljezur	0816	Vila Real de Santo Antonio	0314	Vizela	01	AVEIRO
+080302	Bordeira	0816	Vila Real de Santo Antonio	0314	Vizela	01	AVEIRO
+080303	Odeceixe	0816	Vila Real de Santo Antonio	0314	Vizela	01	AVEIRO
+080304	Rogil	0816	Vila Real de Santo Antonio	0314	Vizela	01	AVEIRO
+080401	Azinhal	0816	Vila Real de Santo Antonio	0412	Vinhais	01	AVEIRO
+080402	Castro Marim	0816	Vila Real de Santo Antonio	0412	Vinhais	01	AVEIRO
+080403	Odeleite	0816	Vila Real de Santo Antonio	0412	Vinhais	01	AVEIRO
+080404	Altura	0816	Vila Real de Santo Antonio	0412	Vinhais	01	AVEIRO
+080503	Santa Barbara de Nexe	0816	Vila Real de Santo Antonio	0511	Vila Velha de Rodao	01	AVEIRO
+080506	Montenegro	0816	Vila Real de Santo Antonio	0511	Vila Velha de Rodao	01	AVEIRO
+080507	Conceicao e Estoi	0816	Vila Real de Santo Antonio	0511	Vila Velha de Rodao	01	AVEIRO
+080508	Faro (Se e Sao Pedro)	0816	Vila Real de Santo Antonio	0511	Vila Velha de Rodao	01	AVEIRO
+080602	Ferragudo	0816	Vila Real de Santo Antonio	0617	Vila Nova de Poiares	01	AVEIRO
+080604	Porches	0816	Vila Real de Santo Antonio	0617	Vila Nova de Poiares	01	AVEIRO
+080607	Estombar e Parchal	0816	Vila Real de Santo Antonio	0617	Vila Nova de Poiares	01	AVEIRO
+080608	Lagoa e Carvoeiro	0816	Vila Real de Santo Antonio	0617	Vila Nova de Poiares	01	AVEIRO
+080703	Luz	0816	Vila Real de Santo Antonio	0714	Vila Vicosa	01	AVEIRO
+080704	Odiaxere	0816	Vila Real de Santo Antonio	0714	Vila Vicosa	01	AVEIRO
+080707	Bensafrim e Barao de Sao Joao	0816	Vila Real de Santo Antonio	0714	Vila Vicosa	01	AVEIRO
+080708	Lagos (Sao Sebastiao e Santa Maria)	0816	Vila Real de Santo Antonio	0714	Vila Vicosa	01	AVEIRO
+080801	Almancil	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080802	Alte	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080803	Ameixial	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080804	Boliqueime	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080805	Quarteira	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080807	Salir	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080808	Loule (S. Clemente)	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080809	Loule (S. Sebastiao)	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080812	Querenca, Tor e Benafim	0816	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	01	AVEIRO
+080901	Alferce	0816	Vila Real de Santo Antonio	0914	Vila Nova de Foz Coa	01	AVEIRO
+080902	Marmelete	0816	Vila Real de Santo Antonio	0914	Vila Nova de Foz Coa	01	AVEIRO
+080903	Monchique	0816	Vila Real de Santo Antonio	0914	Vila Nova de Foz Coa	01	AVEIRO
+081003	Olhao	0816	Vila Real de Santo Antonio	1016	Porto de Mos	01	AVEIRO
+081004	Pechao	0816	Vila Real de Santo Antonio	1016	Porto de Mos	01	AVEIRO
+081005	Quelfes	0816	Vila Real de Santo Antonio	1016	Porto de Mos	01	AVEIRO
+081006	Moncarapacho e Fuseta	0816	Vila Real de Santo Antonio	1016	Porto de Mos	01	AVEIRO
+081101	Alvor	0816	Vila Real de Santo Antonio	1116	Odivelas	10	LEIRIA
+081102	Mexilhoeira Grande	0816	Vila Real de Santo Antonio	1116	Odivelas	10	LEIRIA
+081103	Portimao	0816	Vila Real de Santo Antonio	1116	Odivelas	10	LEIRIA
+081201	S. Bras de Alportel	0816	Vila Real de Santo Antonio	1215	Sousel	01	AVEIRO
+081303	Armacao de Pera	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081305	S. Bartolomeu de Messines	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081306	S. Marcos da Serra	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081307	Silves	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081309	Alcantarilha e Pera	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081310	Algoz e Tunes	0816	Vila Real de Santo Antonio	1318	Trofa	01	AVEIRO
+081401	Cachopo	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081404	Santa Catarina da Fonte do Bispo	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081408	Santa Luzia	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081410	Conceicao e Cabanas de Tavira	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081411	Luz de Tavira e Santo Estevao	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081412	Tavira (Santa Maria e Santiago)	0816	Vila Real de Santo Antonio	1421	Ourem	01	AVEIRO
+081501	Barao de S. Miguel	0816	Vila Real de Santo Antonio	1513	Sines	01	AVEIRO
+081502	Budens	0816	Vila Real de Santo Antonio	1513	Sines	01	AVEIRO
+081504	Vila de Sagres	0816	Vila Real de Santo Antonio	1513	Sines	01	AVEIRO
+081506	Vila do Bispo e Raposeira	0816	Vila Real de Santo Antonio	1513	Sines	01	AVEIRO
+081601	Vila Nova de Cacela	0816	Vila Real de Santo Antonio	1610	Vila Nova de Cerveira	01	AVEIRO
+081602	Vila Real de Santo Antonio	0816	Vila Real de Santo Antonio	1610	Vila Nova de Cerveira	01	AVEIRO
+081603	Monte Gordo	0816	Vila Real de Santo Antonio	1610	Vila Nova de Cerveira	01	AVEIRO
+090102	Carapito	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090103	Corticada	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090105	Dornelas	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090106	Eirado	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090107	Forninhos	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090109	Pena Verde	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	10	LEIRIA
+090110	Pinheiro	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	11	LISBOA
+090114	Aguiar da Beira e Coruche	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	11	LISBOA
+090115	Sequeiros e Gradiz	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	11	LISBOA
+090116	Souto de Aguiar da Beira e Valverde	0914	Vila Nova de Foz Coa	0119	Vale de Cambra	11	LISBOA
+090203	Almeida	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090207	Castelo Bom	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090209	Freineda	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090210	Freixo	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090213	Malhada Sorda	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090219	Nave de Haver	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090224	S. Pedro de Rio Seco	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090227	Vale da Mula	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090229	Vilar Formoso	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090230	Amoreira, Parada e Cabreira	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090231	Azinhal, Peva e Valverde	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090232	Castelo Mendo, Ade, Monteperobolso e Mesquitela	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090233	Junca e Naves	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090234	Leomil, Mido, Senouras e Aldeia Nova	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090235	Malpartida e Vale de Coelha	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090236	Miuzela e Porto de Ovelha	0914	Vila Nova de Foz Coa	0214	Vidigueira	01	AVEIRO
+090302	Baracal	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090304	Carrapichana	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090306	Forno Telheiro	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090307	Lajeosa do Mondego	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090308	Linhares	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090309	Macal do Chao	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090310	Mesquitela	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090311	Minhocal	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090312	Prados	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090314	Ratoeira	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090318	Vale de Azares	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090322	Casas do Soeiro	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090323	Acores e Velosa	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090324	Sao Pedro e Santa Maria e Vila Boa do Mondego	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090325	Cortico da Serra, Vide Entre Vinhas e Salgueirais	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090326	Rapa e Cadafaz	0914	Vila Nova de Foz Coa	0314	Vizela	01	AVEIRO
+090403	Castelo Rodrigo	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090406	Escalhao	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090408	Figueira de Castelo Rodrigo	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090410	Mata de Lobos	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090415	Vermiosa	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090418	Algodres, Vale de Afonsinho e Vilar de Amargo	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090419	Almofala e Escarigo	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090420	Cinco Vilas e Reigada	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090421	Freixeda Torrao, Quinta Pero Martins, Penha Aguia	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090422	Colmeal e Vilar Torpim	0914	Vila Nova de Foz Coa	0412	Vinhais	01	AVEIRO
+090501	Algodres	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090502	Casal Vasco	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090504	Figueiro da Granja	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090505	Fornos de Algodres	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090507	Infias	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090509	Maceira	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090510	Matanca	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090511	Muxagata	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090512	Queiriz	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090517	Cortico e Vila Cha	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090518	Juncais, Vila Ruiva e Vila Soeiro do Chao	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090519	Sobral Pichorro e Fuinhas	0914	Vila Nova de Foz Coa	0511	Vila Velha de Rodao	01	AVEIRO
+090602	Arcozelo	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090603	Cativelos	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090605	Folgosinho	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090612	Nespereira	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090613	Pacos da Serra	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090614	Ribamondego	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090617	S. Paio	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090619	Vila Cortes da Serra	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090620	Vila Franca da Serra	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090621	Vila Nova de Tazem	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090623	Aldeias e Mangualde da Serra	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090624	Figueiro da Serra e Freixo da Serra	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090625	Gouveia (Sao Pedro e Sao Juliao)	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090626	Melo e Nabais	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090627	Moimenta da Serra e Vinho	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090628	Rio Torto e Lagarinhos	0914	Vila Nova de Foz Coa	0617	Vila Nova de Poiares	01	AVEIRO
+090703	Aldeia do Bispo	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090704	Aldeia Vicosa	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090705	Alvendre	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090706	Arrifana	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090708	Avelas da Ribeira	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090709	Benespera	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090711	Casal de Cinza	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090712	Castanheira	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090713	Cavadoude	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090714	Codesseiro	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090716	Faia	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090717	Famalicao	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090718	Fernao Joanes	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090721	Goncalo Bocas	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090722	Joao Antao	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090723	Macainhas	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090724	Marmeleiro	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090725	Meios	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090728	Panoias de Cima	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090729	Pega	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090730	Pera do Moco	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090732	Porto da Carne	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090734	Ramela	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090738	Santana da Azinha	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090744	Sobral da Serra	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090746	Vale de Estrela	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090747	Valhelhas	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090748	Vela	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090749	Videmonte	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090750	Vila Cortes do Mondego	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090751	Vila Fernando	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090752	Vila Franca do Deao	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090753	Vila Garcia	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090757	Goncalo	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090758	Guarda	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090759	Jarmelo Sao Miguel	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090760	Jarmelo Sao Pedro	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090761	Avelas de Ambom e Rocamondo	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090762	Corujeira e Trinta	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090763	Mizarela, Pero Soares e Vila Soeiro	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090764	Pousade e Albardo	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090765	Rochoso e Monte Margarida	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090766	Adao	0914	Vila Nova de Foz Coa	0714	Vila Vicosa	01	AVEIRO
+090801	Sameiro	0914	Vila Nova de Foz Coa	0816	Vila Real de Santo Antonio	01	AVEIRO
+090802	Manteigas (Santa Maria)	0914	Vila Nova de Foz Coa	0816	Vila Real de Santo Antonio	01	AVEIRO
+090803	Manteigas (S. Pedro)	0914	Vila Nova de Foz Coa	0816	Vila Real de Santo Antonio	01	AVEIRO
+090804	Vale da Amoreira	0914	Vila Nova de Foz Coa	0816	Vila Real de Santo Antonio	01	AVEIRO
+090901	Aveloso	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090902	Barreira	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090905	Coriscada	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090907	Longroiva	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090908	Marialva	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090912	Poco do Canto	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090914	Rabacal	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090915	Ranhados	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090917	Meda, Outeiro de Gatos e Fonte Longa	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090918	Prova e Casteicao	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+090919	Vale Flor, Carvalhal e Pai Penela	0914	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	01	AVEIRO
+091009	Ervedosa	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091010	Freixedas	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091012	Lamegal	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091013	Lameiras	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091014	Manigoto	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091015	Pala	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091017	Pinhel	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091018	Pinzio	0914	Vila Nova de Foz Coa	1016	Porto de Mos	01	AVEIRO
+091024	Souro Pires	0914	Vila Nova de Foz Coa	1016	Porto de Mos	02	BEJA
+091027	Vascoveiro	0914	Vila Nova de Foz Coa	1016	Porto de Mos	02	BEJA
+091028	Agregacao Das Freguesias Sul de Pinhel	0914	Vila Nova de Foz Coa	1016	Porto de Mos	02	BEJA
+091029	Alverca da Beira/Bouca Cova	0914	Vila Nova de Foz Coa	1016	Porto de Mos	02	BEJA
+091030	Terras de Massueime	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091031	Valbom/Bogalhal	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091032	Alto do Palurdo	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091033	Vale do Coa	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091034	Vale do Massueime	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091035	Atalaia e Safurdao	0914	Vila Nova de Foz Coa	1016	Porto de Mos	03	BRAGA
+091101	Aguas Belas	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091102	Aldeia do Bispo	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091103	Aldeia da Ponte	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091106	Aldeia Velha	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091107	Alfaiates	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091109	Baracal	0914	Vila Nova de Foz Coa	1116	Odivelas	10	LEIRIA
+091110	Bendada	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091111	Bismula	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091112	Casteleiro	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091113	Cerdeira	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091114	Foios	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091118	Malcata	0914	Vila Nova de Foz Coa	1116	Odivelas	11	LISBOA
+091120	Nave	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091123	Quadrazais	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091124	Quintas de Sao Bartolomeu	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091125	Rapoula do Coa	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091126	Rebolosa	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091127	Rendo	0914	Vila Nova de Foz Coa	1116	Odivelas	12	PORTALEGRE
+091133	Sortelha	0914	Vila Nova de Foz Coa	1116	Odivelas	13	PORTO
+091134	Souto	0914	Vila Nova de Foz Coa	1116	Odivelas	13	PORTO
+091136	Vale de Espinho	0914	Vila Nova de Foz Coa	1116	Odivelas	13	PORTO
+091138	Vila Boa	0914	Vila Nova de Foz Coa	1116	Odivelas	13	PORTO
+091139	Vila do Touro	0914	Vila Nova de Foz Coa	1116	Odivelas	13	PORTO
+091141	Aldeia da Ribeira, Vilar Maior e Badamalos	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091142	Lajeosa e Forcalhos	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091143	Pousafoles do Bispo, Pena Lobo e Lomba	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091144	Ruvina, Ruivos e Vale Das Eguas	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091145	Sabugal e Aldeia de Santo Antonio	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091146	Santo Estevao e Moita	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091147	Seixo do Coa e Vale Longo	0914	Vila Nova de Foz Coa	1116	Odivelas	14	SANTAREM
+091201	Alvoco da Serra	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091205	Girabolhos	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091207	Loriga	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091208	Paranhos	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091209	Pinhancos	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091210	Sabugueiro	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091212	Sandomil	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091213	Santa Comba	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091216	Santiago	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091219	Sazes da Beira	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091221	Teixeira	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091224	Travancinha	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091225	Valezim	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091228	Vila Cova A Coelheira	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091230	Carragozela e Varzea de Meruge	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091231	Sameice e Santa Eulalia	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091232	Santa Marinha e Sao Martinho	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091233	Seia, Sao Romao e Lapa Dos Dinheiros	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091234	Torrozelo e Folhadosa	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091235	Tourais e Lajes	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091236	Vide e Cabeca	0914	Vila Nova de Foz Coa	1215	Sousel	01	AVEIRO
+091301	Aldeia Nova	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091303	Castanheira	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091304	Cogula	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091305	Cotimos	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091307	Fiaes	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091309	Granja	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091310	Guilheiro	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091311	Moimentinha	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091312	Moreira de Rei	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091313	Palhais	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091314	Povoa do Concelho	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091315	Reboleiro	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091316	Rio de Mel	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091321	Tamanhos	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091325	Valdujo	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091330	Freches e Torres	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091331	Torre do Terrenho, Sebadelhe da Serra e Terrenho	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091332	Trancoso (Sao Pedro e Santa Maria) e Souto Maior	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091333	Vale do Seixo e Vila Garcia	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091334	Vila Franca Das Naves e Feital	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091335	Vilares e Carnicaes	0914	Vila Nova de Foz Coa	1318	Trofa	01	AVEIRO
+091401	Almendra	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091402	Castelo Melhor	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091403	Cedovim	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091404	Chas	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091405	Custoias	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091407	Horta	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091410	Muxagata	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091411	Numao	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091412	Santa Comba	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091414	Sebadelhe	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091415	Seixas	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091416	Touca	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091418	Freixo de Numao	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+091419	Vila Nova de Foz Coa	0914	Vila Nova de Foz Coa	1421	Ourem	01	AVEIRO
+100102	Alfeizerao	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100104	Barrio	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100105	Benedita	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100106	Cela	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100108	Evora de Alcobaca	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100109	Maiorga	1016	Porto de Mos	0119	Vale de Cambra	10	LEIRIA
+100112	S. Martinho do Porto	1016	Porto de Mos	0119	Vale de Cambra	11	LISBOA
+100114	Turquel	1016	Porto de Mos	0119	Vale de Cambra	11	LISBOA
+100116	Vimeiro	1016	Porto de Mos	0119	Vale de Cambra	11	LISBOA
+100120	Aljubarrota	1016	Porto de Mos	0119	Vale de Cambra	12	PORTALEGRE
+100121	Alcobaca e Vestiaria	1016	Porto de Mos	0119	Vale de Cambra	12	PORTALEGRE
+100122	Coz, Alpedriz e Montes	1016	Porto de Mos	0119	Vale de Cambra	12	PORTALEGRE
+100123	Pataias e Martinganca	1016	Porto de Mos	0119	Vale de Cambra	12	PORTALEGRE
+100201	Almoster	1016	Porto de Mos	0214	Vidigueira	01	AVEIRO
+100204	Macas de D. Maria	1016	Porto de Mos	0214	Vidigueira	01	AVEIRO
+100205	Pelma	1016	Porto de Mos	0214	Vidigueira	01	AVEIRO
+100208	Alvaiazere	1016	Porto de Mos	0214	Vidigueira	01	AVEIRO
+100209	Pussos Sao Pedro	1016	Porto de Mos	0214	Vidigueira	01	AVEIRO
+100301	Alvorge	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100303	Avelar	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100304	Chao de Couce	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100306	Pousaflores	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100307	Santiago da Guarda	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100309	Ansiao	1016	Porto de Mos	0314	Vizela	01	AVEIRO
+100401	Batalha	1016	Porto de Mos	0412	Vinhais	01	AVEIRO
+100402	Reguengo do Fetal	1016	Porto de Mos	0412	Vinhais	01	AVEIRO
+100403	S. Mamede	1016	Porto de Mos	0412	Vinhais	01	AVEIRO
+100404	Golpilheira	1016	Porto de Mos	0412	Vinhais	01	AVEIRO
+100502	Carvalhal	1016	Porto de Mos	0511	Vila Velha de Rodao	01	AVEIRO
+100503	Rolica	1016	Porto de Mos	0511	Vila Velha de Rodao	01	AVEIRO
+100505	Po	1016	Porto de Mos	0511	Vila Velha de Rodao	01	AVEIRO
+100506	Bombarral e Vale Covo	1016	Porto de Mos	0511	Vila Velha de Rodao	01	AVEIRO
+100601	A Dos Francos	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100602	Alvorninha	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100604	Carvalhal Benfeito	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100606	Foz do Arelho	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100607	Landal	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100608	Nadadouro	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100609	Salir de Matos	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100611	Santa Catarina	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100615	Vidais	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100617	Nossa Senhora do Populo, Coto e Sao Gregorio	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100618	Caldas da Rainha - Santo Onofre e Serra do Bouro	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100619	Tornada e Salir do Porto	1016	Porto de Mos	0617	Vila Nova de Poiares	01	AVEIRO
+100703	Castanheira de Pera e Coentral	1016	Porto de Mos	0714	Vila Vicosa	01	AVEIRO
+100801	Aguda	1016	Porto de Mos	0816	Vila Real de Santo Antonio	01	AVEIRO
+100802	Arega	1016	Porto de Mos	0816	Vila Real de Santo Antonio	01	AVEIRO
+100803	Campelo	1016	Porto de Mos	0816	Vila Real de Santo Antonio	01	AVEIRO
+100806	Figueiro Dos Vinhos e Bairradas	1016	Porto de Mos	0816	Vila Real de Santo Antonio	01	AVEIRO
+100901	Amor	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100902	Arrabal	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100907	Caranguejeira	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100909	Coimbrao	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100913	Maceira	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100915	Milagres	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100921	Regueira de Pontes	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100925	Bajouca	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100926	Bidoeira de Cima	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100932	Colmeias e Memoria	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100933	Leiria, Pousos, Barreira e Cortes	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100934	Marrazes e Barosa	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100935	Monte Real e Carvide	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100936	Monte Redondo e Carreira	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100937	Parceiros e Azoia	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100938	Santa Catarina da Serra e Chainca	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100939	Santa Eufemia e Boa Vista	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+100940	Souto da Carpalhosa e Ortigosa	1016	Porto de Mos	0914	Vila Nova de Foz Coa	01	AVEIRO
+101001	Marinha Grande	1016	Porto de Mos	1016	Porto de Mos	01	AVEIRO
+101002	Vieira de Leiria	1016	Porto de Mos	1016	Porto de Mos	01	AVEIRO
+101003	Moita	1016	Porto de Mos	1016	Porto de Mos	01	AVEIRO
+101101	Famalicao	1016	Porto de Mos	1116	Odivelas	10	LEIRIA
+101102	Nazare	1016	Porto de Mos	1116	Odivelas	10	LEIRIA
+101103	Valado Dos Frades	1016	Porto de Mos	1116	Odivelas	10	LEIRIA
+101201	A Dos Negros	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101202	Amoreira	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101203	Olho Marinho	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101207	Vau	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101208	Gaeiras	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101209	Usseira	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101210	Santa Maria, Sao Pedro e Sobral da Lagoa	1016	Porto de Mos	1215	Sousel	01	AVEIRO
+101301	Graca	1016	Porto de Mos	1318	Trofa	01	AVEIRO
+101302	Pedrogao Grande	1016	Porto de Mos	1318	Trofa	01	AVEIRO
+101303	Vila Facaia	1016	Porto de Mos	1318	Trofa	01	AVEIRO
+101402	Atouguia da Baleia	1016	Porto de Mos	1421	Ourem	01	AVEIRO
+101405	Serra D'el-Rei	1016	Porto de Mos	1421	Ourem	01	AVEIRO
+101406	Ferrel	1016	Porto de Mos	1421	Ourem	01	AVEIRO
+101407	Peniche	1016	Porto de Mos	1421	Ourem	01	AVEIRO
+101501	Abiul	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101503	Almagreira	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101504	Carnide	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101505	Carrico	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101506	Lourical	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101508	Pelariga	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101509	Pombal	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101510	Redinha	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101513	Vermoil	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101514	Vila Ca	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101515	Meirinhas	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101518	Guia, Ilha e Mata Mourisca	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101519	Santiago e S.Simao de Litem e Albergaria Dos Doze	1016	Porto de Mos	1513	Sines	01	AVEIRO
+101602	Alqueidao da Serra	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101605	Calvaria de Cima	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101606	Juncal	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101608	Mira de Aire	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101609	Pedreiras	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101610	S. Bento	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101613	Serro Ventoso	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101614	Porto de Mos - Sao Joao Baptista e Sao Pedro	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101615	Alvados e Alcaria	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+101616	Arrimal e Mendiga	1016	Porto de Mos	1610	Vila Nova de Cerveira	01	AVEIRO
+110106	Carnota	1116	Odivelas	0119	Vale de Cambra	10	LEIRIA
+110107	Meca	1116	Odivelas	0119	Vale de Cambra	10	LEIRIA
+110108	Olhalvo	1116	Odivelas	0119	Vale de Cambra	10	LEIRIA
+110109	Ota	1116	Odivelas	0119	Vale de Cambra	10	LEIRIA
+110113	Ventosa	1116	Odivelas	0119	Vale de Cambra	11	LISBOA
+110114	Vila Verde Dos Francos	1116	Odivelas	0119	Vale de Cambra	11	LISBOA
+110117	Abrigada e Cabanas de Torres	1116	Odivelas	0119	Vale de Cambra	11	LISBOA
+110118	Aldeia Galega da Merceana e Aldeia Gavinha	1116	Odivelas	0119	Vale de Cambra	11	LISBOA
+110119	Alenquer (Santo Estevao e Triana)	1116	Odivelas	0119	Vale de Cambra	11	LISBOA
+110120	Carregado e Cadafais	1116	Odivelas	0119	Vale de Cambra	12	PORTALEGRE
+110121	Ribafria e Pereiro de Palhacana	1116	Odivelas	0119	Vale de Cambra	12	PORTALEGRE
+110201	Arranho	1116	Odivelas	0214	Vidigueira	01	AVEIRO
+110202	Arruda Dos Vinhos	1116	Odivelas	0214	Vidigueira	01	AVEIRO
+110203	Cardosas	1116	Odivelas	0214	Vidigueira	01	AVEIRO
+110204	Santiago Dos Velhos	1116	Odivelas	0214	Vidigueira	01	AVEIRO
+110301	Alcoentre	1116	Odivelas	0314	Vizela	01	AVEIRO
+110302	Aveiras de Baixo	1116	Odivelas	0314	Vizela	01	AVEIRO
+110303	Aveiras de Cima	1116	Odivelas	0314	Vizela	01	AVEIRO
+110304	Azambuja	1116	Odivelas	0314	Vizela	01	AVEIRO
+110306	Vale do Paraiso	1116	Odivelas	0314	Vizela	01	AVEIRO
+110307	Vila Nova da Rainha	1116	Odivelas	0314	Vizela	01	AVEIRO
+110310	Manique do Intendente, V.N.De S.Pedro e Macussa	1116	Odivelas	0314	Vizela	01	AVEIRO
+110401	Alguber	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110407	Peral	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110409	Vermelha	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110410	Vilar	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110411	Cadaval e Pero Moniz	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110412	Lamas e Cercal	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110413	Painho e Figueiros	1116	Odivelas	0412	Vinhais	01	AVEIRO
+110501	Alcabideche	1116	Odivelas	0511	Vila Velha de Rodao	01	AVEIRO
+110506	S. Domingos de Rana	1116	Odivelas	0511	Vila Velha de Rodao	01	AVEIRO
+110507	Carcavelos e Parede	1116	Odivelas	0511	Vila Velha de Rodao	01	AVEIRO
+110508	Cascais e Estoril	1116	Odivelas	0511	Vila Velha de Rodao	01	AVEIRO
+110601	Ajuda	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110602	Alcantara	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110607	Beato	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110608	Benfica	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110610	Campolide	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110611	Carnide	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110618	Lumiar	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110621	Marvila	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110633	Olivais	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110639	S. Domingos de Benfica	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110654	Alvalade	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110655	Areeiro	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110656	Arroios	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110657	Avenidas Novas	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110658	Belem	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110659	Campo de Ourique	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110660	Estrela	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110661	Misericordia	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110662	Parque Das Nacoes	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110663	Penha de Franca	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110664	Santa Clara	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110665	Santa Maria Maior	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110666	Santo Antonio	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110667	Sao Vicente	1116	Odivelas	0617	Vila Nova de Poiares	01	AVEIRO
+110702	Bucelas	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110705	Fanhoes	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110707	Loures	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110708	Lousa	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110726	Moscavide e Portela	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110727	Sacavem e Prior Velho	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110728	Santa Iria de Azoia, Sao Joao da Talha e Bobadela	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110729	Santo Antao e Sao Juliao do Tojal	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110730	Santo Antonio Dos Cavaleiros e Frielas	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110731	Camarate, Unhos e Apelacao	1116	Odivelas	0714	Vila Vicosa	01	AVEIRO
+110803	Moita Dos Ferreiros	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110805	Reguengo Grande	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110806	Santa Barbara	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110808	Vimeiro	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110810	Ribamar	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110812	Lourinha e Atalaia	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110813	Miragaia e Marteleira	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110814	Sao Bartolomeu Dos Galegos e Moledo	1116	Odivelas	0816	Vila Real de Santo Antonio	01	AVEIRO
+110902	Carvoeira	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110904	Encarnacao	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110906	Ericeira	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110909	Mafra	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110911	Milharado	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110913	Santo Isidoro	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110918	Azueira e Sobral da Abelheira	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110919	Enxara do Bispo, Gradil e Vila Franca do Rosario	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110920	Igreja Nova e Cheleiros	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110921	Malveira e Sao Miguel de Alcainca	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+110922	Venda do Pinheiro e Santo Estevao Das Gales	1116	Odivelas	0914	Vila Nova de Foz Coa	01	AVEIRO
+111002	Barcarena	1116	Odivelas	1016	Porto de Mos	01	AVEIRO
+111010	Porto Salvo	1116	Odivelas	1016	Porto de Mos	01	AVEIRO
+111012	Alges, Linda-A-Velha e Cruz Quebrada-Dafundo	1116	Odivelas	1016	Porto de Mos	01	AVEIRO
+111013	Carnaxide e Queijas	1116	Odivelas	1016	Porto de Mos	01	AVEIRO
+111014	Oeiras e S.Juliao da Barra, Paco de Arcos e Caxias	1116	Odivelas	1016	Porto de Mos	01	AVEIRO
+111102	Algueirao-Mem Martins	1116	Odivelas	1116	Odivelas	10	LEIRIA
+111105	Colares	1116	Odivelas	1116	Odivelas	10	LEIRIA
+111108	Rio de Mouro	1116	Odivelas	1116	Odivelas	10	LEIRIA
+111115	Casal de Cambra	1116	Odivelas	1116	Odivelas	11	LISBOA
+111122	Agualva e Mira-Sintra	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111123	Almargem do Bispo, Pero Pinheiro e Montelavar	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111124	Cacem e Sao Marcos	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111125	Massama e Monte Abraao	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111126	Queluz e Belas	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111127	Sao Joao Das Lampas e Terrugem	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111128	S.Maria e S.Miguel, S.Martinho, S.Pedro Penaferrim	1116	Odivelas	1116	Odivelas	12	PORTALEGRE
+111201	Santo Quintino	1116	Odivelas	1215	Sousel	01	AVEIRO
+111202	Sapataria	1116	Odivelas	1215	Sousel	01	AVEIRO
+111203	Sobral de Monte Agraco	1116	Odivelas	1215	Sousel	01	AVEIRO
+111306	Freiria	1116	Odivelas	1318	Trofa	01	AVEIRO
+111310	Ponte do Rol	1116	Odivelas	1318	Trofa	01	AVEIRO
+111311	Ramalhal	1116	Odivelas	1318	Trofa	01	AVEIRO
+111314	S. Pedro da Cadeira	1116	Odivelas	1318	Trofa	01	AVEIRO
+111316	Silveira	1116	Odivelas	1318	Trofa	01	AVEIRO
+111317	Turcifal	1116	Odivelas	1318	Trofa	01	AVEIRO
+111318	Ventosa	1116	Odivelas	1318	Trofa	01	AVEIRO
+111321	A Dos Cunhados e Maceira	1116	Odivelas	1318	Trofa	01	AVEIRO
+111322	Campelos e Outeiro da Cabeca	1116	Odivelas	1318	Trofa	01	AVEIRO
+111323	Carvoeira e Carmoes	1116	Odivelas	1318	Trofa	01	AVEIRO
+111324	Dois Portos e Runa	1116	Odivelas	1318	Trofa	01	AVEIRO
+111325	Maxial e Monte Redondo	1116	Odivelas	1318	Trofa	01	AVEIRO
+111326	S.P., Santiago, S.M. Castelo e S.Miguel, Matacaes	1116	Odivelas	1318	Trofa	01	AVEIRO
+111408	Vialonga	1116	Odivelas	1421	Ourem	01	AVEIRO
+111409	Vila Franca de Xira	1116	Odivelas	1421	Ourem	01	AVEIRO
+111412	Alhandra, Sao Joao Dos Montes e Calhandriz	1116	Odivelas	1421	Ourem	01	AVEIRO
+111413	Alverca do Ribatejo e Sobralinho	1116	Odivelas	1421	Ourem	01	AVEIRO
+111414	Castanheira do Ribatejo e Cachoeiras	1116	Odivelas	1421	Ourem	01	AVEIRO
+111415	Povoa de Santa Iria e Forte da Casa	1116	Odivelas	1421	Ourem	01	AVEIRO
+111512	Alfragide	1116	Odivelas	1513	Sines	01	AVEIRO
+111513	Aguas Livres	1116	Odivelas	1513	Sines	01	AVEIRO
+111514	Encosta do Sol	1116	Odivelas	1513	Sines	01	AVEIRO
+111515	Falagueira-Venda Nova	1116	Odivelas	1513	Sines	01	AVEIRO
+111516	Mina de Agua	1116	Odivelas	1513	Sines	01	AVEIRO
+111517	Venteira	1116	Odivelas	1513	Sines	01	AVEIRO
+111603	Odivelas	1116	Odivelas	1610	Vila Nova de Cerveira	01	AVEIRO
+111608	Pontinha e Famoes	1116	Odivelas	1610	Vila Nova de Cerveira	01	AVEIRO
+111609	Povoa de Santo Adriao e Olival Basto	1116	Odivelas	1610	Vila Nova de Cerveira	01	AVEIRO
+111610	Ramada e Canecas	1116	Odivelas	1610	Vila Nova de Cerveira	01	AVEIRO
+120101	Alter do Chao	1215	Sousel	0119	Vale de Cambra	10	LEIRIA
+120102	Chancelaria	1215	Sousel	0119	Vale de Cambra	10	LEIRIA
+120103	Seda	1215	Sousel	0119	Vale de Cambra	10	LEIRIA
+120104	Cunheira	1215	Sousel	0119	Vale de Cambra	10	LEIRIA
+120201	Assuncao	1215	Sousel	0214	Vidigueira	01	AVEIRO
+120202	Esperanca	1215	Sousel	0214	Vidigueira	01	AVEIRO
+120203	Mosteiros	1215	Sousel	0214	Vidigueira	01	AVEIRO
+120302	Aldeia Velha	1215	Sousel	0314	Vizela	01	AVEIRO
+120303	Avis	1215	Sousel	0314	Vizela	01	AVEIRO
+120305	Ervedal	1215	Sousel	0314	Vizela	01	AVEIRO
+120306	Figueira e Barros	1215	Sousel	0314	Vizela	01	AVEIRO
+120309	Alcorrego e Maranhao	1215	Sousel	0314	Vizela	01	AVEIRO
+120310	Benavila e Valongo	1215	Sousel	0314	Vizela	01	AVEIRO
+120401	Nossa Senhora da Expectacao	1215	Sousel	0412	Vinhais	01	AVEIRO
+120402	Nossa Senhora da Graca Dos Degolados	1215	Sousel	0412	Vinhais	01	AVEIRO
+120403	S. Joao Baptista	1215	Sousel	0412	Vinhais	01	AVEIRO
+120501	Nossa Senhora da Graca de Povoa e Meadas	1215	Sousel	0511	Vila Velha de Rodao	01	AVEIRO
+120502	Santa Maria da Devesa	1215	Sousel	0511	Vila Velha de Rodao	01	AVEIRO
+120503	Santiago Maior	1215	Sousel	0511	Vila Velha de Rodao	01	AVEIRO
+120504	S. Joao Baptista	1215	Sousel	0511	Vila Velha de Rodao	01	AVEIRO
+120601	Aldeia da Mata	1215	Sousel	0617	Vila Nova de Poiares	01	AVEIRO
+120604	Gafete	1215	Sousel	0617	Vila Nova de Poiares	01	AVEIRO
+120605	Monte da Pedra	1215	Sousel	0617	Vila Nova de Poiares	01	AVEIRO
+120607	Crato e Martires, Flor da Rosa e Vale do Peso	1215	Sousel	0617	Vila Nova de Poiares	01	AVEIRO
+120706	Santa Eulalia	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120707	S. Bras e S. Lourenco	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120708	S. Vicente e Ventosa	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120712	Assuncao, Ajuda, Salvador e Santo Ildefonso	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120713	Caia, Sao Pedro e Alcacova	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120714	Barbacena e Vila Fernando	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120715	Terrugem e Vila Boim	1215	Sousel	0714	Vila Vicosa	01	AVEIRO
+120801	Cabeco de Vide	1215	Sousel	0816	Vila Real de Santo Antonio	01	AVEIRO
+120802	Fronteira	1215	Sousel	0816	Vila Real de Santo Antonio	01	AVEIRO
+120803	S. Saturnino	1215	Sousel	0816	Vila Real de Santo Antonio	01	AVEIRO
+120902	Belver	1215	Sousel	0914	Vila Nova de Foz Coa	01	AVEIRO
+120903	Comenda	1215	Sousel	0914	Vila Nova de Foz Coa	01	AVEIRO
+120905	Margem	1215	Sousel	0914	Vila Nova de Foz Coa	01	AVEIRO
+120906	Gaviao e Atalaia	1215	Sousel	0914	Vila Nova de Foz Coa	01	AVEIRO
+121001	Beira	1215	Sousel	1016	Porto de Mos	01	AVEIRO
+121002	Santa Maria de Marvao	1215	Sousel	1016	Porto de Mos	01	AVEIRO
+121003	Santo Antonio Das Areias	1215	Sousel	1016	Porto de Mos	01	AVEIRO
+121004	S. Salvador da Aramenha	1215	Sousel	1016	Porto de Mos	01	AVEIRO
+121101	Assumar	1215	Sousel	1116	Odivelas	10	LEIRIA
+121102	Monforte	1215	Sousel	1116	Odivelas	10	LEIRIA
+121103	Santo Aleixo	1215	Sousel	1116	Odivelas	10	LEIRIA
+121104	Vaiamonte	1215	Sousel	1116	Odivelas	10	LEIRIA
+121201	Alpalhao	1215	Sousel	1215	Sousel	01	AVEIRO
+121205	Montalvao	1215	Sousel	1215	Sousel	01	AVEIRO
+121207	Santana	1215	Sousel	1215	Sousel	01	AVEIRO
+121208	S. Matias	1215	Sousel	1215	Sousel	01	AVEIRO
+121210	Tolosa	1215	Sousel	1215	Sousel	01	AVEIRO
+121211	Arez e Amieira do Tejo	1215	Sousel	1215	Sousel	01	AVEIRO
+121212	Espirito Santo, Nossa Senhora da Graca e Sao Simao	1215	Sousel	1215	Sousel	01	AVEIRO
+121301	Galveias	1215	Sousel	1318	Trofa	01	AVEIRO
+121302	Montargil	1215	Sousel	1318	Trofa	01	AVEIRO
+121304	Foros de Arrao	1215	Sousel	1318	Trofa	01	AVEIRO
+121305	Longomel	1215	Sousel	1318	Trofa	01	AVEIRO
+121308	Ponte de Sor, Tramaga e Vale de Acor	1215	Sousel	1318	Trofa	01	AVEIRO
+121401	Alagoa	1215	Sousel	1421	Ourem	01	AVEIRO
+121402	Alegrete	1215	Sousel	1421	Ourem	01	AVEIRO
+121404	Fortios	1215	Sousel	1421	Ourem	01	AVEIRO
+121410	Urra	1215	Sousel	1421	Ourem	01	AVEIRO
+121411	Se e Sao Lourenco	1215	Sousel	1421	Ourem	01	AVEIRO
+121412	Reguengo e Sao Juliao	1215	Sousel	1421	Ourem	01	AVEIRO
+121413	Ribeira de Nisa e Carreiras	1215	Sousel	1421	Ourem	01	AVEIRO
+121501	Cano	1215	Sousel	1513	Sines	01	AVEIRO
+121502	Casa Branca	1215	Sousel	1513	Sines	01	AVEIRO
+121503	Santo Amaro	1215	Sousel	1513	Sines	01	AVEIRO
+121504	Sousel	1215	Sousel	1513	Sines	01	AVEIRO
+130103	Ansiaes	1318	Trofa	0119	Vale de Cambra	10	LEIRIA
+130107	Candemil	1318	Trofa	0119	Vale de Cambra	10	LEIRIA
+130112	Fregim	1318	Trofa	0119	Vale de Cambra	11	LISBOA
+130115	Fridao	1318	Trofa	0119	Vale de Cambra	11	LISBOA
+130117	Gondar	1318	Trofa	0119	Vale de Cambra	11	LISBOA
+130118	Jazente	1318	Trofa	0119	Vale de Cambra	11	LISBOA
+130119	Lomba	1318	Trofa	0119	Vale de Cambra	11	LISBOA
+130120	Louredo	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130121	Lufrei	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130123	Mancelos	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130126	Padronelo	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130128	Rebordelo	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130129	Salvador do Monte	1318	Trofa	0119	Vale de Cambra	12	PORTALEGRE
+130134	Gouveia (S. Simao)	1318	Trofa	0119	Vale de Cambra	13	PORTO
+130135	Teloes	1318	Trofa	0119	Vale de Cambra	13	PORTO
+130136	Travanca	1318	Trofa	0119	Vale de Cambra	13	PORTO
+130138	Vila Caiz	1318	Trofa	0119	Vale de Cambra	13	PORTO
+130139	Vila Chao do Marao	1318	Trofa	0119	Vale de Cambra	13	PORTO
+130141	Aboadela, Sanche e Varzea	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130142	Amarante (Sao Goncalo), Madalena, Cepelos e Gatao	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130143	Bustelo, Carneiro e Carvalho de Rei	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130144	Figueiro (Santiago e Santa Cristina)	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130145	Freixo de Cima e de Baixo	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130146	Olo e Canadelo	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130147	Real, Ataide e Oliveira	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130148	Vila Garcia, Aboim e Chapa	1318	Trofa	0119	Vale de Cambra	14	SANTAREM
+130204	Frende	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130205	Gestaco	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130206	Gove	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130207	Grilo	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130208	Loivos do Monte	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130215	Santa Marinha do Zezere	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130219	Valadares	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130220	Viariz	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130221	Ancede e Ribadouro	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130222	Baiao (Santa Leocadia) e Mesquinhata	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130223	Campelo e Ovil	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130224	Loivos da Ribeira e Tresouras	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130225	Santa Cruz do Douro e Sao Tome de Covelas	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130226	Teixeira e Teixeiro	1318	Trofa	0214	Vidigueira	01	AVEIRO
+130301	Aiao	1318	Trofa	0314	Vizela	01	AVEIRO
+130302	Airaes	1318	Trofa	0314	Vizela	01	AVEIRO
+130305	Friande	1318	Trofa	0314	Vizela	01	AVEIRO
+130306	Idaes	1318	Trofa	0314	Vizela	01	AVEIRO
+130307	Jugueiros	1318	Trofa	0314	Vizela	01	AVEIRO
+130313	Penacova	1318	Trofa	0314	Vizela	01	AVEIRO
+130314	Pinheiro	1318	Trofa	0314	Vizela	01	AVEIRO
+130315	Pombeiro de Ribavizela	1318	Trofa	0314	Vizela	01	AVEIRO
+130317	Refontoura	1318	Trofa	0314	Vizela	01	AVEIRO
+130318	Regilde	1318	Trofa	0314	Vizela	01	AVEIRO
+130319	Revinhade	1318	Trofa	0314	Vizela	01	AVEIRO
+130324	Sendim	1318	Trofa	0314	Vizela	01	AVEIRO
+130334	Macieira da Lixa e Caramos	1318	Trofa	0314	Vizela	01	AVEIRO
+130335	Margaride, Varzea, Lagares, Varziela, Moure	1318	Trofa	0314	Vizela	01	AVEIRO
+130336	Pedreira, Rande e Sernande	1318	Trofa	0314	Vizela	01	AVEIRO
+130337	Torrados e Sousa	1318	Trofa	0314	Vizela	01	AVEIRO
+130338	Unhao e Lordelo	1318	Trofa	0314	Vizela	01	AVEIRO
+130339	Vila Cova da Lixa e Borba de Godim	1318	Trofa	0314	Vizela	01	AVEIRO
+130340	Vila Fria e Vizela (Sao Jorge)	1318	Trofa	0314	Vizela	01	AVEIRO
+130341	Vila Verde e Santao	1318	Trofa	0314	Vizela	01	AVEIRO
+130405	Lomba	1318	Trofa	0412	Vinhais	01	AVEIRO
+130408	Rio Tinto	1318	Trofa	0412	Vinhais	01	AVEIRO
+130412	Baguim do Monte (Rio Tinto)	1318	Trofa	0412	Vinhais	01	AVEIRO
+130413	Fanzeres e Sao Pedro da Cova	1318	Trofa	0412	Vinhais	01	AVEIRO
+130414	Foz do Sousa e Covelo	1318	Trofa	0412	Vinhais	01	AVEIRO
+130415	Gondomar (Sao Cosme), Valbom e Jovim	1318	Trofa	0412	Vinhais	01	AVEIRO
+130416	Melres e Medas	1318	Trofa	0412	Vinhais	01	AVEIRO
+130502	Aveleda	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130504	Caide de Rei	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130510	Lodares	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130512	Macieira	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130513	Meinedo	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130515	Nevogilde	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130524	Sousela	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130525	Torno	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130526	Vilar do Torno e Alentem	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130527	Cernadelo e Lousada (Sao Miguel e Santa Margarida)	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130528	Cristelos, Boim e Ordem	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130529	Figueiras e Covas	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130530	Lustosa e Barrosas (Santo Estevao)	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130531	Nespereira e Casais	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130532	Silvares, Pias, Nogueira e Alvarenga	1318	Trofa	0511	Vila Velha de Rodao	01	AVEIRO
+130601	Aguas Santas	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130603	Folgosa	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130608	Milheiros	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130609	Moreira	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130613	S. Pedro Fins	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130616	Vila Nova da Telha	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130617	Pedroucos	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130618	Castelo da Maia	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130619	Cidade da Maia	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130620	Nogueira e Silva Escura	1318	Trofa	0617	Vila Nova de Poiares	01	AVEIRO
+130704	Banho e Carvalhosa	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130705	Constance	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130722	Soalhaes	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130723	Sobretamega	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130724	Tabuado	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130730	Vila Boa do Bispo	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130732	Alpendorada, Varzea e Torrao	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130733	Avessadas e Rosem	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130734	Bem Viver	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130735	Livracao	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130736	Marco	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130737	Paredes de Viadores e Manhuncelos	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130738	Penhalonga e Pacos de Gaiolo	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130739	Sande e Sao Lourenco	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130740	Varzea, Aliviada e Folhada	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130741	Vila Boa de Quires e Maureles	1318	Trofa	0714	Vila Vicosa	01	AVEIRO
+130811	Custoias, Leca do Balio e Guifoes	1318	Trofa	0816	Vila Real de Santo Antonio	01	AVEIRO
+130812	Matosinhos e Leca da Palmeira	1318	Trofa	0816	Vila Real de Santo Antonio	01	AVEIRO
+130813	Perafita, Lavra e Santa Cruz do Bispo	1318	Trofa	0816	Vila Real de Santo Antonio	01	AVEIRO
+130814	Sao Mamede de Infesta e Senhora da Hora	1318	Trofa	0816	Vila Real de Santo Antonio	01	AVEIRO
+130902	Carvalhosa	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130904	Eiriz	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130905	Ferreira	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130906	Figueiro	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130908	Freamunde	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130910	Meixomil	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130913	Penamaior	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130914	Raimonda	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130916	Seroa	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130917	Frazao Arreigada	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130918	Pacos de Ferreira	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+130919	Sanfins Lamoso Codessos	1318	Trofa	0914	Vila Nova de Foz Coa	01	AVEIRO
+131001	Aguiar de Sousa	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131002	Astromil	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131003	Baltar	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131004	Beire	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131008	Cete	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131009	Cristelo	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131010	Duas Igrejas	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131011	Gandra	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131013	Lordelo	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131014	Louredo	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131017	Parada de Todeia	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131018	Rebordosa	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131019	Recarei	1318	Trofa	1016	Porto de Mos	01	AVEIRO
+131020	Sobreira	1318	Trofa	1016	Porto de Mos	02	BEJA
+131021	Sobrosa	1318	Trofa	1016	Porto de Mos	02	BEJA
+131022	Vandoma	1318	Trofa	1016	Porto de Mos	02	BEJA
+131024	Vilela	1318	Trofa	1016	Porto de Mos	02	BEJA
+131025	Paredes	1318	Trofa	1016	Porto de Mos	02	BEJA
+131101	Abragao	1318	Trofa	1116	Odivelas	10	LEIRIA
+131102	Boelhe	1318	Trofa	1116	Odivelas	10	LEIRIA
+131103	Bustelo	1318	Trofa	1116	Odivelas	10	LEIRIA
+131104	Cabeca Santa	1318	Trofa	1116	Odivelas	10	LEIRIA
+131105	Canelas	1318	Trofa	1116	Odivelas	10	LEIRIA
+131106	Capela	1318	Trofa	1116	Odivelas	10	LEIRIA
+131107	Casteloes	1318	Trofa	1116	Odivelas	10	LEIRIA
+131108	Croca	1318	Trofa	1116	Odivelas	10	LEIRIA
+131109	Duas Igrejas	1318	Trofa	1116	Odivelas	10	LEIRIA
+131110	Eja	1318	Trofa	1116	Odivelas	11	LISBOA
+131112	Fonte Arcada	1318	Trofa	1116	Odivelas	11	LISBOA
+131113	Galegos	1318	Trofa	1116	Odivelas	11	LISBOA
+131115	Irivo	1318	Trofa	1116	Odivelas	11	LISBOA
+131121	Oldroes	1318	Trofa	1116	Odivelas	12	PORTALEGRE
+131122	Paco de Sousa	1318	Trofa	1116	Odivelas	12	PORTALEGRE
+131125	Perozelo	1318	Trofa	1116	Odivelas	12	PORTALEGRE
+131128	Rans	1318	Trofa	1116	Odivelas	12	PORTALEGRE
+131129	Rio de Moinhos	1318	Trofa	1116	Odivelas	12	PORTALEGRE
+131132	Recezinhos (S. Mamede)	1318	Trofa	1116	Odivelas	13	PORTO
+131133	Recezinhos (S. Martinho)	1318	Trofa	1116	Odivelas	13	PORTO
+131134	Sebolido	1318	Trofa	1116	Odivelas	13	PORTO
+131136	Valpedre	1318	Trofa	1116	Odivelas	13	PORTO
+131138	Rio Mau	1318	Trofa	1116	Odivelas	13	PORTO
+131139	Penafiel	1318	Trofa	1116	Odivelas	13	PORTO
+131140	Luzim e Vila Cova	1318	Trofa	1116	Odivelas	14	SANTAREM
+131141	Guilhufe e Urro	1318	Trofa	1116	Odivelas	14	SANTAREM
+131142	Lagares e Figueira	1318	Trofa	1116	Odivelas	14	SANTAREM
+131143	Termas de Sao Vicente	1318	Trofa	1116	Odivelas	14	SANTAREM
+131202	Bonfim	1318	Trofa	1215	Sousel	01	AVEIRO
+131203	Campanha	1318	Trofa	1215	Sousel	01	AVEIRO
+131210	Paranhos	1318	Trofa	1215	Sousel	01	AVEIRO
+131211	Ramalde	1318	Trofa	1215	Sousel	01	AVEIRO
+131216	Aldoar, Foz do Douro e Nevogilde	1318	Trofa	1215	Sousel	01	AVEIRO
+131217	Cedofeita,Ildefonso,Se,Miragaia,Nicolau,Vitoria	1318	Trofa	1215	Sousel	01	AVEIRO
+131218	Lordelo do Ouro e Massarelos	1318	Trofa	1215	Sousel	01	AVEIRO
+131305	Balazar	1318	Trofa	1318	Trofa	01	AVEIRO
+131307	Estela	1318	Trofa	1318	Trofa	01	AVEIRO
+131308	Laundos	1318	Trofa	1318	Trofa	01	AVEIRO
+131311	Rates	1318	Trofa	1318	Trofa	01	AVEIRO
+131313	Aver-O-Mar, Amorim e Terroso	1318	Trofa	1318	Trofa	01	AVEIRO
+131314	Agucadoura e Navais	1318	Trofa	1318	Trofa	01	AVEIRO
+131315	Povoa de Varzim, Beiriz e Argivai	1318	Trofa	1318	Trofa	01	AVEIRO
+131401	Agrela	1318	Trofa	1421	Ourem	01	AVEIRO
+131402	Agua Longa	1318	Trofa	1421	Ourem	01	AVEIRO
+131405	Aves	1318	Trofa	1421	Ourem	01	AVEIRO
+131413	Monte Cordova	1318	Trofa	1421	Ourem	01	AVEIRO
+131416	Rebordoes	1318	Trofa	1421	Ourem	01	AVEIRO
+131418	Reguenga	1318	Trofa	1421	Ourem	01	AVEIRO
+131419	Roriz	1318	Trofa	1421	Ourem	01	AVEIRO
+131430	Negrelos (S. Tome)	1318	Trofa	1421	Ourem	01	AVEIRO
+131432	Vilarinho	1318	Trofa	1421	Ourem	01	AVEIRO
+131433	Areias, Sequeiro, Lama e Palmeira	1318	Trofa	1421	Ourem	01	AVEIRO
+131434	Campo, S.Salvador Campo, Negrelos	1318	Trofa	1421	Ourem	01	AVEIRO
+131435	Carreira e Refojos de Riba de Ave	1318	Trofa	1421	Ourem	01	AVEIRO
+131436	Lamelas e Guimarei	1318	Trofa	1421	Ourem	01	AVEIRO
+131437	St.Tirso, Couto (S.Cristina e S.Miguel) e Burgaes	1318	Trofa	1421	Ourem	01	AVEIRO
+131501	Alfena	1318	Trofa	1513	Sines	01	AVEIRO
+131503	Ermesinde	1318	Trofa	1513	Sines	01	AVEIRO
+131505	Valongo	1318	Trofa	1513	Sines	01	AVEIRO
+131506	Campo e Sobrado	1318	Trofa	1513	Sines	01	AVEIRO
+131602	Arvore	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131603	Aveleda	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131604	Azurara	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131607	Fajozes	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131610	Giao	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131611	Guilhabreu	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131612	Junqueira	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131613	Labruge	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131614	Macieira da Maia	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131616	Mindelo	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131617	Modivas	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131627	Vila Cha	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131628	Vila do Conde	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131630	Vilar de Pinheiro	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131631	Bagunte, Ferreiro, Outeiro Maior e Parada	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131632	Fornelo e Vairao	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131633	Malta e Canidelo	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131634	Retorta e Tougues	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131635	Rio Mau e Arcos	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131636	Touguinha e Touguinho	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131637	Vilar e Mosteiro	1318	Trofa	1610	Vila Nova de Cerveira	01	AVEIRO
+131701	Arcozelo	1318	Trofa	1714	Vila Real	01	AVEIRO
+131702	Avintes	1318	Trofa	1714	Vila Real	01	AVEIRO
+131703	Canelas	1318	Trofa	1714	Vila Real	01	AVEIRO
+131704	Canidelo	1318	Trofa	1714	Vila Real	01	AVEIRO
+131709	Madalena	1318	Trofa	1714	Vila Real	01	AVEIRO
+131712	Oliveira do Douro	1318	Trofa	1714	Vila Real	01	AVEIRO
+131717	S. Felix da Marinha	1318	Trofa	1714	Vila Real	01	AVEIRO
+131723	Vilar de Andorinho	1318	Trofa	1714	Vila Real	01	AVEIRO
+131725	Grijo e Sermonde	1318	Trofa	1714	Vila Real	01	AVEIRO
+131726	Gulpilhares e Valadares	1318	Trofa	1714	Vila Real	01	AVEIRO
+131727	Mafamude e Vilar do Paraiso	1318	Trofa	1714	Vila Real	01	AVEIRO
+131728	Pedroso e Seixezelo	1318	Trofa	1714	Vila Real	01	AVEIRO
+131729	Sandim, Olival, Lever e Crestuma	1318	Trofa	1714	Vila Real	01	AVEIRO
+131730	Santa Marinha e Sao Pedro da Afurada	1318	Trofa	1714	Vila Real	01	AVEIRO
+131731	Serzedo e Perosinho	1318	Trofa	1714	Vila Real	01	AVEIRO
+131806	Covelas	1318	Trofa	1824	Vouzel	01	AVEIRO
+131808	Muro	1318	Trofa	1824	Vouzel	01	AVEIRO
+131809	Alvarelhos e Guidoes	1318	Trofa	1824	Vouzel	01	AVEIRO
+131810	Bougado (Sao Martinho e Santiago)	1318	Trofa	1824	Vouzel	01	AVEIRO
+131811	Coronado (Sao Romao e Sao Mamede)	1318	Trofa	1824	Vouzel	01	AVEIRO
+140104	Bemposta	1421	Ourem	0119	Vale de Cambra	10	LEIRIA
+140105	Martinchel	1421	Ourem	0119	Vale de Cambra	10	LEIRIA
+140106	Mouriscas	1421	Ourem	0119	Vale de Cambra	10	LEIRIA
+140107	Pego	1421	Ourem	0119	Vale de Cambra	10	LEIRIA
+140108	Rio de Moinhos	1421	Ourem	0119	Vale de Cambra	10	LEIRIA
+140115	Tramagal	1421	Ourem	0119	Vale de Cambra	11	LISBOA
+140118	Fontes	1421	Ourem	0119	Vale de Cambra	11	LISBOA
+140119	Carvalhal	1421	Ourem	0119	Vale de Cambra	11	LISBOA
+140120	Abrantes (Sao Vicente e Sao Joao) e Alferrarede	1421	Ourem	0119	Vale de Cambra	12	PORTALEGRE
+140121	Aldeia do Mato e Souto	1421	Ourem	0119	Vale de Cambra	12	PORTALEGRE
+140122	Alvega e Concavada	1421	Ourem	0119	Vale de Cambra	12	PORTALEGRE
+140123	Sao Facundo e Vale Das Mos	1421	Ourem	0119	Vale de Cambra	12	PORTALEGRE
+140124	Sao Miguel do Rio Torto e Rossio Ao Sul do Tejo	1421	Ourem	0119	Vale de Cambra	12	PORTALEGRE
+140202	Bugalhos	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140206	Minde	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140207	Moitas Venda	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140208	Monsanto	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140209	Serra de Santo Antonio	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140211	Alcanena e Vila Moreira	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140212	Malhou, Louriceira e Espinheiro	1421	Ourem	0214	Vidigueira	01	AVEIRO
+140301	Almeirim	1421	Ourem	0314	Vizela	01	AVEIRO
+140302	Benfica do Ribatejo	1421	Ourem	0314	Vizela	01	AVEIRO
+140303	Fazendas de Almeirim	1421	Ourem	0314	Vizela	01	AVEIRO
+140304	Raposa	1421	Ourem	0314	Vizela	01	AVEIRO
+140401	Alpiarca	1421	Ourem	0412	Vinhais	01	AVEIRO
+140501	Benavente	1421	Ourem	0511	Vila Velha de Rodao	01	AVEIRO
+140502	Samora Correia	1421	Ourem	0511	Vila Velha de Rodao	01	AVEIRO
+140503	Santo Estevao	1421	Ourem	0511	Vila Velha de Rodao	01	AVEIRO
+140504	Barrosa	1421	Ourem	0511	Vila Velha de Rodao	01	AVEIRO
+140604	Pontevel	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140605	Valada	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140607	Vila Cha de Ourique	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140608	Vale da Pedra	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140609	Cartaxo e Vale da Pinta	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140610	Ereira e Lapa	1421	Ourem	0617	Vila Nova de Poiares	01	AVEIRO
+140704	Ulme	1421	Ourem	0714	Vila Vicosa	01	AVEIRO
+140705	Vale de Cavalos	1421	Ourem	0714	Vila Vicosa	01	AVEIRO
+140707	Carregueira	1421	Ourem	0714	Vila Vicosa	01	AVEIRO
+140708	Chamusca e Pinheiro Grande	1421	Ourem	0714	Vila Vicosa	01	AVEIRO
+140709	Parreira e Chouto	1421	Ourem	0714	Vila Vicosa	01	AVEIRO
+140801	Constancia	1421	Ourem	0816	Vila Real de Santo Antonio	01	AVEIRO
+140802	Montalvo	1421	Ourem	0816	Vila Real de Santo Antonio	01	AVEIRO
+140803	Santa Margarida da Coutada	1421	Ourem	0816	Vila Real de Santo Antonio	01	AVEIRO
+140902	Couco	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+140903	S. Jose da Lamarosa	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+140905	Branca	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+140907	Biscainho	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+140908	Santana do Mato	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+140909	Coruche, Fajarda e Erra	1421	Ourem	0914	Vila Nova de Foz Coa	01	AVEIRO
+141002	Nossa Sra de Fatima	1421	Ourem	1016	Porto de Mos	01	AVEIRO
+141003	Sao Joao Baptista	1421	Ourem	1016	Porto de Mos	01	AVEIRO
+141101	Aguas Belas	1421	Ourem	1116	Odivelas	10	LEIRIA
+141103	Beco	1421	Ourem	1116	Odivelas	10	LEIRIA
+141104	Chaos	1421	Ourem	1116	Odivelas	10	LEIRIA
+141106	Ferreira do Zezere	1421	Ourem	1116	Odivelas	10	LEIRIA
+141107	Igreja Nova do Sobral	1421	Ourem	1116	Odivelas	10	LEIRIA
+141110	Nossa Senhora do Pranto	1421	Ourem	1116	Odivelas	11	LISBOA
+141111	Areias e Pias	1421	Ourem	1116	Odivelas	11	LISBOA
+141201	Azinhaga	1421	Ourem	1215	Sousel	01	AVEIRO
+141202	Golega	1421	Ourem	1215	Sousel	01	AVEIRO
+141203	Pombalinho	1421	Ourem	1215	Sousel	01	AVEIRO
+141302	Amendoa	1421	Ourem	1318	Trofa	01	AVEIRO
+141303	Cardigos	1421	Ourem	1318	Trofa	01	AVEIRO
+141304	Carvoeiro	1421	Ourem	1318	Trofa	01	AVEIRO
+141305	Envendos	1421	Ourem	1318	Trofa	01	AVEIRO
+141307	Ortiga	1421	Ourem	1318	Trofa	01	AVEIRO
+141309	Macao, Penhascoso e Aboboreira	1421	Ourem	1318	Trofa	01	AVEIRO
+141401	Alcobertas	1421	Ourem	1421	Ourem	01	AVEIRO
+141402	Arrouquelas	1421	Ourem	1421	Ourem	01	AVEIRO
+141405	Fraguas	1421	Ourem	1421	Ourem	01	AVEIRO
+141408	Rio Maior	1421	Ourem	1421	Ourem	01	AVEIRO
+141410	Asseiceira	1421	Ourem	1421	Ourem	01	AVEIRO
+141411	S. Sebastiao	1421	Ourem	1421	Ourem	01	AVEIRO
+141415	Azambujeira e Malaqueijo	1421	Ourem	1421	Ourem	01	AVEIRO
+141416	Marmeleira e Assentiz	1421	Ourem	1421	Ourem	01	AVEIRO
+141417	Outeiro da Corticada e Arruda Dos Pisoes	1421	Ourem	1421	Ourem	01	AVEIRO
+141418	Sao Joao da Ribeira e Ribeira de Sao Joao	1421	Ourem	1421	Ourem	01	AVEIRO
+141502	Marinhais	1421	Ourem	1513	Sines	01	AVEIRO
+141503	Muge	1421	Ourem	1513	Sines	01	AVEIRO
+141507	Gloria do Ribatejo e Granho	1421	Ourem	1513	Sines	01	AVEIRO
+141508	Salvaterra de Magos e Foros de Salvaterra	1421	Ourem	1513	Sines	01	AVEIRO
+141601	Abitureiras	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141602	Abra	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141604	Alcanede	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141605	Alcanhoes	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141606	Almoster	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141607	Amiais de Baixo	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141608	Arneiro Das Milharicas	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141613	Mocarria	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141614	Pernes	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141616	Povoa da Isenta	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141625	Vale de Santarem	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141628	Gancaria	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141629	Achete, Azoia de Baixo e Povoa de Santarem	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141630	Azoia de Cima e Tremes	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141631	Casevel e Vaqueiros	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141632	Romeira e Varzea	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141633	Marvila, Ribeira Santarem, S.Salvador, S.Nicolau	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141634	Sao Vicente do Paul e Vale de Figueira	1421	Ourem	1610	Vila Nova de Cerveira	01	AVEIRO
+141701	Alcaravela	1421	Ourem	1714	Vila Real	01	AVEIRO
+141702	Santiago de Montalegre	1421	Ourem	1714	Vila Real	01	AVEIRO
+141703	Sardoal	1421	Ourem	1714	Vila Real	01	AVEIRO
+141704	Valhascos	1421	Ourem	1714	Vila Real	01	AVEIRO
+141802	Asseiceira	1421	Ourem	1824	Vouzel	01	AVEIRO
+141804	Carregueiros	1421	Ourem	1824	Vouzel	01	AVEIRO
+141808	Olalhas	1421	Ourem	1824	Vouzel	01	AVEIRO
+141809	Paialvo	1421	Ourem	1824	Vouzel	01	AVEIRO
+141813	S. Pedro de Tomar	1421	Ourem	1824	Vouzel	01	AVEIRO
+141814	Sabacheira	1421	Ourem	1824	Vouzel	01	AVEIRO
+141817	Alem da Ribeira e Pedreira	1421	Ourem	1824	Vouzel	01	AVEIRO
+141818	Casais e Alviobeira	1421	Ourem	1824	Vouzel	01	AVEIRO
+141819	Madalena e Beselga	1421	Ourem	1824	Vouzel	01	AVEIRO
+141820	Serra e Junceira	1421	Ourem	1824	Vouzel	01	AVEIRO
+141821	Sao Joao Baptista e Santa Maria Dos Olivais	1421	Ourem	1824	Vouzel	01	AVEIRO
+141902	Assentiz	1421	Ourem	0101	Agueda	01	AVEIRO
+141904	Chancelaria	1421	Ourem	0101	Agueda	01	AVEIRO
+141909	Pedrogao	1421	Ourem	0101	Agueda	01	AVEIRO
+141910	Riachos	1421	Ourem	0101	Agueda	01	AVEIRO
+141916	Zibreira	1421	Ourem	0101	Agueda	01	AVEIRO
+141917	Meia Via	1421	Ourem	0101	Agueda	01	AVEIRO
+141918	Brogueira, Parceiros de Igreja e Alcorochel	1421	Ourem	0101	Agueda	01	AVEIRO
+141919	Olaia e Paco	1421	Ourem	0101	Agueda	01	AVEIRO
+141920	Torres Novas (Santa Maria, Salvador e Santiago)	1421	Ourem	0101	Agueda	01	AVEIRO
+141921	Torres Novas (Sao Pedro), Lapas e Ribeira Branca	1421	Ourem	0101	Agueda	01	AVEIRO
+142001	Atalaia	1421	Ourem	0101	Agueda	01	AVEIRO
+142002	Praia do Ribatejo	1421	Ourem	0101	Agueda	01	AVEIRO
+142003	Tancos	1421	Ourem	0101	Agueda	01	AVEIRO
+142006	Vila Nova da Barquinha	1421	Ourem	0101	Agueda	01	AVEIRO
+142101	Alburitel	1421	Ourem	0101	Agueda	10	LEIRIA
+142102	Atouguia	1421	Ourem	0101	Agueda	10	LEIRIA
+142104	Caxarias	1421	Ourem	0101	Agueda	10	LEIRIA
+142105	Espite	1421	Ourem	0101	Agueda	10	LEIRIA
+142106	Fatima	1421	Ourem	0101	Agueda	10	LEIRIA
+142111	Nossa Senhora Das Misericordias	1421	Ourem	0101	Agueda	11	LISBOA
+142113	Seica	1421	Ourem	0101	Agueda	11	LISBOA
+142114	Urqueira	1421	Ourem	0101	Agueda	11	LISBOA
+142115	Nossa Senhora da Piedade	1421	Ourem	0101	Agueda	11	LISBOA
+142119	Freixianda, Ribeira do Farrio e Formigais	1421	Ourem	0101	Agueda	11	LISBOA
+142120	Gondemaria e Olival	1421	Ourem	0101	Agueda	12	PORTALEGRE
+142121	Matas e Cercal	1421	Ourem	0101	Agueda	12	PORTALEGRE
+142122	Rio de Couros e Casal Dos Bernardos	1421	Ourem	0101	Agueda	12	PORTALEGRE
+150104	Torrao	1513	Sines	0119	Vale de Cambra	10	LEIRIA
+150105	S. Martinho	1513	Sines	0119	Vale de Cambra	10	LEIRIA
+150106	Comporta	1513	Sines	0119	Vale de Cambra	10	LEIRIA
+150107	Santa Maria do Castelo e Santiago e Santa Susana	1513	Sines	0119	Vale de Cambra	10	LEIRIA
+150201	Alcochete	1513	Sines	0214	Vidigueira	01	AVEIRO
+150202	Samouco	1513	Sines	0214	Vidigueira	01	AVEIRO
+150203	S. Francisco	1513	Sines	0214	Vidigueira	01	AVEIRO
+150303	Costa da Caparica	1513	Sines	0314	Vizela	01	AVEIRO
+150312	Almada, Cova da Piedade, Pragal e Cacilhas	1513	Sines	0314	Vizela	01	AVEIRO
+150313	Caparica e Trafaria	1513	Sines	0314	Vizela	01	AVEIRO
+150314	Charneca de Caparica e Sobreda	1513	Sines	0314	Vizela	01	AVEIRO
+150315	Laranjeiro e Feijo	1513	Sines	0314	Vizela	01	AVEIRO
+150407	Santo Antonio da Charneca	1513	Sines	0412	Vinhais	01	AVEIRO
+150409	Alto do Seixalinho, Santo Andre e Verderena	1513	Sines	0412	Vinhais	01	AVEIRO
+150410	Barreiro e Lavradio	1513	Sines	0412	Vinhais	01	AVEIRO
+150411	Palhais e Coina	1513	Sines	0412	Vinhais	01	AVEIRO
+150501	Azinheira Dos Barros e Sao Mamede do Sadao	1513	Sines	0511	Vila Velha de Rodao	01	AVEIRO
+150503	Melides	1513	Sines	0511	Vila Velha de Rodao	01	AVEIRO
+150505	Carvalhal	1513	Sines	0511	Vila Velha de Rodao	01	AVEIRO
+150506	Grandola e Santa Margarida da Serra	1513	Sines	0511	Vila Velha de Rodao	01	AVEIRO
+150601	Alhos Vedros	1513	Sines	0617	Vila Nova de Poiares	01	AVEIRO
+150603	Moita	1513	Sines	0617	Vila Nova de Poiares	01	AVEIRO
+150607	Baixa da Banheira e Vale da Amoreira	1513	Sines	0617	Vila Nova de Poiares	01	AVEIRO
+150608	Gaio-Rosario e Sarilhos Pequenos	1513	Sines	0617	Vila Nova de Poiares	01	AVEIRO
+150701	Canha	1513	Sines	0714	Vila Vicosa	01	AVEIRO
+150704	Sarilhos Grandes	1513	Sines	0714	Vila Vicosa	01	AVEIRO
+150709	Atalaia e Alto Estanqueiro-Jardia	1513	Sines	0714	Vila Vicosa	01	AVEIRO
+150710	Montijo e Afonsoeiro	1513	Sines	0714	Vila Vicosa	01	AVEIRO
+150711	Pegoes	1513	Sines	0714	Vila Vicosa	01	AVEIRO
+150802	Palmela	1513	Sines	0816	Vila Real de Santo Antonio	01	AVEIRO
+150803	Pinhal Novo	1513	Sines	0816	Vila Real de Santo Antonio	01	AVEIRO
+150804	Quinta do Anjo	1513	Sines	0816	Vila Real de Santo Antonio	01	AVEIRO
+150806	Poceirao e Marateca	1513	Sines	0816	Vila Real de Santo Antonio	01	AVEIRO
+150901	Abela	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150902	Alvalade	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150903	Cercal	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150904	Ermidas-Sado	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150907	Santo Andre	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150910	S. Francisco da Serra	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150912	Santiago do Cacem, S.Cruz e S.Bartolomeu da Serra	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+150913	Sao Domingos e Vale de Agua	1513	Sines	0914	Vila Nova de Foz Coa	01	AVEIRO
+151002	Amora	1513	Sines	1016	Porto de Mos	01	AVEIRO
+151005	Corroios	1513	Sines	1016	Porto de Mos	01	AVEIRO
+151006	Fernao Ferro	1513	Sines	1016	Porto de Mos	01	AVEIRO
+151007	Seixal, Arrentela e Aldeia de Paio Pires	1513	Sines	1016	Porto de Mos	01	AVEIRO
+151101	Sesimbra (Castelo)	1513	Sines	1116	Odivelas	10	LEIRIA
+151102	Sesimbra (Santiago)	1513	Sines	1116	Odivelas	10	LEIRIA
+151103	Quinta do Conde	1513	Sines	1116	Odivelas	10	LEIRIA
+151205	Setubal (S. Sebastiao)	1513	Sines	1215	Sousel	01	AVEIRO
+151207	Gambia-Pontes-Alto da Guerra	1513	Sines	1215	Sousel	01	AVEIRO
+151208	Sado	1513	Sines	1215	Sousel	01	AVEIRO
+151209	Azeitao (Sao Lourenco e Sao Simao)	1513	Sines	1215	Sousel	01	AVEIRO
+151210	S.Juliao, N.S. da Anunciada e S.Maria da Graca	1513	Sines	1215	Sousel	01	AVEIRO
+151301	Sines	1513	Sines	1318	Trofa	01	AVEIRO
+151302	Porto Covo	1513	Sines	1318	Trofa	01	AVEIRO
+160101	Aboim Das Chocas	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160102	Aguia	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160104	Azere	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160105	Cabana Maior	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160106	Cabreiro	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160108	Cendufe	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160109	Couto	1610	Vila Nova de Cerveira	0119	Vale de Cambra	10	LEIRIA
+160113	Gavieira	1610	Vila Nova de Cerveira	0119	Vale de Cambra	11	LISBOA
+160115	Gondoriz	1610	Vila Nova de Cerveira	0119	Vale de Cambra	11	LISBOA
+160121	Miranda	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160122	Monte Redondo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160123	Oliveira	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160124	Paco	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160125	Padroso	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160128	Prozelo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	12	PORTALEGRE
+160130	Rio Frio	1610	Vila Nova de Cerveira	0119	Vale de Cambra	13	PORTO
+160131	Rio de Moinhos	1610	Vila Nova de Cerveira	0119	Vale de Cambra	13	PORTO
+160133	Sabadim	1610	Vila Nova de Cerveira	0119	Vale de Cambra	13	PORTO
+160142	Jolda (S. Paio)	1610	Vila Nova de Cerveira	0119	Vale de Cambra	14	SANTAREM
+160144	Senharei	1610	Vila Nova de Cerveira	0119	Vale de Cambra	14	SANTAREM
+160145	Sistelo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	14	SANTAREM
+160146	Soajo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	14	SANTAREM
+160149	Vale	1610	Vila Nova de Cerveira	0119	Vale de Cambra	14	SANTAREM
+160152	Alvora e Loureda	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160153	Arcos de Valdevez (Sao Paio) e Giela	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160154	Salvador, Vila Fonche e Parada	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160155	Eiras e Mei	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160156	Grade e Carralcova	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160157	Guilhadeses e Santar	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160158	Jolda (Madalena) e Rio Cabrao	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160159	Padreiro (Salvador e Santa Cristina)	1610	Vila Nova de Cerveira	0119	Vale de Cambra	15	SETUBAL
+160160	Portela e Extremo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	16	VIANA DO CASTELO
+160161	Sao Jorge e Ermelo	1610	Vila Nova de Cerveira	0119	Vale de Cambra	16	VIANA DO CASTELO
+160162	Souto e Tabaco	1610	Vila Nova de Cerveira	0119	Vale de Cambra	16	VIANA DO CASTELO
+160163	Tavora (Santa Maria e Sao Vicente)	1610	Vila Nova de Cerveira	0119	Vale de Cambra	16	VIANA DO CASTELO
+160164	Vilela, Sao Cosme e Sao Damiao e Sa	1610	Vila Nova de Cerveira	0119	Vale de Cambra	16	VIANA DO CASTELO
+160201	Ancora	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160205	Argela	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160209	Dem	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160211	Lanhelas	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160214	Riba de Ancora	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160215	Seixas	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160217	Vila Praia de Ancora	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160218	Vilar de Mouros	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160220	Vile	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160221	Arga (Baixo, Cima e Sao Joao)	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160222	Caminha (Matriz) e Vilarelho	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160223	Gondar e Orbacem	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160224	Moledo e Cristelo	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160225	Venade e Azevedo	1610	Vila Nova de Cerveira	0214	Vidigueira	01	AVEIRO
+160301	Alvaredo	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160304	Cousso	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160305	Cristoval	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160307	Fiaes	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160308	Gave	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160311	Paderne	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160313	Penso	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160317	S. Paio	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160319	Castro Laboreiro e Lamas de Mouro	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160320	Chaviaes e Pacos	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160321	Parada do Monte e Cubalhao	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160322	Prado e Remoaes	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160323	Vila e Roussas	1610	Vila Nova de Cerveira	0314	Vizela	01	AVEIRO
+160401	Abedim	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160404	Barbeita	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160405	Barrocas e Taias	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160406	Bela	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160407	Cambeses	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160410	Lara	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160411	Longos Vales	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160415	Merufe	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160418	Moreira	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160420	Pias	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160421	Pinheiros	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160422	Podame	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160423	Portela	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160424	Riba de Mouro	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160427	Segude	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160428	Tangil	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160431	Trute	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160434	Anhoes e Luzio	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160435	Ceivaes e Badim	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160436	Mazedo e Cortes	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160437	Messegaes, Valadares e Sa	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160438	Moncao e Troviscoso	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160439	Sago, Lordelo e Parada	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160440	Troporiz e Lapela	1610	Vila Nova de Cerveira	0412	Vinhais	01	AVEIRO
+160501	Agualonga	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160503	Castanheira	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160505	Coura	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160507	Cunha	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160510	Infesta	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160513	Mozelos	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160514	Padornelo	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160515	Parada	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160519	Romarigaes	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160520	Rubiaes	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160521	Vascoes	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160522	Bico e Cristelo	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160523	Cossourado e Linhares	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160524	Formariz e Ferreira	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160525	Insalde e Porreiras	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160526	Paredes de Coura e Resende	1610	Vila Nova de Cerveira	0511	Vila Velha de Rodao	01	AVEIRO
+160601	Azias	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160602	Boivaes	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160603	Bravaes	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160604	Britelo	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160606	Cuide de Vila Verde	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160611	Lavradas	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160612	Lindoso	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160613	Nogueira	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160614	Oleiros	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160619	Sampriz	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160623	Vade (S. Pedro)	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160624	Vade (S. Tome)	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160626	Crasto, Ruivos e Grovelas	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160627	Entre Ambos-Os-Rios, Ermida e Germil	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160628	Ponte da Barca, V.N. Muia, Paco Vedro Magalhaes	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160629	Touvedo (Sao Lourenco e Salvador)	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160630	Vila Cha (Sao Joao Baptista e Santiago)	1610	Vila Nova de Cerveira	0617	Vila Nova de Poiares	01	AVEIRO
+160701	Anais	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160703	Sao Pedro de Arcos	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160704	Arcozelo	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160707	Beiral do Lima	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160708	Bertiandos	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160709	Boalhosa	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160710	Brandara	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160713	Calheiros	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160714	Calvelo	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160716	Correlha	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160717	Estoraos	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160718	Facha	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160719	Feitosa	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160721	Fontao	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160724	Friastelas	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160726	Gandra	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160727	Gemieira	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160728	Gondufe	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160729	Labruja	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160734	Poiares	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160737	Refoios do Lima	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160739	Ribeira	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160740	Sa	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160742	Santa Comba	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160743	Santa Cruz do Lima	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160744	Rebordoes (Santa Maria)	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160745	Seara	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160746	Serdedelo	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160747	Rebordoes (Souto)	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160750	Vitorino Das Donas	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160752	Arca e Ponte de Lima	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160753	Ardegao, Freixo e Mato	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160754	Associacao de Freguesias do Vale do Neiva	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160755	Barrio e Cepoes	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160756	Cabacos e Fojo Lobal	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160757	Cabracao e Moreira do Lima	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160758	Fornelos e Queijada	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160759	Labrujo, Rendufe e Vilar do Monte	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160760	Navio e Vitorino Dos Piaes	1610	Vila Nova de Cerveira	0714	Vila Vicosa	01	AVEIRO
+160802	Boivao	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160803	Cerdal	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160805	Fontoura	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160806	Friestas	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160808	Ganfei	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160812	S. Pedro da Torre	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160816	Verdoejo	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160817	Gandra e Taiao	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160818	Gondomil e Sanfins	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160819	Sao Juliao e Silva	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160820	Valenca, Cristelo Covo e Arao	1610	Vila Nova de Cerveira	0816	Vila Real de Santo Antonio	01	AVEIRO
+160901	Afife	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160902	Alvaraes	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160903	Amonde	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160904	Vila Nova de Anha	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160905	Areosa	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160908	Carreco	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160910	Castelo do Neiva	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160911	Darque	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160914	Freixieiro de Soutelo	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160915	Lanheses	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160920	Montaria	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160922	Mujaes	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160923	Sao Romao de Neiva	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160925	Outeiro	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160926	Perre	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160928	Santa Marta de Portuzelo	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160935	Vila Franca	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160938	Vila de Punhe	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160940	Chafe	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160941	Barroselas e Carvoeiro	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160942	Cardielos e Serreleis	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160943	Geraz do Lima (S.Maria, S.Leocadia, Moreira), Deao	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160944	Mazarefes e Vila Fria	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160945	Nogueira, Meixedo e Vilar de Murteda	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160946	Subportela, Deocriste e Portela Susa	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160947	Torre e Vila Mou	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+160948	Santa Maria Maior e Monserrate e Meadela	1610	Vila Nova de Cerveira	0914	Vila Nova de Foz Coa	01	AVEIRO
+161003	Cornes	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161004	Covas	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161006	Gondarem	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161007	Loivo	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161009	Mentrestido	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161012	Sapardos	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161013	Sopo	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161016	Campos e Vila Mea	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161017	Candemil e Gondar	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161018	Reboreda e Nogueira	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+161019	Vila Nova de Cerveira e Lovelhe	1610	Vila Nova de Cerveira	1016	Porto de Mos	01	AVEIRO
+170101	Alijo	1714	Vila Real	0119	Vale de Cambra	10	LEIRIA
+170107	Favaios	1714	Vila Real	0119	Vale de Cambra	10	LEIRIA
+170108	Pegarinhos	1714	Vila Real	0119	Vale de Cambra	10	LEIRIA
+170109	Pinhao	1714	Vila Real	0119	Vale de Cambra	10	LEIRIA
+170112	Sanfins do Douro	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170113	Santa Eugenia	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170114	S. Mamede de Ribatua	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170116	Vila Cha	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170117	Vila Verde	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170118	Vilar de Macada	1714	Vila Real	0119	Vale de Cambra	11	LISBOA
+170120	Carlao e Amieiro	1714	Vila Real	0119	Vale de Cambra	12	PORTALEGRE
+170121	Castedo e Cotas	1714	Vila Real	0119	Vale de Cambra	12	PORTALEGRE
+170122	Populo e Ribalonga	1714	Vila Real	0119	Vale de Cambra	12	PORTALEGRE
+170123	Vale Mendiz, Casal Loivos, Vilarinho Cotas	1714	Vila Real	0119	Vale de Cambra	12	PORTALEGRE
+170203	Beca	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170208	Covas do Barroso	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170210	Dornelas	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170213	Pinho	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170215	Sapiaos	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170217	Alturas do Barroso e Cerdedo	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170218	Ardaos e Bobadela	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170219	Boticas e Granja	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170220	Codessoso, Curros e Fiaes do Tamega	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170221	Vilar e Viveiro	1714	Vila Real	0214	Vidigueira	01	AVEIRO
+170301	Aguas Frias	1714	Vila Real	0314	Vizela	01	AVEIRO
+170302	Anelhe	1714	Vila Real	0314	Vizela	01	AVEIRO
+170305	Bustelo	1714	Vila Real	0314	Vizela	01	AVEIRO
+170309	Cimo de Vila da Castanheira	1714	Vila Real	0314	Vizela	01	AVEIRO
+170310	Curalha	1714	Vila Real	0314	Vizela	01	AVEIRO
+170312	Ervededo	1714	Vila Real	0314	Vizela	01	AVEIRO
+170313	Faioes	1714	Vila Real	0314	Vizela	01	AVEIRO
+170314	Lama de Arcos	1714	Vila Real	0314	Vizela	01	AVEIRO
+170316	Mairos	1714	Vila Real	0314	Vizela	01	AVEIRO
+170317	Moreiras	1714	Vila Real	0314	Vizela	01	AVEIRO
+170318	Nogueira da Montanha	1714	Vila Real	0314	Vizela	01	AVEIRO
+170320	Oura	1714	Vila Real	0314	Vizela	01	AVEIRO
+170321	Outeiro Seco	1714	Vila Real	0314	Vizela	01	AVEIRO
+170322	Paradela	1714	Vila Real	0314	Vizela	01	AVEIRO
+170324	Redondelo	1714	Vila Real	0314	Vizela	01	AVEIRO
+170327	Sanfins	1714	Vila Real	0314	Vizela	01	AVEIRO
+170329	Santa Leocadia	1714	Vila Real	0314	Vizela	01	AVEIRO
+170330	Santo Antonio de Monforte	1714	Vila Real	0314	Vizela	01	AVEIRO
+170331	Santo Estevao	1714	Vila Real	0314	Vizela	01	AVEIRO
+170333	S. Pedro de Agostem	1714	Vila Real	0314	Vizela	01	AVEIRO
+170334	S. Vicente	1714	Vila Real	0314	Vizela	01	AVEIRO
+170340	Tronco	1714	Vila Real	0314	Vizela	01	AVEIRO
+170341	Vale de Anta	1714	Vila Real	0314	Vizela	01	AVEIRO
+170343	Vila Verde da Raia	1714	Vila Real	0314	Vizela	01	AVEIRO
+170344	Vilar de Nantes	1714	Vila Real	0314	Vizela	01	AVEIRO
+170345	Vilarelho da Raia	1714	Vila Real	0314	Vizela	01	AVEIRO
+170347	Vilas Boas	1714	Vila Real	0314	Vizela	01	AVEIRO
+170348	Vilela Seca	1714	Vila Real	0314	Vizela	01	AVEIRO
+170349	Vilela do Tamega	1714	Vila Real	0314	Vizela	01	AVEIRO
+170350	Santa Maria Maior	1714	Vila Real	0314	Vizela	01	AVEIRO
+170353	Planalto de Monforte (Oucidres e Bobadela)	1714	Vila Real	0314	Vizela	01	AVEIRO
+170354	Madalena e Samaioes	1714	Vila Real	0314	Vizela	01	AVEIRO
+170355	Eiras, Sao Juliao de Montenegro e Cela	1714	Vila Real	0314	Vizela	01	AVEIRO
+170356	Calvao e Soutelinho da Raia	1714	Vila Real	0314	Vizela	01	AVEIRO
+170357	Loivos e Povoa de Agracoes	1714	Vila Real	0314	Vizela	01	AVEIRO
+170358	Santa Cruz/Trindade e Sanjurge	1714	Vila Real	0314	Vizela	01	AVEIRO
+170359	Soutelo e Seara Velha	1714	Vila Real	0314	Vizela	01	AVEIRO
+170360	Travancas e Roriz	1714	Vila Real	0314	Vizela	01	AVEIRO
+170361	Vidago, Arcosso, Selhariz, Vilarinho Paranheiras	1714	Vila Real	0314	Vizela	01	AVEIRO
+170401	Barqueiros	1714	Vila Real	0412	Vinhais	01	AVEIRO
+170402	Cidadelhe	1714	Vila Real	0412	Vinhais	01	AVEIRO
+170403	Oliveira	1714	Vila Real	0412	Vinhais	01	AVEIRO
+170407	Vila Marim	1714	Vila Real	0412	Vinhais	01	AVEIRO
+170408	Mesao Frio (Santo Andre)	1714	Vila Real	0412	Vinhais	01	AVEIRO
+170501	Atei	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170502	Bilho	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170505	Mondim de Basto	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170508	Vilar de Ferreiros	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170509	Campanho e Paradanca	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170510	Ermelo e Pardelhas	1714	Vila Real	0511	Vila Velha de Rodao	01	AVEIRO
+170601	Cabril	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170603	Cervos	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170604	Cha	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170607	Covelo do Geres	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170609	Ferral	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170612	Gralhas	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170616	Morgade	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170618	Negroes	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170619	Outeiro	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170623	Pitoes Das Junias	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170625	Reigoso	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170626	Salto	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170627	Santo Andre	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170629	Sarraquinhos	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170631	Solveira	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170632	Tourem	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170635	Vila da Ponte	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170636	Cambeses do Rio, Donoes e Mourilhe	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170637	Meixedo e Padornelos	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170638	Montalegre e Padroso	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170639	Paradela, Contim e Fiaes	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170640	Sezelhe e Covelaes	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170641	Venda Nova e Pondras	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170642	Viade de Baixo e Fervidelas	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170643	Vilar de Perdizes e Meixide	1714	Vila Real	0617	Vila Nova de Poiares	01	AVEIRO
+170701	Candedo	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170703	Fiolhoso	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170704	Jou	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170705	Murca	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170708	Valongo de Milhais	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170710	Carva e Vilares	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170711	Noura e Palheiros	1714	Vila Real	0714	Vila Vicosa	01	AVEIRO
+170802	Fontelas	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170805	Loureiro	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170809	Sedielos	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170810	Vilarinho Dos Freires	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170813	Galafura e Covelinhas	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170814	Moura Morta e Vinhos	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170815	Peso da Regua e Godim	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170816	Poiares e Canelas	1714	Vila Real	0816	Vila Real de Santo Antonio	01	AVEIRO
+170901	Alvadia	1714	Vila Real	0914	Vila Nova de Foz Coa	01	AVEIRO
+170902	Canedo	1714	Vila Real	0914	Vila Nova de Foz Coa	01	AVEIRO
+170906	Santa Marinha	1714	Vila Real	0914	Vila Nova de Foz Coa	01	AVEIRO
+170908	Cerva e Limoes	1714	Vila Real	0914	Vila Nova de Foz Coa	01	AVEIRO
+170909	Salvador e Santo Aleixo de Alem-Tamega	1714	Vila Real	0914	Vila Nova de Foz Coa	01	AVEIRO
+171001	Celeiros	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171002	Covas do Douro	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171004	Gouvinhas	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171005	Parada de Pinhao	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171007	Pacos	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171009	Sabrosa	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171011	S. Lourenco de Ribapinhao	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171013	Souto Maior	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171014	Torre do Pinhao	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171015	Vilarinho de S. Romao	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171016	Provesende, Gouvaes Douro, S.Cristovao Douro	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171017	Sao Martinho de Antas e Paradela de Guiaes	1714	Vila Real	1016	Porto de Mos	01	AVEIRO
+171101	Alvacoes do Corgo	1714	Vila Real	1116	Odivelas	10	LEIRIA
+171102	Cumieira	1714	Vila Real	1116	Odivelas	10	LEIRIA
+171103	Fontes	1714	Vila Real	1116	Odivelas	10	LEIRIA
+171106	Medroes	1714	Vila Real	1116	Odivelas	10	LEIRIA
+171110	Sever	1714	Vila Real	1116	Odivelas	11	LISBOA
+171111	Lobrigos (S.Miguel e S.Joao Baptista) e Sanhoane	1714	Vila Real	1116	Odivelas	11	LISBOA
+171112	Louredo e Fornelos	1714	Vila Real	1116	Odivelas	11	LISBOA
+171201	Agua Reves e Crasto	1714	Vila Real	1215	Sousel	01	AVEIRO
+171203	Argeriz	1714	Vila Real	1215	Sousel	01	AVEIRO
+171205	Boucoaes	1714	Vila Real	1215	Sousel	01	AVEIRO
+171206	Canaveses	1714	Vila Real	1215	Sousel	01	AVEIRO
+171209	Ervoes	1714	Vila Real	1215	Sousel	01	AVEIRO
+171211	Fornos do Pinhal	1714	Vila Real	1215	Sousel	01	AVEIRO
+171212	Frioes	1714	Vila Real	1215	Sousel	01	AVEIRO
+171215	Padrela e Tazem	1714	Vila Real	1215	Sousel	01	AVEIRO
+171216	Possacos	1714	Vila Real	1215	Sousel	01	AVEIRO
+171217	Rio Torto	1714	Vila Real	1215	Sousel	01	AVEIRO
+171219	Santa Maria de Emeres	1714	Vila Real	1215	Sousel	01	AVEIRO
+171220	Santa Valha	1714	Vila Real	1215	Sousel	01	AVEIRO
+171221	Santiago de Ribeira de Alhariz	1714	Vila Real	1215	Sousel	01	AVEIRO
+171222	S. Joao da Corveira	1714	Vila Real	1215	Sousel	01	AVEIRO
+171223	S. Pedro de Veiga de Lila	1714	Vila Real	1215	Sousel	01	AVEIRO
+171224	Serapicos	1714	Vila Real	1215	Sousel	01	AVEIRO
+171227	Vales	1714	Vila Real	1215	Sousel	01	AVEIRO
+171229	Vassal	1714	Vila Real	1215	Sousel	01	AVEIRO
+171230	Veiga de Lila	1714	Vila Real	1215	Sousel	01	AVEIRO
+171231	Vilarandelo	1714	Vila Real	1215	Sousel	01	AVEIRO
+171232	Carrazedo de Montenegro e Curros	1714	Vila Real	1215	Sousel	01	AVEIRO
+171233	Lebucao, Fiaes e Nozelos	1714	Vila Real	1215	Sousel	01	AVEIRO
+171234	Sonim e Barreiros	1714	Vila Real	1215	Sousel	01	AVEIRO
+171235	Tinhela e Alvarelhos	1714	Vila Real	1215	Sousel	01	AVEIRO
+171236	Valpacos e Sanfins	1714	Vila Real	1215	Sousel	01	AVEIRO
+171302	Alfarela de Jales	1714	Vila Real	1318	Trofa	01	AVEIRO
+171303	Bornes de Aguiar	1714	Vila Real	1318	Trofa	01	AVEIRO
+171304	Bragado	1714	Vila Real	1318	Trofa	01	AVEIRO
+171305	Capeludos	1714	Vila Real	1318	Trofa	01	AVEIRO
+171310	Soutelo de Aguiar	1714	Vila Real	1318	Trofa	01	AVEIRO
+171311	Teloes	1714	Vila Real	1318	Trofa	01	AVEIRO
+171312	Tresminas	1714	Vila Real	1318	Trofa	01	AVEIRO
+171313	Valoura	1714	Vila Real	1318	Trofa	01	AVEIRO
+171314	Vila Pouca de Aguiar	1714	Vila Real	1318	Trofa	01	AVEIRO
+171315	Vreia de Bornes	1714	Vila Real	1318	Trofa	01	AVEIRO
+171316	Vreia de Jales	1714	Vila Real	1318	Trofa	01	AVEIRO
+171317	Sabroso de Aguiar	1714	Vila Real	1318	Trofa	01	AVEIRO
+171319	Alvao	1714	Vila Real	1318	Trofa	01	AVEIRO
+171320	Pensalvos e Parada de Monteiros	1714	Vila Real	1318	Trofa	01	AVEIRO
+171401	Abacas	1714	Vila Real	1421	Ourem	01	AVEIRO
+171403	Andraes	1714	Vila Real	1421	Ourem	01	AVEIRO
+171404	Arroios	1714	Vila Real	1421	Ourem	01	AVEIRO
+171406	Campea	1714	Vila Real	1421	Ourem	01	AVEIRO
+171409	Folhadela	1714	Vila Real	1421	Ourem	01	AVEIRO
+171410	Guiaes	1714	Vila Real	1421	Ourem	01	AVEIRO
+171414	Lordelo	1714	Vila Real	1421	Ourem	01	AVEIRO
+171415	Mateus	1714	Vila Real	1421	Ourem	01	AVEIRO
+171416	Mondroes	1714	Vila Real	1421	Ourem	01	AVEIRO
+171420	Parada de Cunhos	1714	Vila Real	1421	Ourem	01	AVEIRO
+171426	Torgueda	1714	Vila Real	1421	Ourem	01	AVEIRO
+171429	Vila Marim	1714	Vila Real	1421	Ourem	01	AVEIRO
+171431	Adoufe e Vilarinho de Samarda	1714	Vila Real	1421	Ourem	01	AVEIRO
+171432	Borbela e Lamas de Olo	1714	Vila Real	1421	Ourem	01	AVEIRO
+171433	Constantim e Vale de Nogueiras	1714	Vila Real	1421	Ourem	01	AVEIRO
+171434	Moucos e Lamares	1714	Vila Real	1421	Ourem	01	AVEIRO
+171435	Nogueira e Ermida	1714	Vila Real	1421	Ourem	01	AVEIRO
+171436	Pena, Quinta e Vila Cova	1714	Vila Real	1421	Ourem	01	AVEIRO
+171437	Sao Tome do Castelo e Justes	1714	Vila Real	1421	Ourem	01	AVEIRO
+171438	Nossa Senhora da Conceicao, Sao Pedro e Sao Dinis	1714	Vila Real	1421	Ourem	01	AVEIRO
+180101	Aldeias	1824	Vouzel	0119	Vale de Cambra	10	LEIRIA
+180104	Cimbres	1824	Vouzel	0119	Vale de Cambra	10	LEIRIA
+180106	Folgosa	1824	Vouzel	0119	Vale de Cambra	10	LEIRIA
+180107	Fontelo	1824	Vouzel	0119	Vale de Cambra	10	LEIRIA
+180109	Queimada	1824	Vouzel	0119	Vale de Cambra	10	LEIRIA
+180110	Queimadela	1824	Vouzel	0119	Vale de Cambra	11	LISBOA
+180111	Santa Cruz	1824	Vouzel	0119	Vale de Cambra	11	LISBOA
+180114	S. Cosmado	1824	Vouzel	0119	Vale de Cambra	11	LISBOA
+180115	S. Martinho Das Chas	1824	Vouzel	0119	Vale de Cambra	11	LISBOA
+180118	Vacalar	1824	Vouzel	0119	Vale de Cambra	11	LISBOA
+180120	Armamar	1824	Vouzel	0119	Vale de Cambra	12	PORTALEGRE
+180121	Aricera e Goujoim	1824	Vouzel	0119	Vale de Cambra	12	PORTALEGRE
+180122	Sao Romao e Santiago	1824	Vouzel	0119	Vale de Cambra	12	PORTALEGRE
+180123	Vila Seca e Santo Adriao	1824	Vouzel	0119	Vale de Cambra	12	PORTALEGRE
+180201	Beijos	1824	Vouzel	0214	Vidigueira	01	AVEIRO
+180202	Cabanas de Viriato	1824	Vouzel	0214	Vidigueira	01	AVEIRO
+180204	Oliveira do Conde	1824	Vouzel	0214	Vidigueira	01	AVEIRO
+180206	Parada	1824	Vouzel	0214	Vidigueira	01	AVEIRO
+180208	Currelos, Papizios e Sobral	1824	Vouzel	0214	Vidigueira	01	AVEIRO
+180301	Almofala	1824	Vouzel	0314	Vizela	01	AVEIRO
+180303	Cabril	1824	Vouzel	0314	Vizela	01	AVEIRO
+180304	Castro Daire	1824	Vouzel	0314	Vizela	01	AVEIRO
+180305	Cujo	1824	Vouzel	0314	Vizela	01	AVEIRO
+180309	Gosende	1824	Vouzel	0314	Vizela	01	AVEIRO
+180312	Moes	1824	Vouzel	0314	Vizela	01	AVEIRO
+180313	Moledo	1824	Vouzel	0314	Vizela	01	AVEIRO
+180314	Monteiras	1824	Vouzel	0314	Vizela	01	AVEIRO
+180317	Pepim	1824	Vouzel	0314	Vizela	01	AVEIRO
+180319	Pinheiro	1824	Vouzel	0314	Vizela	01	AVEIRO
+180322	S. Joaninho	1824	Vouzel	0314	Vizela	01	AVEIRO
+180323	Mamouros, Alva e Ribolhos	1824	Vouzel	0314	Vizela	01	AVEIRO
+180324	Mezio e Moura Morta	1824	Vouzel	0314	Vizela	01	AVEIRO
+180325	Parada de Ester e Ester	1824	Vouzel	0314	Vizela	01	AVEIRO
+180326	Picao e Ermida	1824	Vouzel	0314	Vizela	01	AVEIRO
+180327	Reriz e Gafanhao	1824	Vouzel	0314	Vizela	01	AVEIRO
+180403	Cinfaes	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180404	Espadanedo	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180405	Ferreiros de Tendais	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180406	Fornelos	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180408	Moimenta	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180409	Nespereira	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180410	Oliveira do Douro	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180412	Santiago de Piaes	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180413	S. Cristovao de Nogueira	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180414	Souselo	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180415	Tarouquela	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180416	Tendais	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180417	Travanca	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180418	Alhoes, Bustelo, Gralheira e Ramires	1824	Vouzel	0412	Vinhais	01	AVEIRO
+180502	Avoes	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180504	Britiande	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180505	Cambres	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180507	Ferreirim	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180508	Ferreiros de Avoes	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180509	Figueira	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180510	Lalim	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180511	Lazarim	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180516	Penajoia	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180517	Penude	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180519	Samodaes	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180520	Sande	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180523	Varzea de Abrunhais	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180524	Vila Nova de Souto D El-Rei	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180525	Lamego (Almacave e Se)	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180526	Bigorne, Magueija e Pretarouca	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180527	Cepoes, Meijinhos e Melcoes	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180528	Parada do Bispo e Valdigem	1824	Vouzel	0511	Vila Velha de Rodao	01	AVEIRO
+180601	Abrunhosa-A-Velha	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180602	Alcafache	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180605	Cunha Baixa	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180606	Espinho	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180607	Fornos de Maceira Dao	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180608	Freixiosa	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180614	Quintela de Azurara	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180616	S. Joao da Fresta	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180619	Mangualde, Mesquitela e Cunha Alta	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180620	Moimenta de Maceira Dao e Lobelhe do Mato	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180621	Santiago de Cassurraes e Povoa de Cervaes	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180622	Tavares (Chas, Varzea e Travanca)	1824	Vouzel	0617	Vila Nova de Poiares	01	AVEIRO
+180702	Alvite	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180703	Arcozelos	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180705	Baldos	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180706	Cabacos	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180707	Caria	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180708	Castelo	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180709	Leomil	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180710	Moimenta da Beira	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180713	Passo	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180716	Rua	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180717	Sarzedo	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180719	Sever	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180720	Vilar	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180721	Paradinha e Nagosa	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180722	Pera Velha, Aldeia de Nacomba e Ariz	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180723	Peva e Segoes	1824	Vouzel	0714	Vila Vicosa	01	AVEIRO
+180802	Cercosa	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180804	Espinho	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180805	Marmeleira	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180807	Pala	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180808	Sobral	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180809	Trezoi	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180811	Mortagua, Vale de Remigio, Cortegaca e Almaca	1824	Vouzel	0816	Vila Real de Santo Antonio	01	AVEIRO
+180901	Canas de Senhorim	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180903	Nelas	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180905	Senhorim	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180906	Vilar Seco	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180908	Lapa do Lobo	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180910	Carvalhal Redondo e Aguieira	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+180911	Santar e Moreira	1824	Vouzel	0914	Vila Nova de Foz Coa	01	AVEIRO
+181002	Arcozelo Das Maias	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181005	Pinheiro	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181007	Ribeiradio	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181008	S. Joao da Serra	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181009	S. Vicente de Lafoes	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181013	Arca e Varzielas	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181014	Destriz e Reigoso	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181015	Oliveira de Frades, Souto de Lafoes e Sejaes	1824	Vouzel	1016	Porto de Mos	01	AVEIRO
+181102	Castelo de Penalva	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181103	Esmolfe	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181104	Germil	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181105	Insua	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181106	Lusinde	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181109	Pindo	1824	Vouzel	1116	Odivelas	10	LEIRIA
+181110	Real	1824	Vouzel	1116	Odivelas	11	LISBOA
+181111	Sezures	1824	Vouzel	1116	Odivelas	11	LISBOA
+181112	Trancozelos	1824	Vouzel	1116	Odivelas	11	LISBOA
+181114	Antas e Matela	1824	Vouzel	1116	Odivelas	11	LISBOA
+181115	Vila Cova do Covelo/Mareco	1824	Vouzel	1116	Odivelas	11	LISBOA
+181202	Beselga	1824	Vouzel	1215	Sousel	01	AVEIRO
+181203	Castainco	1824	Vouzel	1215	Sousel	01	AVEIRO
+181207	Penela da Beira	1824	Vouzel	1215	Sousel	01	AVEIRO
+181208	Povoa de Penela	1824	Vouzel	1215	Sousel	01	AVEIRO
+181209	Souto	1824	Vouzel	1215	Sousel	01	AVEIRO
+181210	Antas e Ourozinho	1824	Vouzel	1215	Sousel	01	AVEIRO
+181211	Penedono e Granja	1824	Vouzel	1215	Sousel	01	AVEIRO
+181302	Barro	1824	Vouzel	1318	Trofa	01	AVEIRO
+181303	Carquere	1824	Vouzel	1318	Trofa	01	AVEIRO
+181310	Paus	1824	Vouzel	1318	Trofa	01	AVEIRO
+181311	Resende	1824	Vouzel	1318	Trofa	01	AVEIRO
+181312	S. Cipriano	1824	Vouzel	1318	Trofa	01	AVEIRO
+181313	S. Joao de Fontoura	1824	Vouzel	1318	Trofa	01	AVEIRO
+181314	S. Martinho de Mouros	1824	Vouzel	1318	Trofa	01	AVEIRO
+181316	Anreade e Sao Romao de Aregos	1824	Vouzel	1318	Trofa	01	AVEIRO
+181317	Felgueiras e Feirao	1824	Vouzel	1318	Trofa	01	AVEIRO
+181318	Freigil e Miomaes	1824	Vouzel	1318	Trofa	01	AVEIRO
+181319	Ovadas e Panchorra	1824	Vouzel	1318	Trofa	01	AVEIRO
+181403	Pinheiro de Azere	1824	Vouzel	1421	Ourem	01	AVEIRO
+181405	S. Joaninho	1824	Vouzel	1421	Ourem	01	AVEIRO
+181406	S. Joao de Areias	1824	Vouzel	1421	Ourem	01	AVEIRO
+181410	Ovoa e Vimieiro	1824	Vouzel	1421	Ourem	01	AVEIRO
+181411	Santa Comba Dao e Couto do Mosteiro	1824	Vouzel	1421	Ourem	01	AVEIRO
+181412	Treixedo e Nagozela	1824	Vouzel	1421	Ourem	01	AVEIRO
+181501	Castanheiro do Sul	1824	Vouzel	1513	Sines	01	AVEIRO
+181502	Ervedosa do Douro	1824	Vouzel	1513	Sines	01	AVEIRO
+181504	Nagozelo do Douro	1824	Vouzel	1513	Sines	01	AVEIRO
+181505	Paredes da Beira	1824	Vouzel	1513	Sines	01	AVEIRO
+181507	Riodades	1824	Vouzel	1513	Sines	01	AVEIRO
+181509	Soutelo do Douro	1824	Vouzel	1513	Sines	01	AVEIRO
+181511	Vale de Figueira	1824	Vouzel	1513	Sines	01	AVEIRO
+181512	Valongo Dos Azeites	1824	Vouzel	1513	Sines	01	AVEIRO
+181515	Sao Joao da Pesqueira e Varzea de Trevoes	1824	Vouzel	1513	Sines	01	AVEIRO
+181516	Trevoes e Espinhosa	1824	Vouzel	1513	Sines	01	AVEIRO
+181517	Vilarouco e Pereiros	1824	Vouzel	1513	Sines	01	AVEIRO
+181602	Bordonhos	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181606	Figueiredo de Alva	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181607	Manhouce	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181608	Pindelo Dos Milagres	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181609	Pinho	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181612	S. Felix	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181615	Serrazes	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181616	Sul	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181617	Valadares	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181619	Vila Maior	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181620	Carvalhais e Candal	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181621	Santa Cruz da Trapa e Sao Cristovao de Lafoes	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181622	Sao Martinho Das Moitas e Covas do Rio	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181623	Sao Pedro do Sul, Varzea e Baioes	1824	Vouzel	1610	Vila Nova de Cerveira	01	AVEIRO
+181702	Avelal	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181704	Ferreira de Aves	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181706	Mioma	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181707	Rio de Moinhos	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181709	S. Miguel de Vila Boa	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181710	Satao	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181711	Silva de Cima	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181713	Aguas Boas e Forles	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181714	Romas, Decermilo e Vila Longa	1824	Vouzel	1714	Vila Real	01	AVEIRO
+181801	Arnas	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181802	Carregal	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181803	Chosendo	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181804	Cunha	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181806	Faia	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181810	Granjal	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181811	Lamosa	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181814	Quintela	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181817	Vila da Ponte	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181818	Ferreirim e Macieira	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181819	Fonte Arcada e Escurquela	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181820	Penso e Freixinho	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181821	Sernancelhe e Sarzeda	1824	Vouzel	1824	Vouzel	01	AVEIRO
+181901	Adorigo	1824	Vouzel	0101	Agueda	01	AVEIRO
+181902	Arcos	1824	Vouzel	0101	Agueda	01	AVEIRO
+181904	Chavaes	1824	Vouzel	0101	Agueda	01	AVEIRO
+181905	Desejosa	1824	Vouzel	0101	Agueda	01	AVEIRO
+181906	Granja do Tedo	1824	Vouzel	0101	Agueda	01	AVEIRO
+181908	Longa	1824	Vouzel	0101	Agueda	01	AVEIRO
+181913	Sendim	1824	Vouzel	0101	Agueda	01	AVEIRO
+181914	Tabuaco	1824	Vouzel	0101	Agueda	01	AVEIRO
+181917	Valenca do Douro	1824	Vouzel	0101	Agueda	01	AVEIRO
+181918	Barcos e Santa Leocadia	1824	Vouzel	0101	Agueda	01	AVEIRO
+181919	Paradela e Granjinha	1824	Vouzel	0101	Agueda	01	AVEIRO
+181920	Pinheiros e Vale de Figueira	1824	Vouzel	0101	Agueda	01	AVEIRO
+181921	Tavora e Pereiro	1824	Vouzel	0101	Agueda	01	AVEIRO
+182004	Mondim da Beira	1824	Vouzel	0101	Agueda	01	AVEIRO
+182005	Salzedas	1824	Vouzel	0101	Agueda	01	AVEIRO
+182006	S. Joao de Tarouca	1824	Vouzel	0101	Agueda	01	AVEIRO
+182009	Varzea da Serra	1824	Vouzel	0101	Agueda	01	AVEIRO
+182011	Gouviaes e Ucanha	1824	Vouzel	0101	Agueda	01	AVEIRO
+182012	Granja Nova e Vila Cha da Beira	1824	Vouzel	0101	Agueda	01	AVEIRO
+182013	Tarouca e Dalvares	1824	Vouzel	0101	Agueda	01	AVEIRO
+182102	Campo de Besteiros	1824	Vouzel	0101	Agueda	10	LEIRIA
+182103	Canas de Santa Maria	1824	Vouzel	0101	Agueda	10	LEIRIA
+182105	Casteloes	1824	Vouzel	0101	Agueda	10	LEIRIA
+182106	Dardavaz	1824	Vouzel	0101	Agueda	10	LEIRIA
+182107	Ferreiros do Dao	1824	Vouzel	0101	Agueda	10	LEIRIA
+182108	Guardao	1824	Vouzel	0101	Agueda	10	LEIRIA
+182109	Lajeosa do Dao	1824	Vouzel	0101	Agueda	10	LEIRIA
+182110	Lobao da Beira	1824	Vouzel	0101	Agueda	11	LISBOA
+182111	Molelos	1824	Vouzel	0101	Agueda	11	LISBOA
+182116	Parada de Gonta	1824	Vouzel	0101	Agueda	11	LISBOA
+182118	Santiago de Besteiros	1824	Vouzel	0101	Agueda	11	LISBOA
+182122	Tonda	1824	Vouzel	0101	Agueda	12	PORTALEGRE
+182127	Barreiro de Besteiros e Tourigo	1824	Vouzel	0101	Agueda	12	PORTALEGRE
+182128	Caparrosa e Silvares	1824	Vouzel	0101	Agueda	12	PORTALEGRE
+182129	Mouraz e Vila Nova da Rainha	1824	Vouzel	0101	Agueda	12	PORTALEGRE
+182130	Sao Joao do Monte e Mosteirinho	1824	Vouzel	0101	Agueda	13	PORTO
+182131	Sao Miguel do Outeiro e Sabugosa	1824	Vouzel	0101	Agueda	13	PORTO
+182132	Tondela e Nandufe	1824	Vouzel	0101	Agueda	13	PORTO
+182133	Vilar de Besteiros e Mosteiro de Fraguas	1824	Vouzel	0101	Agueda	13	PORTO
+182203	Pendilhe	1824	Vouzel	0101	Agueda	01	AVEIRO
+182204	Queiriga	1824	Vouzel	0101	Agueda	01	AVEIRO
+182205	Touro	1824	Vouzel	0101	Agueda	01	AVEIRO
+182206	Vila Cova A Coelheira	1824	Vouzel	0101	Agueda	01	AVEIRO
+182208	Vila Nova de Paiva, Alhais e Fraguas	1824	Vouzel	0101	Agueda	01	AVEIRO
+182301	Abraveses	1824	Vouzel	0101	Agueda	01	AVEIRO
+182304	Bodiosa	1824	Vouzel	0101	Agueda	01	AVEIRO
+182305	Calde	1824	Vouzel	0101	Agueda	01	AVEIRO
+182306	Campo	1824	Vouzel	0101	Agueda	01	AVEIRO
+182307	Cavernaes	1824	Vouzel	0101	Agueda	01	AVEIRO
+182310	Cota	1824	Vouzel	0101	Agueda	01	AVEIRO
+182315	Fragosela	1824	Vouzel	0101	Agueda	01	AVEIRO
+182316	Lordosa	1824	Vouzel	0101	Agueda	01	AVEIRO
+182317	Silgueiros	1824	Vouzel	0101	Agueda	01	AVEIRO
+182318	Mundao	1824	Vouzel	0101	Agueda	01	AVEIRO
+182319	Orgens	1824	Vouzel	0101	Agueda	01	AVEIRO
+182320	Povolide	1824	Vouzel	0101	Agueda	01	AVEIRO
+182321	Ranhados	1824	Vouzel	0101	Agueda	01	AVEIRO
+182322	Ribafeita	1824	Vouzel	0101	Agueda	01	AVEIRO
+182323	Rio de Loba	1824	Vouzel	0101	Agueda	01	AVEIRO
+182325	Santos Evos	1824	Vouzel	0101	Agueda	01	AVEIRO
+182327	S. Joao de Lourosa	1824	Vouzel	0101	Agueda	01	AVEIRO
+182329	S. Pedro de France	1824	Vouzel	0101	Agueda	01	AVEIRO
+182335	Barreiros e Cepoes	1824	Vouzel	0101	Agueda	01	AVEIRO
+182336	Boa Aldeia, Farminhao e Torredeita	1824	Vouzel	0101	Agueda	01	AVEIRO
+182337	Couto de Baixo e Couto de Cima	1824	Vouzel	0101	Agueda	01	AVEIRO
+182338	Fail e Vila Cha de Sa	1824	Vouzel	0101	Agueda	01	AVEIRO
+182339	Repeses e Sao Salvador	1824	Vouzel	0101	Agueda	01	AVEIRO
+182340	Sao Cipriano e Vil de Souto	1824	Vouzel	0101	Agueda	01	AVEIRO
+182341	Viseu	1824	Vouzel	0101	Agueda	01	AVEIRO
+182401	Alcofra	1824	Vouzel	0101	Agueda	01	AVEIRO
+182403	Campia	1824	Vouzel	0101	Agueda	01	AVEIRO
+182407	Fornelo do Monte	1824	Vouzel	0101	Agueda	01	AVEIRO
+182409	Queira	1824	Vouzel	0101	Agueda	01	AVEIRO
+182410	S. Miguel do Mato	1824	Vouzel	0101	Agueda	01	AVEIRO
+182411	Ventosa	1824	Vouzel	0101	Agueda	01	AVEIRO
+182413	Cambra e Carvalhal de Vermilhas	1824	Vouzel	0101	Agueda	01	AVEIRO
+182414	Fatauncos e Figueiredo Das Donas	1824	Vouzel	0101	Agueda	01	AVEIRO
+182415	Vouzela e Pacos de Vilharigue	1824	Vouzel	0101	Agueda	01	AVEIRO

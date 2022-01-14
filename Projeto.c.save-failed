@@ -1,0 +1,991 @@
+// Bibliotecas Publicas
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <stdbool.h>
+
+// Bibliotecas Pessoasis
+#include "Essentials.h" // Biblioteca Para funcoes genericas
+#include "Lista.h"      // Biblioteca para a lista ligada
+#include "Hash.h"       // Biblioteca para tabela hash
+#include "Texto.h"      // Biblioteca para leitura e gravacao de arquivos
+#include "CssC.h"       // Biblioteca para estilizacao do programa
+
+#define MAX 20   // Quantidade de livros que podem ser requisitados
+#define MAX_S 41 // Tamanho maximo de uma string
+
+// Essentials.h
+extern void limparbuffer();
+extern void pausa();
+extern bool checkDia(int dia, int mes, int ano);
+extern int random_int(int min, int max);
+extern float random_float(float a, float b);
+
+// Texto.h
+extern void logIT(const char *logs);
+extern void limparLogs();
+extern const char *pegarSobrenome(NodeR *P);
+extern void gravarAreas(Lista *L);
+extern void ordenarAreas(Lista *L);
+extern void gravarAreasDesordenadas(Lista *L);
+extern void gravarSobrenomes(Lista *L);
+extern void gravarIdadeAtual(Lista *L);
+extern void lerArqLivros(Lista *L);
+extern void lerArqRequisitantes(Lista *L);
+extern void gravarArquivos(Lista *L);
+
+// Lista.h
+extern Lista *criarLista();
+extern void pushListaLivros(Lista *L, Livros *X);
+extern void pushListaRequisitantes(Lista *L, Requisitantes *X);
+extern Livros *auxPushLivros(Lista *L);
+extern Requisitantes *auxPushRequisitantes(Lista *L);
+extern void mostrarLivrosSingle(Node *P, int i);
+extern void mostrarRequisitantesSingle(NodeR *P, int i);
+extern void mostrarLivros(Lista *L);
+extern void mostrarRequisitantes(Lista *L);
+
+// Hash.h
+extern Hashtable *criarHash();
+
+// Funcao que retorna um ponteiro baseado em um id
+NodeR *idRequisitante(Lista *L)
+{
+    int temp;
+    char c = 'n';
+    NodeR *P = L->headR;
+    printf("\n|| Qual o seu id de cliente ? ");
+    scanf("%d", &temp);
+    while (P)
+    {
+        if (P->infoRequisitantes->id == temp)
+        {
+            printf("|| Seu nome e %s (s/n)? ", P->infoRequisitantes->nome);
+            limparbuffer();
+            scanf("%c", &c);
+            if (c == 's' || c == 'S')
+            {
+                return P;
+            }
+            else
+            {
+                return NULL;
+            }
+        }
+        P = P->next;
+    }
+    printf("\n|| Id de requisitante nao encontrado");
+    return NULL;
+}
+
+// Funcao que mostra as requisicoes de um certo cliente
+void mostrarRequisicoesCliente(Lista *L)
+{
+    if (!L)
+        return;
+    Node *P2 = L->head;
+    NodeR *P = idRequisitante(L);
+    int i, count = 0;
+    if (P == NULL)
+        return;
+    if (L->NELL > 0)
+    {
+        printf("\n|| %s requisitou %d livros:\n", P->infoRequisitantes->nome, P->infoRequisitantes->livrosRequisitados);
+        for (i = 0; i < MAX; i++)
+        {
+            if (P->infoRequisitantes->idLivro[i] != -1)
+            {
+                while (P2)
+                {
+                    if (P2->infoLivros->id == P->infoRequisitantes->idLivro[i])
+                    {
+                        mostrarLivrosSingle(P2, count);
+                        break;
+                    }
+                    count++;
+                    P2 = P2->next;
+                }
+                P2 = L->head;
+            }
+        }
+        printf("\n|| --------------------------\n");
+    }
+}
+
+// Mostrar um requisitante que nunca pediu nada
+void mostrarRequisitroesSemReq(Lista *L)
+{
+    if (!L)
+        return;
+    NodeR *P = L->headR;
+    int i, count = 0, count2 = 0;
+    while (P)
+    {
+        for (i = 0; i < MAX; i++)
+        {
+            if (P->infoRequisitantes->idLivro[i] == -1)
+                count++;
+        }
+        if (count == MAX)
+        {
+            printf("\n|| O requisitante: %d", P->infoRequisitantes->id);
+            printf("\n|| Nome: %s", P->infoRequisitantes->nome);
+            printf("\n|| Nunca requisitou nada");
+            printf("\n");
+        }
+        else
+            count2++;
+        P = P->next;
+    }
+    if (count2 == L->NELR)
+        printf("\n|| Todos os requisitantes requisitaram um livro\n");
+}
+
+// Funcao que retorna a idade atual do requisitante
+int idadeAtual(NodeR *P)
+{
+    time_t mytime;
+    mytime = time(NULL);
+    struct tm hr = *localtime(&mytime);
+    return ((1900 + hr.tm_year) - P->infoRequisitantes->idade.ano);
+}
+
+// Funcao para requisitar um livro por parte do cliente
+void requisitarLivrosCliente(Lista *L)
+{
+    int temp = -1;
+    int i;
+    NodeR *P = idRequisitante(L);
+    bool sucesso = false;
+    if (P == NULL)
+        return;
+    for (i = 0; i < MAX; i++)
+    {
+        if (P->infoRequisitantes->idLivro[i] == -1)
+        {
+            temp = i;
+            break;
+        }
+    }
+    if (temp == -1)
+    {
+        printf("\n|| Voce tem o maximo de livros requisitados");
+    }
+    else
+    {
+        printf("\n|| Voce deseja requitar qual livro (Digite um id de livros)? ");
+        scanf("%d", &P->infoRequisitantes->idLivro[temp]);
+        P->infoRequisitantes->livrosRequisitados++;
+        sucesso = true;
+    }
+    if (sucesso == true)
+    {
+        printf("\n|| Livro requisitado com sucesso");
+        logIT("Livro requisitado");
+    }
+    else
+    {
+        printf("\n|| Falha em requisitar o livro");
+    }
+}
+
+// Funcao que devolve os livros
+void devolverLivrosCliente(Lista *L)
+{
+    int temp2 = 0;
+    int i;
+    bool sucesso;
+    NodeR *P = idRequisitante(L);
+    if (P == NULL)
+        return;
+    printf("\n|| Voce requisitou um total de %d livros", P->infoRequisitantes->livrosRequisitados);
+    printf("\n|| Digite o id de qual livro voce deseja devolver: ");
+    scanf("%i", &temp2);
+    for (i = 0; i < MAX; i++)
+    {
+        if (P->infoRequisitantes->idLivro[i] == temp2)
+        {
+            P->infoRequisitantes->idLivro[i] = -1;
+            P->infoRequisitantes->livrosRequisitados--;
+            sucesso = true;
+            break;
+        }
+    }
+    if (sucesso == true)
+    {
+        logIT("Livro devolvido");
+        printf("\n|| Livro devolvido com sucesso");
+    }
+    else
+        printf("\n|| Livro nao encontrado nas suas requisicoes");
+}
+
+// Mostra uma pessoa na lista baseado em um id
+void pessoaNaListaPorId(Lista *L)
+{
+    int temp;
+    printf("\n|| Qual o id que voce deseja busar ? ");
+    scanf("%d", &temp);
+    NodeR *P = L->headR;
+    int i = 0;
+    while (P)
+    {
+        if (P->infoRequisitantes->id == temp)
+        {
+            mostrarRequisitantesSingle(P, i);
+            return;
+        }
+        P = P->next;
+        i++;
+    }
+    printf("\n|| Essa pessoa nao existe na lista");
+}
+
+// Mostra um livro na lista baseado em um id
+void livroNaListaPorId(Lista *L)
+{
+    int temp;
+    printf("\n|| Qual o id que voce deseja busar ? ");
+    scanf("%d", &temp);
+    Node *P = L->head;
+    int i = 0;
+    while (P)
+    {
+        if (P->infoLivros->id == temp)
+        {
+            mostrarLivrosSingle(P, i);
+            return;
+        }
+        P = P->next;
+        i++;
+    }
+    printf("\n|| Esse livro nao existe na lista");
+}
+
+// Funcao que determina a maior idade do requisitantes
+NodeR *idadeMaxima(Lista *L)
+{
+    if (!L)
+        return NULL;
+    NodeR *P = L->headR;
+    NodeR *P2 = L->headR;
+    int maior = 0;
+    int n;
+    while (P)
+    {
+        n = idadeAtual(P);
+        if (n > maior)
+        {
+            maior = n;
+            P2 = P;
+        }
+        P = P->next;
+    }
+    return P2;
+}
+
+// Funcao que determina a idade media dos requisitantes
+float idadeMedia(Lista *L)
+{
+    if (!L)
+        return 0.0;
+    NodeR *P = L->headR;
+    float media = 0.0;
+    while (P)
+    {
+        media += idadeAtual(P);
+        P = P->next;
+    }
+    media = media / L->NELR;
+    return media;
+}
+
+// Funcao que determina a quantidad de idades acima de um valor
+int idadeValor(Lista *L)
+{
+    if (!L)
+        return 0;
+    int count = 0, temp = 0;
+    NodeR *P = L->headR;
+    printf("\n|| Digite um numero: ");
+    scanf("%d", &temp);
+    while (P)
+    {
+        if (idadeAtual(P) > temp)
+            count++;
+        P = P->next;
+    }
+    return count;
+}
+
+// Funcao que Verifica se uma pessoa esta na lista por NOME
+bool pessoaNaLista(Lista *L, const char *nome)
+{
+    if (!L)
+        return false;
+    NodeR *P = L->headR;
+    while (P)
+    {
+        if (strcmp(P->infoRequisitantes->nome, nome) == 0)
+        {
+            return true;
+        }
+        P = P->next;
+    }
+    return false;
+}
+
+// Funcao que Verifica se um livro esta na lista por ISBN
+void livroNaLista(Lista *L, const char *isbn)
+{
+    if (!L)
+        return;
+    Node *P = L->head;
+    while (P)
+    {
+        if (strcmp(P->infoLivros->ISBN, isbn) == 0)
+        {
+            printf("\n|| O livro existe na lista");
+            printf("\n|| Sua area e: %s", P->infoLivros->area);
+            return;
+        }
+        P = P->next;
+    }
+    printf("\n|| O livro nao existe na lista");
+}
+
+// Funcao que determina os livros mais recentes
+void livrosMaisRecentes(Lista *L)
+{
+    if (!L)
+        return;
+    Node *P = L->head;
+    time_t mytime;
+    mytime = time(NULL);
+    struct tm hr = *localtime(&mytime);
+    int count = 0;
+    while (P)
+    {
+        if (P->infoLivros->dataDePublicacao.ano >= hr.tm_year + 1898)
+        {
+            printf("\n|| O livro #%d (Id: %d) de %d e recente", count, P->infoLivros->id, P->infoLivros->dataDePublicacao.ano);
+        }
+        P = P->next;
+        count++;
+    }
+}
+
+// Funcao que devolte o requisitante com mais livros
+NodeR *requisitanteComMaislivros(Lista *L)
+{
+    if (!L)
+        return NULL;
+    NodeR *P = L->headR;
+    NodeR *P2 = L->headR;
+    int maior = 0, count = 0;
+    int i;
+    while (P)
+    {
+        count = 0;
+        for (i = 0; i < MAX; i++)
+        {
+            if (P->infoRequisitantes->idLivro[i] != -1)
+            {
+                count++;
+            }
+        }
+        if (count > maior)
+        {
+            P2 = P;
+            maior = count;
+        }
+        P = P->next;
+    }
+    return P2;
+}
+
+// Funcao retorna a idade com mais pessoas
+int idadeComMaisPessoas(Lista *L)
+{
+    FILE *file = fopen("Idades.txt", "r");
+    if (!L)
+        return 0;
+    NodeR *P = L->headR;
+    int tempIdade = 0, i = 0;
+    int count = 0, maior = 0, maiorIdade = 0;
+    int *temp = (int *)malloc(L->NELR * sizeof(int));
+    while (!feof(file))
+    {
+        fscanf(file, "%d", &temp[i]);
+        i++;
+    }
+    for (i = 0; i < L->NELR; i++)
+    {
+        while (P)
+        {
+            tempIdade = idadeAtual(P);
+            if (temp[i] == tempIdade)
+                count++;
+            P = P->next;
+        }
+        if (count > maior)
+        {
+            maior = count;
+            maiorIdade = tempIdade;
+        }
+        count = 0;
+        P = L->headR;
+    }
+    free(temp);
+    fclose(file);
+    return maiorIdade;
+}
+
+// Funcao que retorna o sobrenome mais usado
+const char *sobrenomeMaisUsado(Lista *L)
+{
+    if (!L)
+        return NULL;
+    FILE *file = fopen("Sobrenomes.txt", "r");
+    if (!file)
+        return NULL;
+    NodeR *P = L->headR;
+    Aux *infonome = (Aux *)malloc(L->NELR * sizeof(Aux));
+    char *maiorNome = (char *)malloc(MAX_S * sizeof(char));
+    int i = 0, count = 0, maior = 0;
+    char tempNome[MAX_S];
+    while (!feof(file))
+    {
+        fscanf(file, "%s", infonome[i].aux);
+        i++;
+    }
+    for (i = 0; i < L->NELR; i++)
+    {
+        while (P)
+        {
+            strcpy(tempNome, pegarSobrenome(P));
+            if (strcmp(infonome[i].aux, tempNome) == 0)
+                count++;
+            P = P->next;
+        }
+        if (count > maior)
+        {
+            maior = count;
+            strcpy(maiorNome, tempNome);
+        }
+        count = 0;
+        P = L->headR;
+    }
+    free(infonome);
+    fclose(file);
+    return maiorNome;
+}
+
+// Funcao que retorna a area mais usada
+const char *areaMaisUsada(Lista *L)
+{
+    if (!L)
+        return NULL;
+    FILE *file = fopen("Todas_Areas.txt", "r");
+    if (!file)
+        return NULL;
+    Node *P = L->head;
+    Aux *infoareas = (Aux *)malloc(L->NELL * sizeof(Aux));
+    char *maiorArea = (char *)malloc(MAX_S * sizeof(char));
+    int i = 0, count = 0, maior = 0;
+    char tempArea[MAX_S];
+    while (!feof(file))
+    {
+        fscanf(file, "%s", infoareas[i].aux);
+        i++;
+    }
+    for (i = 0; i < L->NELL; i++)
+    {
+        while (P)
+        {
+            strcpy(tempArea, P->infoLivros->area);
+            if (strcmp(infoareas[i].aux, tempArea) == 0)
+                count++;
+            P = P->next;
+        }
+        if (count > maior)
+        {
+            maior = count;
+            strcpy(maiorArea, tempArea);
+        }
+        count = 0;
+        P = L->head;
+    }
+    free(infoareas);
+    fclose(file);
+    return maiorArea;
+}
+
+// Funcao que devolve a area com mais livros
+const char *areaComMaisLivros(Lista *L)
+{
+    if (!L)
+        return NULL;
+    FILE *file = fopen("Livros_Ordenados.txt", "r");
+    if (!file)
+        return NULL;
+    int *temp = (int *)malloc(L->NELL * sizeof(int));
+    char *maiorArea = (char *)malloc(MAX_S * sizeof(char));
+    int i = 0, count = 0, maior = 0;
+    char tempArea[MAX_S];
+    Node *P = L->head;
+    while (i != L->NELL)
+    {
+        fscanf(file, "%i", &temp[i]);
+        i++;
+    }
+    for (i = 0; i < L->NELL; i++)
+    {
+        if (temp[i] == -2)
+            count = 0;
+        while (P)
+        {
+            strcpy(tempArea, P->infoLivros->area);
+            if (temp[i] == P->infoLivros->id)
+                count++;
+            P = P->next;
+        }
+        if (count > maior)
+        {
+            maior = count;
+            strcpy(maiorArea, tempArea);
+        }
+        P = L->head;
+    }
+    free(temp);
+    fclose(file);
+    return maiorArea;
+}
+
+// Funcao que mostra o livro mais requisitado
+int livroMaisRequisitado(Lista *L)
+{
+    if (!L)
+        return 0;
+    NodeR *P = L->headR;
+    Node *P2 = L->head;
+    int i = 0;
+    int maior = 0, count = 0, maiorId = 0;
+    while (P2)
+    {
+        while (P)
+        {
+            for (i = 0; i < MAX; i++)
+                if (P->infoRequisitantes->livrosRequisitados != 0)
+                    if (P2->infoLivros->id == P->infoRequisitantes->idLivro[i])
+                        count++;
+            P = P->next;
+        }
+        P = L->headR;
+        if (count > maior)
+        {
+            maior = count;
+            maiorId = P2->infoLivros->id;
+        }
+        count = 0;
+        P2 = P2->next;
+    }
+    return maiorId;
+}
+
+// Funcao que retorna quantos de um sobrenome existem em uma cidade
+// void nomePopularEmUmaCidade(Lista *L)
+// {
+//     if (!L)
+//         return;
+//     NodeR *P = L->headR;
+//     char cidade[MAX_S], nome[MAX_S];
+//     int count = 0;
+//     printf("\n|| Digite o nome de uma cidade no sistema: ");
+//     limparbuffer();
+//     // fgets(cidade, sizeof(cidade), stdin); - Esse metodo nao funciona
+//     scanf("%[^\n]", cidade);
+//     printf("|| Digite um sobrenome a buscar: ");
+//     limparbuffer();
+//     // fgets(nome, sizeof(nome), stdin);     - Esse metodo nao funciona
+//     scanf("%[^\n]", nome);
+//     while (P)
+//     {
+//         if (strcmp(P->infoRequisitantes->freguesia, cidade) == 0)
+//         {
+//             if (strcmp(pegarSobrenome(P), nome) == 0)
+//                 count++;
+//         }
+//         P = P->next;
+//     }
+//     printf("\n|| Em %s existem %d pessoas com %s", cidade, count, nome);
+// }
+
+// Menu principal do progrma
+int menuPrincipal()
+{
+    int mani;
+    system("cls");
+    printf("\n|| Escola sua opcao:                           ");
+    printf("\n|| 1 - Menu de manejo de arquivos              ");
+    printf("\n|| 2 - Menu de leitura de dados                ");
+    printf("\n|| 3 - Menu de statisticas                     ");
+    printf("\n|| Escolha sua opcao (0 para sair do progrma): ");
+    scanf("%i", &mani);
+    return mani;
+}
+
+// Menu principal do manejo de itens
+int menuManejo()
+{
+    int mani;
+    system("cls");
+    printf("\n|| Escola sua opcao:                                             ");
+    printf("\n|| 1 - Forcar leitura arquivo dos ficheiros                      ");
+    printf("\n|| 2 - Forcar gravacao dos arquivos                              ");
+    printf("\n|| --------------------------------------------------------------");
+    printf("\n|| 3 - Adcionar um novo livro a lista");
+    printf("\n|| 4 - Adcionar um novo requisitante a lista");
+    printf("\n|| 5 - Efetuar uma requisicao de um livro por parte de uma pessoa");
+    printf("\n|| 6 - Devolver um livro que anteriormente estava requisitado    ");
+    printf("\n|| 7 - Gravar toda a informacao para um dado ficheiro XML        ");
+    printf("\n|| Escolha sua opcao (0 para voltar): ");
+    scanf("%i", &mani);
+    return mani;
+}
+
+// Menu para mostrar informacoes da lista
+int menuMostrar()
+{
+    int mani;
+    system("cls");
+    printf("\n|| Escola sua opcao:                                            ");
+    printf("\n|| 1 - Mostrar todos os livros (organizados por area)           ");
+    printf("\n|| 2 - Mostrar todos os requisitantes                           ");
+    printf("\n|| 3 - Mostrar as requisicoes de um dado requisitante           ");
+    printf("\n|| 4 - Mostrar uma lista das pessoas que nunca requisitaram nada");
+    printf("\n|| 5 - Mostrar requisitante por id                              ");
+    printf("\n|| 6 - Mostrar livro por id                                     ");
+    printf("\n|| Escolha sua opcao (0 para voltar): ");
+    scanf("%i", &mani);
+    return mani;
+}
+
+// Menu para mostrar estatisticas da lista
+int menuEstatistica()
+{
+    int mani;
+    system("cls");
+    printf("\n|| Escola sua opcao:                                                                ");
+    printf("\n|| 1 - Determinar a idade maxima de todas as pessoas                                ");
+    printf("\n|| 2 - Determinar a media das idades de todas as pessoas                            ");
+    printf("\n|| 3 - Determinar qual a area com mais livros                                       ");
+    printf("\n|| 4 - Contar o numero de pessoas cuja idade e superior a um dado valor             ");
+    printf("\n|| 5 - Contar o numero de pessoas de uma dada cidade, que no nome contem outro, nome");
+    printf("\n|| 6 - Verificar se uma pessoa existe na lista, dando o nome                        ");
+    printf("\n|| 7 - Verificar se um dado livro existe (dado o ISBN)                              ");
+    printf("\n|| 8 - Determinar qual a idade com mais requisitantes                               ");
+    printf("\n|| 9 - Ir para o sub-menu                                                           ");
+    printf("\n|| Escolha sua opcao (0 para voltar): ");
+    scanf("%i", &mani);
+    return mani;
+}
+
+// Sub - Menu para mostrar estatisticas da lista
+int menuEstatistica2()
+{
+    int mani;
+    system("cls");
+    printf("\n|| Escola sua opcao:                                                    ");
+    printf("\n|| 1 - Determinar qual(ais) os livros mais recentes                     ");
+    printf("\n|| 2 - Determinar qual o livro mais requisitado                         ");
+    printf("\n|| 3 - Determinar a memoria ocupada por toda a Estrutura de Dados       ");
+    printf("\n|| 4 - Determinar qual area mais requisitada                            ");
+    printf("\n|| 5 - Listar o requisitante que no momento tem mais livros requisitados");
+    printf("\n|| 6 - Determinar qual o sobrenome mais usado pelos requisitantes       ");
+    printf("\n|| Escolha sua opcao (0 para voltar ao menu principal): ");
+    scanf("%i", &mani);
+    return mani;
+}
+
+// Tela Inicial do progrma
+void telaInicial()
+{
+    system("cls");
+    printf("\n||||||||||||||||||||||||||||||||||||||||||||||\n");
+    printf("||||||||||||||||||||||||||||||||||||||||||||||\n");
+    printf("|||||||||||||||||BEM VINDO||||||||||||||||||||\n");
+    printf("||||||||||||||||||||||||||||||||||||||||||||||\n");
+    printf("||||||||||||||||||||||||||||||||||||||||||||||\n\n");
+    printf("|| Todos os dados foram lidos com sucesso");
+    pausa();
+}
+
+// Funcao para destruir arquivos auxiliares
+void freeFiles()
+{
+    system("del Areas.txt");
+    system("del Sobrenomes.txt");
+    system("del Idades.txt");
+    system("del Livros_Ordenados.txt");
+    system("del Todas_Areas.txt");
+}
+
+// Funcao para destruir toda a data
+void freeData(Lista *L)
+{
+    Node *P = L->head;
+    Node *auxLivros = NULL;
+    NodeR *P2 = L->headR;
+    NodeR *auxRequisitantes = NULL;
+    while (P)
+    {
+        auxLivros = P->next;
+        free(P->infoLivros);
+        P = auxLivros;
+    }
+    while (P2)
+    {
+        auxRequisitantes = P2->next;
+        free(P2->infoRequisitantes);
+        P2 = auxRequisitantes;
+    }
+}
+
+void freeLista(Lista *L)
+{
+    free(L);
+}
+
+// Funcao que inicia com o progrma
+void inicio(Lista *L)
+{
+    // leitura e carregamento de arquivos
+    lerArqLivros(L);
+    lerArqRequisitantes(L);
+    // Aquivos de auxilo
+    gravarAreas(L);
+    ordenarAreas(L);
+    gravarAreasDesordenadas(L);
+    gravarSobrenomes(L);
+    gravarIdadeAtual(L);
+    // logs
+    limparLogs();
+    logIT("Programa Iniciado");
+}
+extern int menuPrincipalEstilizado();
+extern int menuEstatisticaEstilizado();
+
+int main()
+{
+    system("color F"); // Define a cor do ecra para branco muito CLARO
+
+    Lista *l = criarLista();
+    if (!l)
+        return 0;
+
+    inicio(l); // Inicializa as estruturas e registra uma entrada no log
+    telaInicial();
+
+    NodeR *P = l->headR; // Para o aparo de algumas informacoes
+
+    int mani = 0;     // Para os menus
+    int mani2 = 0;    // Para o sub menu de Estatistica
+    char temp[MAX_S]; // Para o aparo de algumas informacoes
+
+    do
+    {
+        mani = menuPrincipalEstilizado();
+        switch (mani)
+        {
+        // Menu de manejo
+        case 1:
+            do
+            {
+                mani2 = menuManejo();
+                switch (mani2)
+                {
+                case 1:
+                    lerArqLivros(l);
+                    lerArqRequisitantes(l);
+                    printf("\n|| Arquivos lidos com sucesso");
+                    pausa();
+                    break;
+                case 2:
+                    gravarArquivos(l);
+                    printf("\n|| Dados gravados com sucesso");
+                    pausa();
+                    break;
+                case 3:
+                    pushListaLivros(l, auxPushLivros(l));
+                    ordenarAreas(l);
+                    printf("\n|| Livro adcionado com sucesso");
+                    pausa();
+                    break;
+                case 4:
+                    pushListaRequisitantes(l, auxPushRequisitantes(l));
+                    printf("\n|| Requisitante adcionado com sucesso");
+                    pausa();
+                    break;
+                case 5:
+                    requisitarLivrosCliente(l);
+                    pausa();
+                    break;
+                case 6:
+                    devolverLivrosCliente(l);
+                    pausa();
+                    break;
+                case 7:
+
+                    break;
+                }
+            } while (mani2 > 0);
+            break;
+        // Menu de mostrar
+        case 2:
+            do
+            {
+                mani2 = menuMostrar();
+                switch (mani2)
+                {
+                case 1:
+                    mostrarLivros(l);
+                    pausa();
+                    break;
+                case 2:
+                    mostrarRequisitantes(l);
+                    pausa();
+                    break;
+                case 3:
+                    mostrarRequisicoesCliente(l);
+                    pausa();
+                    break;
+                case 4:
+                    mostrarRequisitroesSemReq(l);
+                    pausa();
+                    break;
+                case 5:
+                    pessoaNaListaPorId(l);
+                    printf("\n");
+                    pausa();
+                    break;
+                case 6:
+                    livroNaListaPorId(l);
+                    printf("\n");
+                    pausa();
+                    break;
+                }
+            } while (mani2 > 0);
+            break;
+        // Menu de estatisticas
+        case 3:
+            do
+            {
+                mani2 = menuEstatisticaEstilizado();
+                switch (mani2)
+                {
+                case 1:
+                    P = idadeMaxima(l);
+                    printf("\n|| A pessoa com a idade maxima e #%d ", P->infoRequisitantes->id);
+                    printf("\n|| Nome: %s", P->infoRequisitantes->nome);
+                    printf("\n|| Esse requisitante tem %d anos\n", idadeAtual(P));
+                    pausa();
+                    break;
+                case 2:
+                    printf("\n|| A idade media dos requisitantes e: %.2f\n", idadeMedia(l));
+                    pausa();
+                    break;
+                case 3:
+                    printf("\n|| A area com mais livros e: %s", areaComMaisLivros(l));
+                    printf("\n");
+                    pausa();
+                    break;
+                case 4:
+                    printf("\n|| Existem %d pessoas com a idade maior a esse numero\n", idadeValor(l));
+                    pausa();
+                    break;
+                case 5:
+                    // nomePopularEmUmaCidade(l);
+                    printf("\n");
+                    pausa();
+                    break;
+                case 6:
+                    printf("\n|| Digite o nome a buscar: ");
+                    limparbuffer();
+                    // fgets(temp, sizeof(temp), stdin);
+                    scanf("%[^\n]", temp);
+                    if (pessoaNaLista(l, temp) == true)
+                        printf("\n|| Essa pessoa existe na lista");
+                    else
+                        printf("\n|| Essa pessoa nao existe na lista");
+                    printf("\n");
+                    pausa();
+                    break;
+                case 7:
+                    printf("\n|| Digite o ISBN a buscar: ");
+                    limparbuffer();
+                    // fgets(temp, sizeof(temp), stdin);
+                    scanf("%[^\n]", temp);
+                    livroNaLista(l, temp);
+                    printf("\n");
+                    pausa();
+                    break;
+                case 8:
+                    printf("\n|| A idade com mais requisitantes e: %d", idadeComMaisPessoas(l));
+                    printf("\n");
+                    pausa();
+                    break;
+                // Sub-menu de estatisticas
+                case 9:
+                    mani2 = menuEstatistica2();
+                    switch (mani2)
+                    {
+                    case 1:
+                        livrosMaisRecentes(l);
+                        printf("\n");
+                        pausa();
+                        break;
+                    case 2:
+                        printf("\n|| O livro mais requisitado e o (id): %d ", livroMaisRequisitado(l));
+                        printf("\n");
+                        pausa();
+                        break;
+                    case 3:
+                        printf("\n|| O tamanho da listas juntas e: %ld", (l->NELL * sizeof(Livros)) + (l->NELR * sizeof(Requisitantes)));
+                        printf("\n|| O tamanho da lista dos livros e: %ld", l->NELL * sizeof(Livros));
+                        printf("\n|| O tamanho da lista dos requisitantes e: %ld\n", l->NELR * sizeof(Requisitantes));
+                        pausa();
+                        break;
+                    case 4:
+                        printf("\n|| A area mais requisitada e: %s ", areaMaisUsada(l));
+                        printf("\n");
+                        pausa();
+                        break;
+                    case 5:
+                        P = requisitanteComMaislivros(l);
+                        printf("\n|| A pessoa com mais livros requisitados e: #%d ", P->infoRequisitantes->id);
+                        printf("\n|| Nome : %s", P->infoRequisitantes->nome);
+                        printf("\n|| Com %d livros requisitados\n", P->infoRequisitantes->livrosRequisitados);
+                        pausa();
+                        break;
+                    case 6:
+                        printf("\n|| O sobrenome mais usado e: %s", sobrenomeMaisUsado(l));
+                        printf("\n");
+                        pausa();
+                        break;
+                    }
+                    break;
+                }
+            } while (mani2 > 0);
+            break;
+        }
+    } while (mani > 0);
+
+    // Liberacao de memorias
+    freeData(l);
+    freeFiles();
+    freeLista(l);
+
+    return 0;
+}
